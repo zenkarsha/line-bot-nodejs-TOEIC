@@ -1,0 +1,12292 @@
+[
+  {
+    "word": "president",
+    "translate": "總裁、董事；首長",
+    "id": 1
+  },
+  {
+    "word": "manager",
+    "translate": "負責人、主任、經理",
+    "id": 2
+  },
+  {
+    "word": "director",
+    "translate": "主管、署長；局長、處長、主任",
+    "id": 3
+  },
+  {
+    "word": "leader",
+    "translate": "領導人",
+    "id": 4
+  },
+  {
+    "word": "receptionist",
+    "translate": "接待員；傳達員",
+    "id": 5
+  },
+  {
+    "word": "representative",
+    "translate": "代表、代理人",
+    "id": 6
+  },
+  {
+    "word": "porter",
+    "translate": "服務員",
+    "id": 7
+  },
+  {
+    "word": "secretary",
+    "translate": "秘書",
+    "id": 8
+  },
+  {
+    "word": "crew",
+    "translate": "全體船員、一組工作人員",
+    "id": 9
+  },
+  {
+    "word": "clerk",
+    "translate": "辦事員、職員、書記、記帳員",
+    "id": 10
+  },
+  {
+    "word": "colleague",
+    "translate": "同事、同僚、同行",
+    "id": 11
+  },
+  {
+    "word": "advisor",
+    "translate": "顧問",
+    "id": 12
+  },
+  {
+    "word": "counselor",
+    "translate": "顧問",
+    "id": 13
+  },
+  {
+    "word": "captain",
+    "translate": "船長",
+    "id": 14
+  },
+  {
+    "word": "staff",
+    "translate": "員工",
+    "id": 15
+  },
+  {
+    "word": "employee",
+    "translate": "員工",
+    "id": 16
+  },
+  {
+    "word": "worker",
+    "translate": "工人",
+    "id": 17
+  },
+  {
+    "word": "member",
+    "translate": "成員",
+    "id": 18
+  },
+  {
+    "word": "employer",
+    "translate": "老闆",
+    "id": 19
+  },
+  {
+    "word": "attendant",
+    "translate": "服務員、侍者、出席者、參加者",
+    "id": 20
+  },
+  {
+    "word": "janitor",
+    "translate": "門警、看門人",
+    "id": 21
+  },
+  {
+    "word": "predecessor",
+    "translate": "前輩",
+    "id": 22
+  },
+  {
+    "word": "assistant",
+    "translate": "助理",
+    "id": 23
+  },
+  {
+    "word": "conductor",
+    "translate": "領導者、管理人、響導",
+    "id": 24
+  },
+  {
+    "word": "operator",
+    "translate": "操作者",
+    "id": 25
+  },
+  {
+    "word": "patron",
+    "translate": "贊助者、資助者",
+    "id": 26
+  },
+  {
+    "word": "advocate",
+    "translate": "提倡者",
+    "id": 27
+  },
+  {
+    "word": "sponsorship",
+    "translate": "資助者",
+    "id": 28
+  },
+  {
+    "word": "investor",
+    "translate": "投資者",
+    "id": 29
+  },
+  {
+    "word": "stockbroker",
+    "translate": "股票(或證券)經紀人",
+    "id": 30
+  },
+  {
+    "word": "plumber",
+    "translate": "管子工、鉛管工",
+    "id": 31
+  },
+  {
+    "word": "carpenter",
+    "translate": "木工、木匠",
+    "id": 32
+  },
+  {
+    "word": "tailor",
+    "translate": "(尤指男裝)裁縫師",
+    "id": 33
+  },
+  {
+    "word": "painter",
+    "translate": "(油)漆工、畫家",
+    "id": 34
+  },
+  {
+    "word": "repairperson",
+    "translate": "維修人員",
+    "id": 35
+  },
+  {
+    "word": "photographer",
+    "translate": "攝影師、照相師",
+    "id": 36
+  },
+  {
+    "word": "architect",
+    "translate": "建築師",
+    "id": 37
+  },
+  {
+    "word": "waiter",
+    "translate": "男服務生",
+    "id": 38
+  },
+  {
+    "word": "waitress",
+    "translate": "女服務生",
+    "id": 39
+  },
+  {
+    "word": "musician",
+    "translate": "音樂家",
+    "id": 40
+  },
+  {
+    "word": "technician",
+    "translate": "技術師",
+    "id": 41
+  },
+  {
+    "word": "artist",
+    "translate": "藝術家",
+    "id": 42
+  },
+  {
+    "word": "diplomat",
+    "translate": "外交官",
+    "id": 43
+  },
+  {
+    "word": "demographer",
+    "translate": "人口統計學家",
+    "id": 44
+  },
+  {
+    "word": "pilot",
+    "translate": "領航員",
+    "id": 45
+  },
+  {
+    "word": "tutor",
+    "translate": "家庭教師、私人教師",
+    "id": 46
+  },
+  {
+    "word": "dentist",
+    "translate": "牙醫",
+    "id": 47
+  },
+  {
+    "word": "bellboy",
+    "translate": "旅館大廳的服務生",
+    "id": 48
+  },
+  {
+    "word": "scientist",
+    "translate": "科學家",
+    "id": 49
+  },
+  {
+    "word": "flight attendant",
+    "translate": "空中服務人員",
+    "id": 50
+  },
+  {
+    "word": "accountant",
+    "translate": "會計師；會計人員",
+    "id": 51
+  },
+  {
+    "word": "teller",
+    "translate": "(銀行)出納員",
+    "id": 52
+  },
+  {
+    "word": "housekeeper",
+    "translate": "管家",
+    "id": 53
+  },
+  {
+    "word": "speaker",
+    "translate": "演講者",
+    "id": 54
+  },
+  {
+    "word": "attendee",
+    "translate": "出席者、在場者",
+    "id": 55
+  },
+  {
+    "word": "audience",
+    "translate": "聽眾、觀眾",
+    "id": 56
+  },
+  {
+    "word": "tourist",
+    "translate": "旅客",
+    "id": 57
+  },
+  {
+    "word": "visitor",
+    "translate": "旅客",
+    "id": 58
+  },
+  {
+    "word": "passenger",
+    "translate": "行人",
+    "id": 59
+  },
+  {
+    "word": "literate",
+    "translate": "有文化修養的人",
+    "id": 60
+  },
+  {
+    "word": "sibling",
+    "translate": "兄弟姐妹",
+    "id": 61
+  },
+  {
+    "word": "civilian",
+    "translate": "平民百姓",
+    "id": 62
+  },
+  {
+    "word": "pensioner",
+    "translate": "領養老金者",
+    "id": 63
+  },
+  {
+    "word": "victim",
+    "translate": "受害者、犧牲者、遇難者",
+    "id": 64
+  },
+  {
+    "word": "elite",
+    "translate": "精華、精英、優秀分子",
+    "id": 65
+  },
+  {
+    "word": "vanguard",
+    "translate": "先鋒",
+    "id": 66
+  },
+  {
+    "word": "immigrant",
+    "translate": "移入者",
+    "id": 67
+  },
+  {
+    "word": "collector",
+    "translate": "收藏家",
+    "id": 68
+  },
+  {
+    "word": "stapler",
+    "translate": "釘書機、小釘書機",
+    "id": 69
+  },
+  {
+    "word": "clip",
+    "translate": "夾、鉗、迴紋",
+    "id": 70
+  },
+  {
+    "word": "brochure",
+    "translate": "小冊子",
+    "id": 71
+  },
+  {
+    "word": "envelope",
+    "translate": "信封",
+    "id": 72
+  },
+  {
+    "word": "notice",
+    "translate": "公告、通知、貼示",
+    "id": 73
+  },
+  {
+    "word": "accessory",
+    "translate": "附件、配件、附加物件",
+    "id": 74
+  },
+  {
+    "word": "memo",
+    "translate": "備忘錄",
+    "id": 75
+  },
+  {
+    "word": "package",
+    "translate": "包裹、包",
+    "id": 76
+  },
+  {
+    "word": "baggage",
+    "translate": "行李(不可數名詞)",
+    "id": 77
+  },
+  {
+    "word": "briefcase",
+    "translate": "公事包",
+    "id": 78
+  },
+  {
+    "word": "suitcase",
+    "translate": "小型旅行箱、手提箱",
+    "id": 79
+  },
+  {
+    "word": "wallet",
+    "translate": "皮夾子、錢包",
+    "id": 80
+  },
+  {
+    "word": "drawer",
+    "translate": "抽屜",
+    "id": 81
+  },
+  {
+    "word": "cabinet",
+    "translate": "櫥、櫃",
+    "id": 82
+  },
+  {
+    "word": "curtain",
+    "translate": "窗簾",
+    "id": 83
+  },
+  {
+    "word": "shelf",
+    "translate": "(書)架子",
+    "id": 84
+  },
+  {
+    "word": "rug",
+    "translate": "小毯",
+    "id": 85
+  },
+  {
+    "word": "carpet",
+    "translate": "地毯",
+    "id": 86
+  },
+  {
+    "word": "vending",
+    "translate": "machine 自動販賣機",
+    "id": 87
+  },
+  {
+    "word": "jewelry",
+    "translate": "珠寶",
+    "id": 88
+  },
+  {
+    "word": "crystal",
+    "translate": "水晶",
+    "id": 89
+  },
+  {
+    "word": "antique",
+    "translate": "古物、古董、古老的",
+    "id": 90
+  },
+  {
+    "word": "souvenir",
+    "translate": "紀念品、紀念物",
+    "id": 91
+  },
+  {
+    "word": "closet",
+    "translate": "壁櫥、碗櫥、衣櫥",
+    "id": 92
+  },
+  {
+    "word": "appliance",
+    "translate": "電器、器具",
+    "id": 93
+  },
+  {
+    "word": "furniture",
+    "translate": "家具(不可數名詞)",
+    "id": 94
+  },
+  {
+    "word": "estate",
+    "translate": "地產、財產",
+    "id": 95
+  },
+  {
+    "word": "property",
+    "translate": "財產、房產、房地產",
+    "id": 96
+  },
+  {
+    "word": "asset",
+    "translate": "財產、資產",
+    "id": 97
+  },
+  {
+    "word": "merchandise",
+    "translate": "商品、貨物",
+    "id": 98
+  },
+  {
+    "word": "inventory",
+    "translate": "存貨清單、存貨盤存",
+    "id": 99
+  },
+  {
+    "word": "premium",
+    "translate": "額外補貼、津貼；酬金",
+    "id": 100
+  },
+  {
+    "word": "commission",
+    "translate": "佣金、委任、委託",
+    "id": 101
+  },
+  {
+    "word": "payroll",
+    "translate": "薪水、薪水冊、工資表",
+    "id": 102
+  },
+  {
+    "word": "share",
+    "translate": "price 股價",
+    "id": 103
+  },
+  {
+    "word": "withdrawal",
+    "translate": "提款",
+    "id": 104
+  },
+  {
+    "word": "deposit",
+    "translate": "存款",
+    "id": 105
+  },
+  {
+    "word": "payment",
+    "translate": "付款",
+    "id": 106
+  },
+  {
+    "word": "fine",
+    "translate": "罰款",
+    "id": 107
+  },
+  {
+    "word": "fee",
+    "translate": "(學費、門票)費用",
+    "id": 108
+  },
+  {
+    "word": "charge",
+    "translate": "(電費、服務費、瓦斯費、小費)費用",
+    "id": 109
+  },
+  {
+    "word": "price",
+    "translate": "價位",
+    "id": 110
+  },
+  {
+    "word": "toll",
+    "translate": "高速公路過路費",
+    "id": 111
+  },
+  {
+    "word": "rate",
+    "translate": "費用、比例",
+    "id": 112
+  },
+  {
+    "word": "expense",
+    "translate": "費用、價錢、支出、消耗",
+    "id": 113
+  },
+  {
+    "word": "bill",
+    "translate": "鈔票",
+    "id": 114
+  },
+  {
+    "word": "cash",
+    "translate": "現金",
+    "id": 115
+  },
+  {
+    "word": "change",
+    "translate": "零錢",
+    "id": 116
+  },
+  {
+    "word": "check",
+    "translate": "支票",
+    "id": 117
+  },
+  {
+    "word": "currency",
+    "translate": "通貨",
+    "id": 118
+  },
+  {
+    "word": "benefit",
+    "translate": "利益",
+    "id": 119
+  },
+  {
+    "word": "deficit",
+    "translate": "赤字",
+    "id": 120
+  },
+  {
+    "word": "quota",
+    "translate": "配額、定額、限額",
+    "id": 121
+  },
+  {
+    "word": "warranty",
+    "translate": "保證、擔保",
+    "id": 122
+  },
+  {
+    "word": "discount",
+    "translate": "折扣",
+    "id": 123
+  },
+  {
+    "word": "yen",
+    "translate": "日圓",
+    "id": 124
+  },
+  {
+    "word": "invoice",
+    "translate": "發票、發貨單",
+    "id": 125
+  },
+  {
+    "word": "surcharge",
+    "translate": "額外費",
+    "id": 126
+  },
+  {
+    "word": "schedule",
+    "translate": "行程",
+    "id": 127
+  },
+  {
+    "word": "panel discussion",
+    "translate": "小組會談",
+    "id": 128
+  },
+  {
+    "word": "summit",
+    "translate": "最高級會議",
+    "id": 129
+  },
+  {
+    "word": "convention",
+    "translate": "代表大會",
+    "id": 130
+  },
+  {
+    "word": "conference",
+    "translate": "會議",
+    "id": 131
+  },
+  {
+    "word": "reception",
+    "translate": "接待會、歡迎會、宴會",
+    "id": 132
+  },
+  {
+    "word": "meeting",
+    "translate": "一般會議",
+    "id": 133
+  },
+  {
+    "word": "seminar",
+    "translate": "專題討論會",
+    "id": 134
+  },
+  {
+    "word": "presentation",
+    "translate": "顯示、呈現",
+    "id": 135
+  },
+  {
+    "word": "committee",
+    "translate": "委員會",
+    "id": 136
+  },
+  {
+    "word": "appointment",
+    "translate": "約會",
+    "id": 137
+  },
+  {
+    "word": "board of directors",
+    "translate": "董事會",
+    "id": 138
+  },
+  {
+    "word": "exhibition",
+    "translate": "展覽、展覽會、展示會",
+    "id": 139
+  },
+  {
+    "word": "ceremony",
+    "translate": "儀式、典禮",
+    "id": 140
+  },
+  {
+    "word": "keynote",
+    "translate": "address 政黨的基本政策演說",
+    "id": 141
+  },
+  {
+    "word": "agenda",
+    "translate": " 待議諸事項、議程",
+    "id": 142
+  },
+  {
+    "word": "session",
+    "translate": "會期、開庭期間",
+    "id": 143
+  },
+  {
+    "word": "headquarters",
+    "translate": "總部",
+    "id": 144
+  },
+  {
+    "word": "branch",
+    "translate": "分公司、分店",
+    "id": 145
+  },
+  {
+    "word": "firm",
+    "translate": "商號、商行、公司",
+    "id": 146
+  },
+  {
+    "word": "corporation",
+    "translate": "法人、社團法人、股份(有限)公司",
+    "id": 147
+  },
+  {
+    "word": "office",
+    "translate": "辦公室",
+    "id": 148
+  },
+  {
+    "word": "company",
+    "translate": "公司",
+    "id": 149
+  },
+  {
+    "word": "factory",
+    "translate": "工廠",
+    "id": 150
+  },
+  {
+    "word": "manufactory",
+    "translate": "工廠、製造廠",
+    "id": 151
+  },
+  {
+    "word": "distributor",
+    "translate": "批發商",
+    "id": 152
+  },
+  {
+    "word": "supplier",
+    "translate": "供應商",
+    "id": 153
+  },
+  {
+    "word": "department",
+    "translate": "部門",
+    "id": 154
+  },
+  {
+    "word": "consortium",
+    "translate": "聯盟",
+    "id": 155
+  },
+  {
+    "word": "franchise",
+    "translate": "經銷權、加盟",
+    "id": 156
+  },
+  {
+    "word": "monopoly",
+    "translate": "獨占、壟斷企業",
+    "id": 157
+  },
+  {
+    "word": "acquisition",
+    "translate": "並購",
+    "id": 158
+  },
+  {
+    "word": "merger",
+    "translate": "合併",
+    "id": 159
+  },
+  {
+    "word": "skyscraper",
+    "translate": "摩天樓、超高層大樓",
+    "id": 160
+  },
+  {
+    "word": "downtown",
+    "translate": "城市商業區、鬧區",
+    "id": 161
+  },
+  {
+    "word": "laboratory",
+    "translate": "實驗室",
+    "id": 162
+  },
+  {
+    "word": "museum",
+    "translate": "博物館",
+    "id": 163
+  },
+  {
+    "word": "concourse",
+    "translate": "廣場、(車站、機場)中央大廳",
+    "id": 164
+  },
+  {
+    "word": "dock",
+    "translate": "碼頭",
+    "id": 165
+  },
+  {
+    "word": "suburb",
+    "translate": "郊區",
+    "id": 166
+  },
+  {
+    "word": "outskirt",
+    "translate": "市郊；郊區",
+    "id": 167
+  },
+  {
+    "word": "harbor",
+    "translate": "港口",
+    "id": 168
+  },
+  {
+    "word": "concert",
+    "translate": "音樂會",
+    "id": 169
+  },
+  {
+    "word": "bank",
+    "translate": "銀行",
+    "id": 170
+  },
+  {
+    "word": "lounge",
+    "translate": "交誼廳",
+    "id": 171
+  },
+  {
+    "word": "casino",
+    "translate": "賭場、俱樂部，遊樂場",
+    "id": 172
+  },
+  {
+    "word": "parking lot",
+    "translate": "停車場",
+    "id": 173
+  },
+  {
+    "word": "grass",
+    "translate": "草坪",
+    "id": 174
+  },
+  {
+    "word": "auditorium",
+    "translate": "聽眾席、觀眾席",
+    "id": 175
+  },
+  {
+    "word": "cafeteria",
+    "translate": "自助餐",
+    "id": 176
+  },
+  {
+    "word": "restaurant",
+    "translate": "餐廳",
+    "id": 177
+  },
+  {
+    "word": "bakery",
+    "translate": "麵包店",
+    "id": 178
+  },
+  {
+    "word": "laundry",
+    "translate": "洗衣店、洗衣房",
+    "id": 179
+  },
+  {
+    "word": "kiosk",
+    "translate": "(亭式的)公用電話亭、報攤",
+    "id": 180
+  },
+  {
+    "word": "village",
+    "translate": "村落",
+    "id": 181
+  },
+  {
+    "word": "forest",
+    "translate": "森林",
+    "id": 182
+  },
+  {
+    "word": "put",
+    "translate": "off 延期",
+    "id": 183
+  },
+  {
+    "word": "on account of",
+    "translate": "因為、由於",
+    "id": 184
+  },
+  {
+    "word": "be eligible for",
+    "translate": "有資格的",
+    "id": 185
+  },
+  {
+    "word": "qualify for",
+    "translate": "有資格的",
+    "id": 186
+  },
+  {
+    "word": "fend for oneself",
+    "translate": "自己謀生",
+    "id": 187
+  },
+  {
+    "word": "so far",
+    "translate": "到目前為止",
+    "id": 188
+  },
+  {
+    "word": "lean against",
+    "translate": "倚、靠",
+    "id": 189
+  },
+  {
+    "word": "spill over",
+    "translate": "溢出",
+    "id": 190
+  },
+  {
+    "word": "cutting-edge",
+    "translate": "最先進的",
+    "id": 191
+  },
+  {
+    "word": "joint venture",
+    "translate": "合資",
+    "id": 192
+  },
+  {
+    "word": "set off",
+    "translate": "出發、動身",
+    "id": 193
+  },
+  {
+    "word": "deprive",
+    "translate": "剝奪",
+    "id": 194
+  },
+  {
+    "word": "shuttle bus",
+    "translate": "接駁公車",
+    "id": 195
+  },
+  {
+    "word": "express bus",
+    "translate": "直達公車",
+    "id": 196
+  },
+  {
+    "word": "typo",
+    "translate": "印刷工人、打字排印錯誤",
+    "id": 197
+  },
+  {
+    "word": "recommendation",
+    "translate": "推薦信、優點、長處",
+    "id": 198
+  },
+  {
+    "word": "expertise",
+    "translate": "專門知識、專門技術",
+    "id": 199
+  },
+  {
+    "word": "comment",
+    "translate": "註釋、解釋、評論",
+    "id": 200
+  },
+  {
+    "word": "recording",
+    "translate": "紀錄",
+    "id": 201
+  },
+  {
+    "word": "advertisement",
+    "translate": "廣告、宣傳",
+    "id": 202
+  },
+  {
+    "word": "assignment",
+    "translate": "指派",
+    "id": 203
+  },
+  {
+    "word": "reservation",
+    "translate": "預訂",
+    "id": 204
+  },
+  {
+    "word": "recession",
+    "translate": "(經濟的)衰退；衰退期",
+    "id": 205
+  },
+  {
+    "word": "transition",
+    "translate": "過渡、過渡時期",
+    "id": 206
+  },
+  {
+    "word": "recognition",
+    "translate": "認出、識別；表彰；報償",
+    "id": 207
+  },
+  {
+    "word": "facility",
+    "translate": "設備、設施；工具",
+    "id": 208
+  },
+  {
+    "word": "campaign",
+    "translate": "活動",
+    "id": 209
+  },
+  {
+    "word": "billboard",
+    "translate": "廣告牌",
+    "id": 210
+  },
+  {
+    "word": "concession",
+    "translate": "讓步；讓步行為",
+    "id": 211
+  },
+  {
+    "word": "garment",
+    "translate": "服裝、衣著",
+    "id": 212
+  },
+  {
+    "word": "refreshment",
+    "translate": "茶點、便餐、飲料",
+    "id": 213
+  },
+  {
+    "word": "beverage",
+    "translate": "飲料",
+    "id": 214
+  },
+  {
+    "word": "quarter",
+    "translate": "四分之一、季",
+    "id": 215
+  },
+  {
+    "word": "itinerary",
+    "translate": "旅程、路線",
+    "id": 216
+  },
+  {
+    "word": "cruise",
+    "translate": "巡航、航遊",
+    "id": 217
+  },
+  {
+    "word": "etiquette",
+    "translate": "禮節、禮儀",
+    "id": 218
+  },
+  {
+    "word": "alert",
+    "translate": "警戒、警報",
+    "id": 219
+  },
+  {
+    "word": "provision",
+    "translate": "供應",
+    "id": 220
+  },
+  {
+    "word": "purser",
+    "translate": "(客輪、班機等的)事務",
+    "id": 221
+  },
+  {
+    "word": "drought",
+    "translate": "乾旱",
+    "id": 222
+  },
+  {
+    "word": "occupancy",
+    "translate": "旅館住房率、佔有、佔有期",
+    "id": 223
+  },
+  {
+    "word": "balloon",
+    "translate": "氣球、輕氣球",
+    "id": 224
+  },
+  {
+    "word": "prosperity",
+    "translate": "興旺、繁榮、昌盛",
+    "id": 225
+  },
+  {
+    "word": "anxiety",
+    "translate": "焦慮、掛念",
+    "id": 226
+  },
+  {
+    "word": "funeral",
+    "translate": "喪葬、葬儀、出殯行列",
+    "id": 227
+  },
+  {
+    "word": "platinum",
+    "translate": "白金",
+    "id": 228
+  },
+  {
+    "word": "safeguard",
+    "translate": "安全設施",
+    "id": 229
+  },
+  {
+    "word": "cavity",
+    "translate": "穴、凹處、蛀洞",
+    "id": 230
+  },
+  {
+    "word": "cap",
+    "translate": "無邊便帽；制服帽",
+    "id": 231
+  },
+  {
+    "word": "hat",
+    "translate": "(有邊的)帽子",
+    "id": 232
+  },
+  {
+    "word": "scarf",
+    "translate": "圍巾；披巾；頭巾",
+    "id": 233
+  },
+  {
+    "word": "gasoline",
+    "translate": "汽油",
+    "id": 234
+  },
+  {
+    "word": "precipitation",
+    "translate": "降雨(雪)量",
+    "id": 235
+  },
+  {
+    "word": "avenue",
+    "translate": "途徑、方法、大街、大道",
+    "id": 236
+  },
+  {
+    "word": "panic",
+    "translate": "恐慌",
+    "id": 237
+  },
+  {
+    "word": "hurdle",
+    "translate": "欄；障礙",
+    "id": 238
+  },
+  {
+    "word": "ponytail",
+    "translate": "馬尾式辮子",
+    "id": 239
+  },
+  {
+    "word": "costume",
+    "translate": "服裝、戲裝",
+    "id": 240
+  },
+  {
+    "word": "jobless rate",
+    "translate": "失業率",
+    "id": 241
+  },
+  {
+    "word": "adolescent",
+    "translate": "青少年、青春期",
+    "id": 242
+  },
+  {
+    "word": "livestock",
+    "translate": "家畜",
+    "id": 243
+  },
+  {
+    "word": "vaccine",
+    "translate": "疫苗",
+    "id": 244
+  },
+  {
+    "word": "skateboard",
+    "translate": "滑板",
+    "id": 245
+  },
+  {
+    "word": "perfume",
+    "translate": "香味、芳香",
+    "id": 246
+  },
+  {
+    "word": "nudity",
+    "translate": "裸露、裸體像、裸體畫",
+    "id": 247
+  },
+  {
+    "word": "emission standard",
+    "translate": "廢氣排放標準",
+    "id": 248
+  },
+  {
+    "word": "curriculum",
+    "translate": "課程",
+    "id": 249
+  },
+  {
+    "word": "chronic illness",
+    "translate": "慢性病",
+    "id": 250
+  },
+  {
+    "word": "rote",
+    "translate": "死記硬背、機械的作法",
+    "id": 251
+  },
+  {
+    "word": "rival",
+    "translate": "競爭對手",
+    "id": 252
+  },
+  {
+    "word": "pupil",
+    "translate": "小學生、瞳孔",
+    "id": 253
+  },
+  {
+    "word": "inferiority",
+    "translate": "劣勢、自卑",
+    "id": 254
+  },
+  {
+    "word": "paradigm",
+    "translate": "範例",
+    "id": 255
+  },
+  {
+    "word": "troop",
+    "translate": "軍隊、部隊",
+    "id": 256
+  },
+  {
+    "word": "bonhomie",
+    "translate": "平易近人作風、和藹態度",
+    "id": 257
+  },
+  {
+    "word": "basket case",
+    "translate": "無用之物",
+    "id": 258
+  },
+  {
+    "word": "accumulation",
+    "translate": "積累",
+    "id": 259
+  },
+  {
+    "word": "breeding ground",
+    "translate": "滋生地、繁殖地",
+    "id": 260
+  },
+  {
+    "word": "tobacco",
+    "translate": "煙草",
+    "id": 261
+  },
+  {
+    "word": "regime",
+    "translate": "政體；政權；統治",
+    "id": 262
+  },
+  {
+    "word": "contagion",
+    "translate": "傳染病",
+    "id": 263
+  },
+  {
+    "word": "carcass",
+    "translate": "動物屍體",
+    "id": 264
+  },
+  {
+    "word": "cart",
+    "translate": "小車、手推車",
+    "id": 265
+  },
+  {
+    "word": "kimono",
+    "translate": "和服",
+    "id": 266
+  },
+  {
+    "word": "hang glider",
+    "translate": "懸掛式滑翔機",
+    "id": 267
+  },
+  {
+    "word": "miracle",
+    "translate": "奇蹟",
+    "id": 268
+  },
+  {
+    "word": "aquarium",
+    "translate": "水族館",
+    "id": 269
+  },
+  {
+    "word": "odds",
+    "translate": "機率",
+    "id": 270
+  },
+  {
+    "word": "consciousness",
+    "translate": "知覺、清醒",
+    "id": 271
+  },
+  {
+    "word": "landscape",
+    "translate": "風景、景色",
+    "id": 272
+  },
+  {
+    "word": "aisle",
+    "translate": "走道",
+    "id": 273
+  },
+  {
+    "word": "film",
+    "translate": "電影",
+    "id": 274
+  },
+  {
+    "word": "driver's license",
+    "translate": "駕照",
+    "id": 275
+  },
+  {
+    "word": "credit card",
+    "translate": "信用卡",
+    "id": 276
+  },
+  {
+    "word": "ID",
+    "translate": "身份證",
+    "id": 277
+  },
+  {
+    "word": "mushroom",
+    "translate": "蘑菇",
+    "id": 278
+  },
+  {
+    "word": "raincoat",
+    "translate": "雨衣",
+    "id": 279
+  },
+  {
+    "word": "umbrella",
+    "translate": "雨傘",
+    "id": 280
+  },
+  {
+    "word": "consensus",
+    "translate": "一致",
+    "id": 281
+  },
+  {
+    "word": "helping",
+    "translate": "一份食物",
+    "id": 282
+  },
+  {
+    "word": "sleeve",
+    "translate": "袖子",
+    "id": 283
+  },
+  {
+    "word": "leaflet",
+    "translate": "傳單、單張印刷品",
+    "id": 284
+  },
+  {
+    "word": "flier",
+    "translate": "傳單",
+    "id": 285
+  },
+  {
+    "word": "plate",
+    "translate": "盤子",
+    "id": 286
+  },
+  {
+    "word": "dish",
+    "translate": "盤子",
+    "id": 287
+  },
+  {
+    "word": "signature",
+    "translate": "簽名、簽署、畫押",
+    "id": 288
+  },
+  {
+    "word": "compartment",
+    "translate": "隔間、 (火車上的)小客房",
+    "id": 289
+  },
+  {
+    "word": "account",
+    "translate": "帳目、帳單、報帳",
+    "id": 290
+  },
+  {
+    "word": "entry",
+    "translate": "登記、記帳、項目",
+    "id": 291
+  },
+  {
+    "word": "brainstorm",
+    "translate": "集體研討、集思廣益",
+    "id": 292
+  },
+  {
+    "word": "lucrative",
+    "translate": "賺錢的、有利可圖",
+    "id": 293
+  },
+  {
+    "word": "typographical",
+    "translate": "排字上的、印刷上的、印刷術的",
+    "id": 294
+  },
+  {
+    "word": "pleasant",
+    "translate": "令人愉快的、舒適的",
+    "id": 295
+  },
+  {
+    "word": "textile",
+    "translate": "紡織品、紡織的",
+    "id": 296
+  },
+  {
+    "word": "mischievous",
+    "translate": "惡作劇的、調皮的",
+    "id": 297
+  },
+  {
+    "word": "reckless",
+    "translate": "不注意的、魯莽的",
+    "id": 298
+  },
+  {
+    "word": "verbal",
+    "translate": "口頭的、非書面的",
+    "id": 299
+  },
+  {
+    "word": "exotic",
+    "translate": "外來的、外國產的",
+    "id": 300
+  },
+  {
+    "word": "municipal",
+    "translate": "市的、市政的；",
+    "id": 301
+  },
+  {
+    "word": "dissident",
+    "translate": "不同意見的",
+    "id": 302
+  },
+  {
+    "word": "ecological",
+    "translate": "生態學的",
+    "id": 303
+  },
+  {
+    "word": "outspoken",
+    "translate": "坦率的、直言不諱的",
+    "id": 304
+  },
+  {
+    "word": "sole",
+    "translate": "單獨的、唯一的",
+    "id": 305
+  },
+  {
+    "word": "concise",
+    "translate": "簡明的、簡潔的",
+    "id": 306
+  },
+  {
+    "word": "horrible",
+    "translate": "極討厭的、糟透的、可怕的",
+    "id": 307
+  },
+  {
+    "word": "voluntary",
+    "translate": "志願的",
+    "id": 308
+  },
+  {
+    "word": "self-recruited",
+    "translate": "自發性的",
+    "id": 309
+  },
+  {
+    "word": "horrific",
+    "translate": "可怕的",
+    "id": 310
+  },
+  {
+    "word": "obligated",
+    "translate": "有責任的",
+    "id": 311
+  },
+  {
+    "word": "intractable",
+    "translate": "棘手的",
+    "id": 312
+  },
+  {
+    "word": "copious",
+    "translate": "豐富的、大量的；多產的",
+    "id": 313
+  },
+  {
+    "word": "rural",
+    "translate": "農村的",
+    "id": 314
+  },
+  {
+    "word": "reluctant",
+    "translate": "不情願的；勉強的",
+    "id": 315
+  },
+  {
+    "word": "prohibitive",
+    "translate": "禁止的、(費用、價格)過高的",
+    "id": 316
+  },
+  {
+    "word": "diligent",
+    "translate": "勤勉的",
+    "id": 317
+  },
+  {
+    "word": "allergic",
+    "translate": "過敏的",
+    "id": 318
+  },
+  {
+    "word": "tremendous",
+    "translate": "巨大的、驚人的",
+    "id": 319
+  },
+  {
+    "word": "punctual",
+    "translate": "嚴守時刻的；準時的",
+    "id": 320
+  },
+  {
+    "word": "muggy",
+    "translate": "悶熱的",
+    "id": 321
+  },
+  {
+    "word": "imponderable",
+    "translate": "不能確實判定或解釋的",
+    "id": 322
+  },
+  {
+    "word": "intact",
+    "translate": "完整無缺的；原封不動的",
+    "id": 323
+  },
+  {
+    "word": "anonymous",
+    "translate": "匿名的",
+    "id": 324
+  },
+  {
+    "word": "inclement",
+    "translate": "天氣險惡嚴酷的",
+    "id": 325
+  },
+  {
+    "word": "fiduciary",
+    "translate": "信託的、信用發行的",
+    "id": 326
+  },
+  {
+    "word": "rental",
+    "translate": "租借的",
+    "id": 327
+  },
+  {
+    "word": "intent",
+    "translate": "熱切的、急切的",
+    "id": 328
+  },
+  {
+    "word": "awful",
+    "translate": "可怕的、嚇人的",
+    "id": 329
+  },
+  {
+    "word": "complementary",
+    "translate": "補充的、互補的、相配的",
+    "id": 330
+  },
+  {
+    "word": "complimentary",
+    "translate": "贈送的",
+    "id": 331
+  },
+  {
+    "word": "neat",
+    "translate": "整潔的、整齊的",
+    "id": 332
+  },
+  {
+    "word": "available",
+    "translate": "(人)有空的",
+    "id": 333
+  },
+  {
+    "word": "urgently",
+    "translate": "緊急地、急迫地",
+    "id": 334
+  },
+  {
+    "word": "allegedly",
+    "translate": "據說",
+    "id": 335
+  },
+  {
+    "word": "drastically",
+    "translate": "大大地",
+    "id": 336
+  },
+  {
+    "word": "unanimously",
+    "translate": "無異議地；全體一致地",
+    "id": 337
+  },
+  {
+    "word": "utterly",
+    "translate": "完全地；徹底地；十足地",
+    "id": 338
+  },
+  {
+    "word": "elegantly",
+    "translate": "高雅地",
+    "id": 339
+  },
+  {
+    "word": "file",
+    "translate": "檔案、提出申請/提出訴訟",
+    "id": 340
+  },
+  {
+    "word": "refund",
+    "translate": "退還、歸還、償還",
+    "id": 341
+  },
+  {
+    "word": "institute",
+    "translate": "創立、設立",
+    "id": 342
+  },
+  {
+    "word": "rebate",
+    "translate": "折扣、貼現",
+    "id": 343
+  },
+  {
+    "word": "endure",
+    "translate": "忍受",
+    "id": 344
+  },
+  {
+    "word": "adopt",
+    "translate": "採納、收養",
+    "id": 345
+  },
+  {
+    "word": "bribe",
+    "translate": "賄賂、行賄物、誘餌",
+    "id": 346
+  },
+  {
+    "word": "devise",
+    "translate": "設計、發明、策劃、想出",
+    "id": 347
+  },
+  {
+    "word": "stalk",
+    "translate": "悄悄的追蹤",
+    "id": 348
+  },
+  {
+    "word": "attach",
+    "translate": "附屬、附加",
+    "id": 349
+  },
+  {
+    "word": "appreciate",
+    "translate": "欣賞、賞識、感謝、感激",
+    "id": 350
+  },
+  {
+    "word": "sort",
+    "translate": "種類、分類",
+    "id": 351
+  },
+  {
+    "word": "resort",
+    "translate": "觀光勝地",
+    "id": 352
+  },
+  {
+    "word": "submit",
+    "translate": "提交、呈遞",
+    "id": 353
+  },
+  {
+    "word": "proofread",
+    "translate": "校對、校勘",
+    "id": 354
+  },
+  {
+    "word": "approve",
+    "translate": "贊成、同意",
+    "id": 355
+  },
+  {
+    "word": "emulate",
+    "translate": "競爭",
+    "id": 356
+  },
+  {
+    "word": "fade",
+    "translate": "凋謝、枯萎",
+    "id": 357
+  },
+  {
+    "word": "fad",
+    "translate": "一時的流行",
+    "id": 358
+  },
+  {
+    "word": "reform",
+    "translate": "改革",
+    "id": 359
+  },
+  {
+    "word": "conform",
+    "translate": "確認",
+    "id": 360
+  },
+  {
+    "word": "negotiate",
+    "translate": "談判、協商、洽談",
+    "id": 361
+  },
+  {
+    "word": "dismiss",
+    "translate": "駁回",
+    "id": 362
+  },
+  {
+    "word": "prospect",
+    "translate": "指望",
+    "id": 363
+  },
+  {
+    "word": "postpone",
+    "translate": "使延期、延遲、延緩",
+    "id": 364
+  },
+  {
+    "word": "reveal",
+    "translate": "展現、顯露出",
+    "id": 365
+  },
+  {
+    "word": "pledge",
+    "translate": "保證",
+    "id": 366
+  },
+  {
+    "word": "charter",
+    "translate": "租、包租",
+    "id": 367
+  },
+  {
+    "word": "convene",
+    "translate": "集會、聚集",
+    "id": 368
+  },
+  {
+    "word": "prevail",
+    "translate": "流行、盛行、普遍",
+    "id": 369
+  },
+  {
+    "word": "notify",
+    "translate": "通知、告知",
+    "id": 370
+  },
+  {
+    "word": "abandon",
+    "translate": "丟棄、拋棄、遺棄",
+    "id": 371
+  },
+  {
+    "word": "admonish",
+    "translate": "警告",
+    "id": 372
+  },
+  {
+    "word": "propel",
+    "translate": "推進、推",
+    "id": 373
+  },
+  {
+    "word": "topple",
+    "translate": "使倒塌、推翻、顛覆",
+    "id": 374
+  },
+  {
+    "word": "revert",
+    "translate": "回復、復舊",
+    "id": 375
+  },
+  {
+    "word": "recline",
+    "translate": "使斜倚、使躺下、使後仰",
+    "id": 376
+  },
+  {
+    "word": "downturn",
+    "translate": "衰退、下降、下滑",
+    "id": 377
+  },
+  {
+    "word": "decline",
+    "translate": "下降",
+    "id": 378
+  },
+  {
+    "word": "floss",
+    "translate": "用牙線潔牙",
+    "id": 379
+  },
+  {
+    "word": "pour",
+    "translate": "倒",
+    "id": 380
+  },
+  {
+    "word": "grill",
+    "translate": "烤架、烤",
+    "id": 381
+  },
+  {
+    "word": "soar",
+    "translate": "高飛、滑翔",
+    "id": 382
+  },
+  {
+    "word": "pile up",
+    "translate": "堆放起來",
+    "id": 383
+  },
+  {
+    "word": "heed",
+    "translate": "注意",
+    "id": 384
+  },
+  {
+    "word": "hearten",
+    "translate": "鼓舞",
+    "id": 385
+  },
+  {
+    "word": "censure",
+    "translate": "責備、譴責",
+    "id": 386
+  },
+  {
+    "word": "shovel",
+    "translate": "用鏟工作",
+    "id": 387
+  },
+  {
+    "word": "outperform",
+    "translate": "勝過",
+    "id": 388
+  },
+  {
+    "word": "flip",
+    "translate": "使翻轉、輕拋",
+    "id": 389
+  },
+  {
+    "word": "slaughter",
+    "translate": "屠殺",
+    "id": 390
+  },
+  {
+    "word": "shave",
+    "translate": "剃",
+    "id": 391
+  },
+  {
+    "word": "belie",
+    "translate": "掩飾",
+    "id": 392
+  },
+  {
+    "word": "subvert",
+    "translate": "推翻、破壞",
+    "id": 393
+  },
+  {
+    "word": "portray",
+    "translate": "描寫",
+    "id": 394
+  },
+  {
+    "word": "startle",
+    "translate": "使驚嚇、使嚇一跳",
+    "id": 395
+  },
+  {
+    "word": "instigate",
+    "translate": "煽動",
+    "id": 396
+  },
+  {
+    "word": "burden",
+    "translate": "負擔",
+    "id": 397
+  },
+  {
+    "word": "combat",
+    "translate": "戰鬥",
+    "id": 398
+  },
+  {
+    "word": "lobby",
+    "translate": "遊說、大廳；會客室、休息室",
+    "id": 399
+  },
+  {
+    "word": "retail",
+    "translate": "零售",
+    "id": 400
+  },
+  {
+    "word": "innovate",
+    "translate": "創立、革新、改革、創新",
+    "id": 401
+  },
+  {
+    "word": "enclose",
+    "translate": "封",
+    "id": 402
+  },
+  {
+    "word": "assemble",
+    "translate": "組合",
+    "id": 403
+  },
+  {
+    "word": "inspect",
+    "translate": "檢查",
+    "id": 404
+  },
+  {
+    "word": "expire",
+    "translate": "滿期、屆期",
+    "id": 405
+  },
+  {
+    "word": "prohibit",
+    "translate": "禁止",
+    "id": 406
+  },
+  {
+    "word": "ban",
+    "translate": "禁止",
+    "id": 407
+  },
+  {
+    "word": "forbid",
+    "translate": "禁止",
+    "id": 408
+  },
+  {
+    "word": "sign",
+    "translate": "簽(名)、寫下",
+    "id": 409
+  },
+  {
+    "word": "dictate",
+    "translate": "口授、、口述",
+    "id": 410
+  },
+  {
+    "word": "fluctuate",
+    "translate": "(物價)變動",
+    "id": 411
+  },
+  {
+    "word": "mention",
+    "translate": "提及",
+    "id": 412
+  },
+  {
+    "word": "dynamic",
+    "translate": "有活力的、有生機的",
+    "id": 413
+  },
+  {
+    "word": "prosperous",
+    "translate": "繁榮的",
+    "id": 414
+  },
+  {
+    "word": "brisk",
+    "translate": "興隆的",
+    "id": 415
+  },
+  {
+    "word": "volatile",
+    "translate": "不穩定的、活躍浮動的、形容市場蕭條、不景氣",
+    "id": 416
+  },
+  {
+    "word": "bleak",
+    "translate": "慘澹淒涼的",
+    "id": 417
+  },
+  {
+    "word": "declining",
+    "translate": "下滑的、衰退的",
+    "id": 418
+  },
+  {
+    "word": "slump",
+    "translate": "委靡的",
+    "id": 419
+  },
+  {
+    "word": "sluggish",
+    "translate": "不景氣、蕭條的",
+    "id": 420
+  },
+  {
+    "word": "stagnant",
+    "translate": "停滯不前的、蕭條的",
+    "id": 421
+  },
+  {
+    "word": "commodity",
+    "translate": "商品、期貨",
+    "id": 422
+  },
+  {
+    "word": "product",
+    "translate": "產品",
+    "id": 423
+  },
+  {
+    "word": "produce",
+    "translate": "農產品",
+    "id": 424
+  },
+  {
+    "word": "freight",
+    "translate": "運輸的貨物 ； 運費",
+    "id": 425
+  },
+  {
+    "word": "cargo",
+    "translate": "(船、飛機) 裝載的貨物",
+    "id": 426
+  },
+  {
+    "word": "convoke",
+    "translate": "召集",
+    "id": 427
+  },
+  {
+    "word": "rally",
+    "translate": "集合",
+    "id": 428
+  },
+  {
+    "word": "gathering",
+    "translate": "聚會",
+    "id": 429
+  },
+  {
+    "word": "function",
+    "translate": "集會，儀式",
+    "id": 430
+  },
+  {
+    "word": "adjourn",
+    "translate": "延會、休會",
+    "id": 431
+  },
+  {
+    "word": "confer",
+    "translate": "商談",
+    "id": 432
+  },
+  {
+    "word": "mug",
+    "translate": "搶劫、(從背後襲擊)",
+    "id": 433
+  },
+  {
+    "word": "steal",
+    "translate": "偷",
+    "id": 434
+  },
+  {
+    "word": "loot",
+    "translate": "搶奪",
+    "id": 435
+  },
+  {
+    "word": "pickpocket",
+    "translate": "扒手",
+    "id": 436
+  },
+  {
+    "word": "burglary",
+    "translate": "夜盜",
+    "id": 437
+  },
+  {
+    "word": "smuggle",
+    "translate": "走私",
+    "id": 438
+  },
+  {
+    "word": "outgoing",
+    "translate": "外向活潑",
+    "id": 439
+  },
+  {
+    "word": "sociable",
+    "translate": "善於交際",
+    "id": 440
+  },
+  {
+    "word": "adaptable",
+    "translate": "適應性強",
+    "id": 441
+  },
+  {
+    "word": "hard-working",
+    "translate": "工作努力",
+    "id": 442
+  },
+  {
+    "word": "enterprising",
+    "translate": "富於進取、有創業精神",
+    "id": 443
+  },
+  {
+    "word": "reserved",
+    "translate": "保守、穩重",
+    "id": 444
+  },
+  {
+    "word": "responsible",
+    "translate": "負責",
+    "id": 445
+  },
+  {
+    "word": "optimistic",
+    "translate": "樂觀",
+    "id": 446
+  },
+  {
+    "word": "independent",
+    "translate": "獨立",
+    "id": 447
+  },
+  {
+    "word": "inflation",
+    "translate": "通貨膨脹",
+    "id": 448
+  },
+  {
+    "word": "deflation",
+    "translate": "通貨緊縮",
+    "id": 449
+  },
+  {
+    "word": "feasibility",
+    "translate": "可行性",
+    "id": 450
+  },
+  {
+    "word": "overhaul",
+    "translate": "徹底檢查",
+    "id": 451
+  },
+  {
+    "word": "custom",
+    "translate": "海關",
+    "id": 452
+  },
+  {
+    "word": "bruise",
+    "translate": "擦傷",
+    "id": 453
+  },
+  {
+    "word": "indices",
+    "translate": "是index的複數",
+    "id": 454
+  },
+  {
+    "word": "commotion",
+    "translate": "暴動、騷亂",
+    "id": 455
+  },
+  {
+    "word": "interest rate",
+    "translate": "利率",
+    "id": 456
+  },
+  {
+    "word": "disposition",
+    "translate": "性情氣質；處理",
+    "id": 457
+  },
+  {
+    "word": "carat, karat",
+    "translate": "克拉",
+    "id": 458
+  },
+  {
+    "word": "hallmark",
+    "translate": "品質證明、純正之證明",
+    "id": 459
+  },
+  {
+    "word": "asylum",
+    "translate": "收容所、養老院",
+    "id": 460
+  },
+  {
+    "word": "orphanage",
+    "translate": "孤兒院",
+    "id": 461
+  },
+  {
+    "word": "morale",
+    "translate": "士氣、人心",
+    "id": 462
+  },
+  {
+    "word": "pennant",
+    "translate": "錦旗",
+    "id": 463
+  },
+  {
+    "word": "vicinity",
+    "translate": "附近、短語是",
+    "id": 464
+  },
+  {
+    "word": "interrogation",
+    "translate": "詢問、審訊",
+    "id": 465
+  },
+  {
+    "word": "intersection",
+    "translate": "交點",
+    "id": 466
+  },
+  {
+    "word": "intermission",
+    "translate": "休息時間",
+    "id": 467
+  },
+  {
+    "word": "physician",
+    "translate": "內科醫生",
+    "id": 468
+  },
+  {
+    "word": "surgeon",
+    "translate": "外科醫生、軍醫、船醫",
+    "id": 469
+  },
+  {
+    "word": "breadwinner",
+    "translate": "養家糊口的人",
+    "id": 470
+  },
+  {
+    "word": "recipe",
+    "translate": "食譜、方法",
+    "id": 471
+  },
+  {
+    "word": "tender",
+    "translate": "招標",
+    "id": 472
+  },
+  {
+    "word": "syllabus",
+    "translate": "課程綱要",
+    "id": 473
+  },
+  {
+    "word": "Spaniard",
+    "translate": "西班牙人",
+    "id": 474
+  },
+  {
+    "word": "dispassion",
+    "translate": "冷靜客觀",
+    "id": 475
+  },
+  {
+    "word": "levity",
+    "translate": "輕率",
+    "id": 476
+  },
+  {
+    "word": "expulsion",
+    "translate": "開除、除籍",
+    "id": 477
+  },
+  {
+    "word": "defamation",
+    "translate": "誹謗",
+    "id": 478
+  },
+  {
+    "word": "contraction",
+    "translate": "收縮",
+    "id": 479
+  },
+  {
+    "word": "renewal",
+    "translate": "更新",
+    "id": 480
+  },
+  {
+    "word": "deduction",
+    "translate": "扣除(額)",
+    "id": 481
+  },
+  {
+    "word": "escalator",
+    "translate": "電動扶梯",
+    "id": 482
+  },
+  {
+    "word": "elevator",
+    "translate": "電梯、升降梯(美)",
+    "id": 483
+  },
+  {
+    "word": "lift",
+    "translate": "電梯(英)；解除，提起精神",
+    "id": 484
+  },
+  {
+    "word": "emblem",
+    "translate": "象徵標誌",
+    "id": 485
+  },
+  {
+    "word": "dereliction",
+    "translate": "怠忽職守",
+    "id": 486
+  },
+  {
+    "word": "milk shake",
+    "translate": "奶昔",
+    "id": 487
+  },
+  {
+    "word": "endorsement",
+    "translate": "背書保證、找明星代言",
+    "id": 488
+  },
+  {
+    "word": "approbation",
+    "translate": "批准許可",
+    "id": 489
+  },
+  {
+    "word": "probation",
+    "translate": "試用",
+    "id": 490
+  },
+  {
+    "word": "deference",
+    "translate": "順從尊重",
+    "id": 491
+  },
+  {
+    "word": "minor infraction",
+    "translate": "輕微違法",
+    "id": 492
+  },
+  {
+    "word": "vacate",
+    "translate": "疏散",
+    "id": 493
+  },
+  {
+    "word": "anarchy",
+    "translate": "無政府",
+    "id": 494
+  },
+  {
+    "word": "collusion",
+    "translate": "共謀、勾結",
+    "id": 495
+  },
+  {
+    "word": "spa",
+    "translate": "溫泉",
+    "id": 496
+  },
+  {
+    "word": "freelance writer",
+    "translate": "自由撰稿人",
+    "id": 497
+  },
+  {
+    "word": "articles",
+    "translate": "用品、商品",
+    "id": 498
+  },
+  {
+    "word": "management",
+    "translate": "資方 union 工會",
+    "id": 499
+  },
+  {
+    "word": "turnover",
+    "translate": "運轉、周轉",
+    "id": 500
+  },
+  {
+    "word": "turnout",
+    "translate": "(集會)出席者",
+    "id": 501
+  },
+  {
+    "word": "annuity",
+    "translate": "養老金",
+    "id": 502
+  },
+  {
+    "word": "extension",
+    "translate": "分機",
+    "id": 503
+  },
+  {
+    "word": "innovation",
+    "translate": "革新翻新",
+    "id": 504
+  },
+  {
+    "word": "renovation",
+    "translate": "裝修",
+    "id": 505
+  },
+  {
+    "word": "dosage",
+    "translate": "劑量",
+    "id": 506
+  },
+  {
+    "word": "rash",
+    "translate": "疹子",
+    "id": 507
+  },
+  {
+    "word": "clientele",
+    "translate": "顧客、老主顧",
+    "id": 508
+  },
+  {
+    "word": "leave",
+    "translate": "請假",
+    "id": 509
+  },
+  {
+    "word": "partition",
+    "translate": "隔間、區分",
+    "id": 510
+  },
+  {
+    "word": "junk",
+    "translate": "垃圾；punk；朋克",
+    "id": 511
+  },
+  {
+    "word": "menopause",
+    "translate": "更年期",
+    "id": 512
+  },
+  {
+    "word": "razor",
+    "translate": "剃刀",
+    "id": 513
+  },
+  {
+    "word": "crop strains",
+    "translate": "作物品種",
+    "id": 514
+  },
+  {
+    "word": "headphone",
+    "translate": "耳機",
+    "id": 515
+  },
+  {
+    "word": "automated teller",
+    "translate": "machine 自動提款機(ATM)",
+    "id": 516
+  },
+  {
+    "word": "civilians",
+    "translate": "平民",
+    "id": 517
+  },
+  {
+    "word": "subsidiary",
+    "translate": "子公司",
+    "id": 518
+  },
+  {
+    "word": "strip mining",
+    "translate": "露天採礦",
+    "id": 519
+  },
+  {
+    "word": "national",
+    "translate": "(某國的)國民",
+    "id": 520
+  },
+  {
+    "word": "mortgage",
+    "translate": "抵押",
+    "id": 521
+  },
+  {
+    "word": "subcontractor",
+    "translate": "轉包商",
+    "id": 522
+  },
+  {
+    "word": "speculation",
+    "translate": "投機",
+    "id": 523
+  },
+  {
+    "word": "avocation",
+    "translate": "副業",
+    "id": 524
+  },
+  {
+    "word": "kickback",
+    "translate": "回扣",
+    "id": 525
+  },
+  {
+    "word": "spectator",
+    "translate": "觀眾 audience 聽眾",
+    "id": 526
+  },
+  {
+    "word": "stroller",
+    "translate": "四輪嬰兒車；漫步者",
+    "id": 527
+  },
+  {
+    "word": "seniority",
+    "translate": "年長、資深",
+    "id": 528
+  },
+  {
+    "word": "toner",
+    "translate": "調色劑",
+    "id": 529
+  },
+  {
+    "word": "luncheon",
+    "translate": "正式午餐，下午餐會",
+    "id": 530
+  },
+  {
+    "word": "façade",
+    "translate": "建築物正面(法)",
+    "id": 531
+  },
+  {
+    "word": "decoy",
+    "translate": "欺騙，引誘",
+    "id": 532
+  },
+  {
+    "word": "envoy",
+    "translate": "使者，代表",
+    "id": 533
+  },
+  {
+    "word": "alloy",
+    "translate": "合金",
+    "id": 534
+  },
+  {
+    "word": "convoy",
+    "translate": "護送陪伴",
+    "id": 535
+  },
+  {
+    "word": "interface",
+    "translate": "交互介面",
+    "id": 536
+  },
+  {
+    "word": "desktop video",
+    "translate": "conference 桌面視頻會議",
+    "id": 537
+  },
+  {
+    "word": "boutiques",
+    "translate": "小店精品店",
+    "id": 538
+  },
+  {
+    "word": "bouquet",
+    "translate": "花束",
+    "id": 539
+  },
+  {
+    "word": "complex",
+    "translate": "整套設施",
+    "id": 540
+  },
+  {
+    "word": "commencement ceremony",
+    "translate": "授學位典禮",
+    "id": 541
+  },
+  {
+    "word": "inception",
+    "translate": "開始",
+    "id": 542
+  },
+  {
+    "word": "induction",
+    "translate": "入伍",
+    "id": 543
+  },
+  {
+    "word": "modem",
+    "translate": "數據機",
+    "id": 544
+  },
+  {
+    "word": "fraud",
+    "translate": "詐騙",
+    "id": 545
+  },
+  {
+    "word": "magnate",
+    "translate": "工業巨頭",
+    "id": 546
+  },
+  {
+    "word": "gourmet",
+    "translate": "美食家",
+    "id": 547
+  },
+  {
+    "word": "ordinance",
+    "translate": "法令",
+    "id": 548
+  },
+  {
+    "word": "cursor",
+    "translate": "游標",
+    "id": 549
+  },
+  {
+    "word": "liaison",
+    "translate": "交流合作",
+    "id": 550
+  },
+  {
+    "word": "portfolio",
+    "translate": "公事包，文件夾",
+    "id": 551
+  },
+  {
+    "word": "corrosives",
+    "translate": "易腐蝕品",
+    "id": 552
+  },
+  {
+    "word": "minute",
+    "translate": "會議錄",
+    "id": 553
+  },
+  {
+    "word": "recreation",
+    "translate": "娛樂，休閒",
+    "id": 554
+  },
+  {
+    "word": "strand",
+    "translate": "使擱淺，陷入困境",
+    "id": 555
+  },
+  {
+    "word": "relate",
+    "translate": "敍述",
+    "id": 556
+  },
+  {
+    "word": "facilitate",
+    "translate": "使便利",
+    "id": 557
+  },
+  {
+    "word": "excel",
+    "translate": "優出勝出",
+    "id": 558
+  },
+  {
+    "word": "exceed",
+    "translate": "超過",
+    "id": 559
+  },
+  {
+    "word": "remit",
+    "translate": "匯款，寬恕",
+    "id": 560
+  },
+  {
+    "word": "highlight",
+    "translate": "強調",
+    "id": 561
+  },
+  {
+    "word": "inoculate",
+    "translate": "接種",
+    "id": 562
+  },
+  {
+    "word": "vaccinate",
+    "translate": "接種疫苗",
+    "id": 563
+  },
+  {
+    "word": "remedy",
+    "translate": "補救",
+    "id": 564
+  },
+  {
+    "word": "undermine",
+    "translate": "詆毀",
+    "id": 565
+  },
+  {
+    "word": "reverse",
+    "translate": "顛倒；判決",
+    "id": 566
+  },
+  {
+    "word": "slam",
+    "translate": "使勁關",
+    "id": 567
+  },
+  {
+    "word": "capsize",
+    "translate": "傾覆(船)",
+    "id": 568
+  },
+  {
+    "word": "simmer",
+    "translate": "燉，煨",
+    "id": 569
+  },
+  {
+    "word": "retrench",
+    "translate": "減少，節約",
+    "id": 570
+  },
+  {
+    "word": "discredit",
+    "translate": "使失去權威性，破壞名譽的",
+    "id": 571
+  },
+  {
+    "word": "curb",
+    "translate": "阻止，控制",
+    "id": 572
+  },
+  {
+    "word": "process",
+    "translate": "加工",
+    "id": 573
+  },
+  {
+    "word": "intercept",
+    "translate": "中途攔截",
+    "id": 574
+  },
+  {
+    "word": "segregate",
+    "translate": "隔離，分開分離",
+    "id": 575
+  },
+  {
+    "word": "quarantine",
+    "translate": "隔離檢疫",
+    "id": 576
+  },
+  {
+    "word": "seclude",
+    "translate": "隔絕，隱退，隱秘",
+    "id": 577
+  },
+  {
+    "word": "appeal",
+    "translate": "呼籲，懇求，上訴",
+    "id": 578
+  },
+  {
+    "word": "rescind",
+    "translate": "廢止，取消",
+    "id": 579
+  },
+  {
+    "word": "audit",
+    "translate": "查帳",
+    "id": 580
+  },
+  {
+    "word": "condemn",
+    "translate": "非難，判罪",
+    "id": 581
+  },
+  {
+    "word": "condone",
+    "translate": "寬恕，容忍",
+    "id": 582
+  },
+  {
+    "word": "deviate",
+    "translate": "偏離，跑題",
+    "id": 583
+  },
+  {
+    "word": "disabuse",
+    "translate": "解惑，矯正",
+    "id": 584
+  },
+  {
+    "word": "disavow",
+    "translate": "否認",
+    "id": 585
+  },
+  {
+    "word": "transfuse",
+    "translate": "輸血",
+    "id": 586
+  },
+  {
+    "word": "mingle",
+    "translate": "交往，混合",
+    "id": 587
+  },
+  {
+    "word": "forfeit",
+    "translate": "沒收",
+    "id": 588
+  },
+  {
+    "word": "staple",
+    "translate": "用訂書器釘；主要的、重要的",
+    "id": 589
+  },
+  {
+    "word": "deregulate",
+    "translate": "解除對⋯⋯的管制",
+    "id": 590
+  },
+  {
+    "word": "block",
+    "translate": "阻擋",
+    "id": 591
+  },
+  {
+    "word": "launch",
+    "translate": "推出新產品，實施",
+    "id": 592
+  },
+  {
+    "word": "house",
+    "translate": "為⋯⋯提供住房",
+    "id": 593
+  },
+  {
+    "word": "expel",
+    "translate": "開除，驅除",
+    "id": 594
+  },
+  {
+    "word": "reimburse",
+    "translate": "報銷，伏款；償還；補償",
+    "id": 595
+  },
+  {
+    "word": "observe",
+    "translate": "遵守",
+    "id": 596
+  },
+  {
+    "word": "syndicate",
+    "translate": "(在報刊，雜誌聯盟)多家報刊上同時發表",
+    "id": 597
+  },
+  {
+    "word": "commute",
+    "translate": "通勤",
+    "id": 598
+  },
+  {
+    "word": "rotate",
+    "translate": "旋轉，迴圈",
+    "id": 599
+  },
+  {
+    "word": "implement",
+    "translate": "實行",
+    "id": 600
+  },
+  {
+    "word": "liquidate",
+    "translate": "清算，清償債務",
+    "id": 601
+  },
+  {
+    "word": "accrue",
+    "translate": "增長，自然增殖",
+    "id": 602
+  },
+  {
+    "word": "fragile",
+    "translate": "易碎的",
+    "id": 603
+  },
+  {
+    "word": "latest",
+    "translate": "最新的",
+    "id": 604
+  },
+  {
+    "word": "later",
+    "translate": "過一會，過後",
+    "id": 605
+  },
+  {
+    "word": "eligible",
+    "translate": "合格的",
+    "id": 606
+  },
+  {
+    "word": "illegible",
+    "translate": "難懂的",
+    "id": 607
+  },
+  {
+    "word": "edible",
+    "translate": "可食用的",
+    "id": 608
+  },
+  {
+    "word": "audible",
+    "translate": "可聽到的",
+    "id": 609
+  },
+  {
+    "word": "duplicate",
+    "translate": "副本的，複製的",
+    "id": 610
+  },
+  {
+    "word": "potamic",
+    "translate": "河川的",
+    "id": 611
+  },
+  {
+    "word": "faulty",
+    "translate": "有錯誤的",
+    "id": 612
+  },
+  {
+    "word": "transformer",
+    "translate": "變壓器",
+    "id": 613
+  },
+  {
+    "word": "supersonic",
+    "translate": "超音速的",
+    "id": 614
+  },
+  {
+    "word": "foremost",
+    "translate": "首要的",
+    "id": 615
+  },
+  {
+    "word": "affluent",
+    "translate": "富足的",
+    "id": 616
+  },
+  {
+    "word": "explicit",
+    "translate": "明晰的",
+    "id": 617
+  },
+  {
+    "word": "implicit",
+    "translate": "暗含的",
+    "id": 618
+  },
+  {
+    "word": "hustle-bustle",
+    "translate": "熙來攘往",
+    "id": 619
+  },
+  {
+    "word": "obese",
+    "translate": "肥胖的",
+    "id": 620
+  },
+  {
+    "word": "manifold",
+    "translate": "各樣的，多種",
+    "id": 621
+  },
+  {
+    "word": "imprudent",
+    "translate": "輕率的",
+    "id": 622
+  },
+  {
+    "word": "effete",
+    "translate": "疲憊枯竭",
+    "id": 623
+  },
+  {
+    "word": "ebullient",
+    "translate": "沸騰的，熱情洋溢的",
+    "id": 624
+  },
+  {
+    "word": "enervated",
+    "translate": "無力的衰弱的",
+    "id": 625
+  },
+  {
+    "word": "spacious",
+    "translate": "寬敞的",
+    "id": 626
+  },
+  {
+    "word": "selective",
+    "translate": "精挑細選的",
+    "id": 627
+  },
+  {
+    "word": "precocious",
+    "translate": "早熟的，過早的",
+    "id": 628
+  },
+  {
+    "word": "remiss",
+    "translate": "疏忽的",
+    "id": 629
+  },
+  {
+    "word": "facile",
+    "translate": "容易的，流暢的",
+    "id": 630
+  },
+  {
+    "word": "intangible",
+    "translate": "無形的",
+    "id": 631
+  },
+  {
+    "word": "illicit",
+    "translate": "不合法的",
+    "id": 632
+  },
+  {
+    "word": "diagonal",
+    "translate": "對角線的",
+    "id": 633
+  },
+  {
+    "word": "methodically",
+    "translate": "有條不紊的",
+    "id": 634
+  },
+  {
+    "word": "definitive",
+    "translate": "限定的，決定的",
+    "id": 635
+  },
+  {
+    "word": "plausible",
+    "translate": "似合理的",
+    "id": 636
+  },
+  {
+    "word": "propitious",
+    "translate": "吉祥的，有利的",
+    "id": 637
+  },
+  {
+    "word": "auspicious",
+    "translate": "吉祥的",
+    "id": 638
+  },
+  {
+    "word": "intelligible",
+    "translate": "可識別的",
+    "id": 639
+  },
+  {
+    "word": "inflammable",
+    "translate": "易燃的",
+    "id": 640
+  },
+  {
+    "word": "nonflammable",
+    "translate": "不易燃的",
+    "id": 641
+  },
+  {
+    "word": "quality",
+    "translate": "品質好的",
+    "id": 642
+  },
+  {
+    "word": "state-of-the-art",
+    "translate": "最新水準",
+    "id": 643
+  },
+  {
+    "word": "illegitimate",
+    "translate": "不合法的，私生的",
+    "id": 644
+  },
+  {
+    "word": "tailored",
+    "translate": "定制的",
+    "id": 645
+  },
+  {
+    "word": "custom-made",
+    "translate": "特製的",
+    "id": 646
+  },
+  {
+    "word": "provisional—temporary",
+    "translate": "暫時的，臨時的",
+    "id": 647
+  },
+  {
+    "word": "luxurious",
+    "translate": "奢侈的",
+    "id": 648
+  },
+  {
+    "word": "bear market",
+    "translate": "熊市",
+    "id": 649
+  },
+  {
+    "word": "bull market",
+    "translate": "牛市",
+    "id": 650
+  },
+  {
+    "word": "tricky",
+    "translate": "棘手的，複雜的(工作)",
+    "id": 651
+  },
+  {
+    "word": "languishing",
+    "translate": "衰弱下去的",
+    "id": 652
+  },
+  {
+    "word": "supervisor",
+    "translate": "課長、監督人、管理人、指導者",
+    "id": 653
+  },
+  {
+    "word": "boss",
+    "translate": "上司",
+    "id": 654
+  },
+  {
+    "word": "labor",
+    "translate": "勞工",
+    "id": 655
+  },
+  {
+    "word": "executive",
+    "translate": "行者；行政官；高級官員",
+    "id": 656
+  },
+  {
+    "word": "shareholder",
+    "translate": "股東",
+    "id": 657
+  },
+  {
+    "word": "landlord",
+    "translate": "房東",
+    "id": 658
+  },
+  {
+    "word": "tenant",
+    "translate": "房客、承租人",
+    "id": 659
+  },
+  {
+    "word": "customer",
+    "translate": "客戶、 顧客",
+    "id": 660
+  },
+  {
+    "word": "guest",
+    "translate": "客人",
+    "id": 661
+  },
+  {
+    "word": "client",
+    "translate": "客戶",
+    "id": 662
+  },
+  {
+    "word": "recruit",
+    "translate": "新兵、新手；徵募新人",
+    "id": 663
+  },
+  {
+    "word": "participant",
+    "translate": "參與者",
+    "id": 664
+  },
+  {
+    "word": "expert",
+    "translate": "專家",
+    "id": 665
+  },
+  {
+    "word": "specialist",
+    "translate": "專家",
+    "id": 666
+  },
+  {
+    "word": "pedestrian",
+    "translate": "步行者、行人",
+    "id": 667
+  },
+  {
+    "word": "kith and kin",
+    "translate": "親朋好友",
+    "id": 668
+  },
+  {
+    "word": "witness",
+    "translate": "目擊者",
+    "id": 669
+  },
+  {
+    "word": "applicant",
+    "translate": "求職者",
+    "id": 670
+  },
+  {
+    "word": "host",
+    "translate": "男主人",
+    "id": 671
+  },
+  {
+    "word": "hostess",
+    "translate": "女主人",
+    "id": 672
+  },
+  {
+    "word": "heavenly body",
+    "translate": "天體",
+    "id": 673
+  },
+  {
+    "word": "astrology",
+    "translate": "占星術",
+    "id": 674
+  },
+  {
+    "word": "astronomy",
+    "translate": "天文學",
+    "id": 675
+  },
+  {
+    "word": "constellation",
+    "translate": "星座",
+    "id": 676
+  },
+  {
+    "word": "Galaxy",
+    "translate": "銀河",
+    "id": 677
+  },
+  {
+    "word": "galactic nebula",
+    "translate": "銀河星雲",
+    "id": 678
+  },
+  {
+    "word": "satellite",
+    "translate": "衛星",
+    "id": 679
+  },
+  {
+    "word": "planet",
+    "translate": "行星",
+    "id": 680
+  },
+  {
+    "word": "asteroid",
+    "translate": "小行星",
+    "id": 681
+  },
+  {
+    "word": "meteor",
+    "translate": "流星",
+    "id": 682
+  },
+  {
+    "word": "meteorite",
+    "translate": "隕石",
+    "id": 683
+  },
+  {
+    "word": "hydurochloric",
+    "translate": "鹽酸",
+    "id": 684
+  },
+  {
+    "word": "sulfuric acid",
+    "translate": "硫酸",
+    "id": 685
+  },
+  {
+    "word": "reduction",
+    "translate": "還原",
+    "id": 686
+  },
+  {
+    "word": "oxygen",
+    "translate": "氧",
+    "id": 687
+  },
+  {
+    "word": "hydrogen",
+    "translate": "氫",
+    "id": 688
+  },
+  {
+    "word": "nitrogen",
+    "translate": "氮",
+    "id": 689
+  },
+  {
+    "word": "carbon",
+    "translate": "炭",
+    "id": 690
+  },
+  {
+    "word": "neutralize",
+    "translate": "中和",
+    "id": 691
+  },
+  {
+    "word": "filter",
+    "translate": "過濾",
+    "id": 692
+  },
+  {
+    "word": "oxidize",
+    "translate": "氧化",
+    "id": 693
+  },
+  {
+    "word": "acid",
+    "translate": "酸",
+    "id": 694
+  },
+  {
+    "word": "alkalinity",
+    "translate": "鹼性",
+    "id": 695
+  },
+  {
+    "word": "saturation",
+    "translate": "飽和",
+    "id": 696
+  },
+  {
+    "word": "evaporation",
+    "translate": "蒸發",
+    "id": 697
+  },
+  {
+    "word": "chemical symbol",
+    "translate": "化學記號",
+    "id": 698
+  },
+  {
+    "word": "chemical action",
+    "translate": "化學作用",
+    "id": 699
+  },
+  {
+    "word": "chemical reaction",
+    "translate": "化學反應",
+    "id": 700
+  },
+  {
+    "word": "chemical equation",
+    "translate": "化學方程式",
+    "id": 701
+  },
+  {
+    "word": "lead",
+    "translate": "鉛",
+    "id": 702
+  },
+  {
+    "word": "zinc",
+    "translate": "鋅",
+    "id": 703
+  },
+  {
+    "word": "cadmium",
+    "translate": "鎘",
+    "id": 704
+  },
+  {
+    "word": "uranium",
+    "translate": "鈾",
+    "id": 705
+  },
+  {
+    "word": "tin",
+    "translate": "錫",
+    "id": 706
+  },
+  {
+    "word": "earth's axis",
+    "translate": "地軸",
+    "id": 707
+  },
+  {
+    "word": "latitude",
+    "translate": "緯度",
+    "id": 708
+  },
+  {
+    "word": "longitude",
+    "translate": "經度",
+    "id": 709
+  },
+  {
+    "word": "subtropical",
+    "translate": "亞熱帶的",
+    "id": 710
+  },
+  {
+    "word": "subfrigid",
+    "translate": "亞寒帶的",
+    "id": 711
+  },
+  {
+    "word": "archipelago",
+    "translate": "群島",
+    "id": 712
+  },
+  {
+    "word": "humidity",
+    "translate": "濕度",
+    "id": 713
+  },
+  {
+    "word": "air current",
+    "translate": "氣流",
+    "id": 714
+  },
+  {
+    "word": "front",
+    "translate": "鋒面",
+    "id": 715
+  },
+  {
+    "word": "earthquake",
+    "translate": "地震",
+    "id": 716
+  },
+  {
+    "word": "epicenter",
+    "translate": "震央",
+    "id": 717
+  },
+  {
+    "word": "erosion",
+    "translate": "侵蝕",
+    "id": 718
+  },
+  {
+    "word": "reef",
+    "translate": "礦脈",
+    "id": 719
+  },
+  {
+    "word": "glacier",
+    "translate": "冰河",
+    "id": 720
+  },
+  {
+    "word": "iceberg",
+    "translate": "冰山",
+    "id": 721
+  },
+  {
+    "word": "meander",
+    "translate": "曲折",
+    "id": 722
+  },
+  {
+    "word": "tributary",
+    "translate": "支流",
+    "id": 723
+  },
+  {
+    "word": "delta",
+    "translate": "三角洲",
+    "id": 724
+  },
+  {
+    "word": "generate",
+    "translate": "發電",
+    "id": 725
+  },
+  {
+    "word": "ammeter",
+    "translate": "電流錶",
+    "id": 726
+  },
+  {
+    "word": "voltmeter",
+    "translate": "電壓表",
+    "id": 727
+  },
+  {
+    "word": "electrode",
+    "translate": "電極",
+    "id": 728
+  },
+  {
+    "word": "cathode",
+    "translate": "陰極",
+    "id": 729
+  },
+  {
+    "word": "anode",
+    "translate": "陽極",
+    "id": 730
+  },
+  {
+    "word": "electronics",
+    "translate": "電子工學",
+    "id": 731
+  },
+  {
+    "word": "semi-conductor",
+    "translate": "半導體",
+    "id": 732
+  },
+  {
+    "word": "terminal",
+    "translate": "接頭",
+    "id": 733
+  },
+  {
+    "word": "attendance",
+    "translate": "出席人數；出席",
+    "id": 734
+  },
+  {
+    "word": "calendar",
+    "translate": "日曆；月曆；行事曆",
+    "id": 735
+  },
+  {
+    "word": "directory",
+    "translate": "人名住址薄",
+    "id": 736
+  },
+  {
+    "word": "filing",
+    "translate": "歸檔",
+    "id": 737
+  },
+  {
+    "word": "in-tray",
+    "translate": "待處理文件盒",
+    "id": 738
+  },
+  {
+    "word": "monitor",
+    "translate": "檢測；監視；追蹤",
+    "id": 739
+  },
+  {
+    "word": "out-tray",
+    "translate": "已處理文件盒",
+    "id": 740
+  },
+  {
+    "word": "postage",
+    "translate": "郵費",
+    "id": 741
+  },
+  {
+    "word": "punctualit",
+    "translate": "準時；守時",
+    "id": 742
+  },
+  {
+    "word": "shift",
+    "translate": "換班；輪班；值班",
+    "id": 743
+  },
+  {
+    "word": "strike",
+    "translate": "罷工",
+    "id": 744
+  },
+  {
+    "word": "task",
+    "translate": "工作，任務",
+    "id": 745
+  },
+  {
+    "word": "work force",
+    "translate": "工作人員；勞動人口",
+    "id": 746
+  },
+  {
+    "word": "bulletin",
+    "translate": "公報；告示；定期報告書",
+    "id": 747
+  },
+  {
+    "word": "calculator",
+    "translate": "計算器",
+    "id": 748
+  },
+  {
+    "word": "carbon copy",
+    "translate": "用複寫紙複製的副本",
+    "id": 749
+  },
+  {
+    "word": "document",
+    "translate": "文件，證件",
+    "id": 750
+  },
+  {
+    "word": "intercom",
+    "translate": "對講機",
+    "id": 751
+  },
+  {
+    "word": "overtime",
+    "translate": "加班的時間",
+    "id": 752
+  },
+  {
+    "word": "printed matter",
+    "translate": "印刷品",
+    "id": 753
+  },
+  {
+    "word": "shorthand",
+    "translate": "速記，速記法",
+    "id": 754
+  },
+  {
+    "word": "tardy",
+    "translate": "遲緩；遲到的；遲延的",
+    "id": 755
+  },
+  {
+    "word": "typist",
+    "translate": "打字員",
+    "id": 756
+  },
+  {
+    "word": "xerox",
+    "translate": "影印",
+    "id": 757
+  },
+  {
+    "word": "allocate",
+    "translate": "撥出；分配；配置",
+    "id": 758
+  },
+  {
+    "word": "authorize",
+    "translate": "授權；委託",
+    "id": 759
+  },
+  {
+    "word": "bonus",
+    "translate": "紅利；額外津貼；獎金",
+    "id": 760
+  },
+  {
+    "word": "capability",
+    "translate": "能力；才幹；潛力；性能",
+    "id": 761
+  },
+  {
+    "word": "collaboration",
+    "translate": "合作；通敵",
+    "id": 762
+  },
+  {
+    "word": "consultation",
+    "translate": "諮詢；商量；商議；會議",
+    "id": 763
+  },
+  {
+    "word": "curriculum vitae",
+    "translate": "履歷",
+    "id": 764
+  },
+  {
+    "word": "income",
+    "translate": "收入或所得",
+    "id": 765
+  },
+  {
+    "word": "lay off",
+    "translate": "(暫時)解雇",
+    "id": 766
+  },
+  {
+    "word": "occupation",
+    "translate": "職業",
+    "id": 767
+  },
+  {
+    "word": "part-time",
+    "translate": "兼任的；兼職的",
+    "id": 768
+  },
+  {
+    "word": "permanent",
+    "translate": "不變的，永久的",
+    "id": 769
+  },
+  {
+    "word": "promote",
+    "translate": "升遷；促銷",
+    "id": 770
+  },
+  {
+    "word": "resume",
+    "translate": "履歷表",
+    "id": 771
+  },
+  {
+    "word": "salary",
+    "translate": "薪水",
+    "id": 772
+  },
+  {
+    "word": "amateur",
+    "translate": "業餘技術家；外行人；非專家",
+    "id": 773
+  },
+  {
+    "word": "appoint",
+    "translate": "任命；指定",
+    "id": 774
+  },
+  {
+    "word": "candidate",
+    "translate": "候選人",
+    "id": 775
+  },
+  {
+    "word": "certificate",
+    "translate": "憑證；證書",
+    "id": 776
+  },
+  {
+    "word": "competent",
+    "translate": "有能力的，勝任的",
+    "id": 777
+  },
+  {
+    "word": "coordinate",
+    "translate": "協調；調整",
+    "id": 778
+  },
+  {
+    "word": "evaluation",
+    "translate": "評價；估價",
+    "id": 779
+  },
+  {
+    "word": "interview",
+    "translate": "會面；面談",
+    "id": 780
+  },
+  {
+    "word": "novice",
+    "translate": "生手；新手；初學者",
+    "id": 781
+  },
+  {
+    "word": "pension",
+    "translate": "養老金；退休金",
+    "id": 782
+  },
+  {
+    "word": "personnel",
+    "translate": "全體人員；人事部門",
+    "id": 783
+  },
+  {
+    "word": "resign",
+    "translate": "辭職",
+    "id": 784
+  },
+  {
+    "word": "retire",
+    "translate": "退休",
+    "id": 785
+  },
+  {
+    "word": "substitute",
+    "translate": "代理人；代用品",
+    "id": 786
+  },
+  {
+    "word": "amplify",
+    "translate": "放大；加強；擴展",
+    "id": 787
+  },
+  {
+    "word": "buyout/buy out",
+    "translate": "買進全部產權或股權；收購全部",
+    "id": 788
+  },
+  {
+    "word": "cutback",
+    "translate": "減少；取消",
+    "id": 789
+  },
+  {
+    "word": "enterprise",
+    "translate": "企業",
+    "id": 790
+  },
+  {
+    "word": "equity",
+    "translate": "公平；公正；扣除抵押、稅金後的剩餘財產價值",
+    "id": 791
+  },
+  {
+    "word": "financier",
+    "translate": "財政家；金融業者；資本家；投資者",
+    "id": 792
+  },
+  {
+    "word": "phase",
+    "translate": "階段",
+    "id": 793
+  },
+  {
+    "word": "profile",
+    "translate": "側面象；略轉；引人矚目的狀態",
+    "id": 794
+  },
+  {
+    "word": "proposition",
+    "translate": "提案；建議；計畫",
+    "id": 795
+  },
+  {
+    "word": "prospectus",
+    "translate": "計畫書；說明書；慕股書",
+    "id": 796
+  },
+  {
+    "word": "track record",
+    "translate": "過去的記錄",
+    "id": 797
+  },
+  {
+    "word": "acquire",
+    "translate": "獲得",
+    "id": 798
+  },
+  {
+    "word": "affiliate",
+    "translate": "支部；分會；子公司",
+    "id": 799
+  },
+  {
+    "word": "assess",
+    "translate": "評估(財產價值)；評定",
+    "id": 800
+  },
+  {
+    "word": "benchmark",
+    "translate": "基準；水準點；標準",
+    "id": 801
+  },
+  {
+    "word": "carry out",
+    "translate": "執行；貫徹；完成",
+    "id": 802
+  },
+  {
+    "word": "cut down",
+    "translate": "削減；縮短",
+    "id": 803
+  },
+  {
+    "word": "embezzle",
+    "translate": "盜用；挪用；侵佔(公款等)",
+    "id": 804
+  },
+  {
+    "word": "entrepreneur",
+    "translate": "企業家；主辦人",
+    "id": 805
+  },
+  {
+    "word": "expand",
+    "translate": "擴張；擴大",
+    "id": 806
+  },
+  {
+    "word": "integrate",
+    "translate": "統合；整合",
+    "id": 807
+  },
+  {
+    "word": "pending",
+    "translate": "未決定的；待決定的；即將發生",
+    "id": 808
+  },
+  {
+    "word": "preliminary",
+    "translate": "初步的，開始的",
+    "id": 809
+  },
+  {
+    "word": "propose",
+    "translate": "提議；建議",
+    "id": 810
+  },
+  {
+    "word": "scheme",
+    "translate": "計畫；設計；圖謀",
+    "id": 811
+  },
+  {
+    "word": "thrive",
+    "translate": "茂盛；興旺；繁榮",
+    "id": 812
+  },
+  {
+    "word": "undervalue",
+    "translate": "低估價值；看輕",
+    "id": 813
+  },
+  {
+    "word": "balance",
+    "translate": "餘額；差額",
+    "id": 814
+  },
+  {
+    "word": "bond",
+    "translate": "債券",
+    "id": 815
+  },
+  {
+    "word": "chamber of commerce",
+    "translate": "商會",
+    "id": 816
+  },
+  {
+    "word": "credit",
+    "translate": "信任；信用；信譽；功勞；榮譽；存款數額；融資；賒銷",
+    "id": 817
+  },
+  {
+    "word": "debt",
+    "translate": "債；債務",
+    "id": 818
+  },
+  {
+    "word": "depreciation",
+    "translate": "跌價；貶值",
+    "id": 819
+  },
+  {
+    "word": "devaluation",
+    "translate": "貶值",
+    "id": 820
+  },
+  {
+    "word": "endorse",
+    "translate": "贊同；支持；簽名；背書(重點，考試時就碰到)",
+    "id": 821
+  },
+  {
+    "word": "exempt",
+    "translate": "被免除的；豁免的",
+    "id": 822
+  },
+  {
+    "word": "fluctuation",
+    "translate": "波動；起伏；漲落",
+    "id": 823
+  },
+  {
+    "word": "gross",
+    "translate": "總共的；全部的",
+    "id": 824
+  },
+  {
+    "word": "overdraft",
+    "translate": "透支；透支額",
+    "id": 825
+  },
+  {
+    "word": "profit",
+    "translate": "利潤；收益；營利",
+    "id": 826
+  },
+  {
+    "word": "revenue",
+    "translate": "收益；歲入；稅收",
+    "id": 827
+  },
+  {
+    "word": "stock",
+    "translate": "公債；證券；股票",
+    "id": 828
+  },
+  {
+    "word": "withdraw",
+    "translate": "收回；取回；撤回；提款",
+    "id": 829
+  },
+  {
+    "word": "bankrupt",
+    "translate": "破產的；倒閉的",
+    "id": 830
+  },
+  {
+    "word": "capital",
+    "translate": "資金；資本",
+    "id": 831
+  },
+  {
+    "word": "convert",
+    "translate": "轉換；改變",
+    "id": 832
+  },
+  {
+    "word": "depression",
+    "translate": "不景氣；憂傷；消沉；沮喪",
+    "id": 833
+  },
+  {
+    "word": "discrepancy",
+    "translate": "差異；不同；不一致",
+    "id": 834
+  },
+  {
+    "word": "estimate",
+    "translate": "估計；估價",
+    "id": 835
+  },
+  {
+    "word": "expenditure",
+    "translate": "消費；開銷",
+    "id": 836
+  },
+  {
+    "word": "fiscal",
+    "translate": "財政的；會計的",
+    "id": 837
+  },
+  {
+    "word": "fund",
+    "translate": "基金；專款",
+    "id": 838
+  },
+  {
+    "word": "holding",
+    "translate": "土地；財產",
+    "id": 839
+  },
+  {
+    "word": "ledger",
+    "translate": "總帳；分類帳",
+    "id": 840
+  },
+  {
+    "word": "overdue",
+    "translate": "過期未付的",
+    "id": 841
+  },
+  {
+    "word": "remuneration",
+    "translate": "報酬；酬勞",
+    "id": 842
+  },
+  {
+    "word": "yield",
+    "translate": "(1)生產量；收益(2)生產；產生",
+    "id": 843
+  },
+  {
+    "word": "bid",
+    "translate": "出價；投標；喊價",
+    "id": 844
+  },
+  {
+    "word": "commercial",
+    "translate": "商業化；商用的；營利的",
+    "id": 845
+  },
+  {
+    "word": "consolidate",
+    "translate": "結合；合併；強化；鞏固",
+    "id": 846
+  },
+  {
+    "word": "contract",
+    "translate": "契約；合同",
+    "id": 847
+  },
+  {
+    "word": "corporate",
+    "translate": "全體的；團體的；公司的；法人的",
+    "id": 848
+  },
+  {
+    "word": "credible",
+    "translate": "可信的；可靠的",
+    "id": 849
+  },
+  {
+    "word": "debit",
+    "translate": "借方；借項",
+    "id": 850
+  },
+  {
+    "word": "earnings",
+    "translate": "薪水；工資；收益",
+    "id": 851
+  },
+  {
+    "word": "export",
+    "translate": "輸出；出口",
+    "id": 852
+  },
+  {
+    "word": "haggle",
+    "translate": "討價還價",
+    "id": 853
+  },
+  {
+    "word": "import",
+    "translate": "輸入；進口",
+    "id": 854
+  },
+  {
+    "word": "long-range",
+    "translate": "長期的；遠程的",
+    "id": 855
+  },
+  {
+    "word": "quote",
+    "translate": "報價",
+    "id": 856
+  },
+  {
+    "word": "supply",
+    "translate": "供應品；供應物；庫存",
+    "id": 857
+  },
+  {
+    "word": "tariff",
+    "translate": "關稅",
+    "id": 858
+  },
+  {
+    "word": "voucher",
+    "translate": "保證人；憑證；憑單；折價券",
+    "id": 859
+  },
+  {
+    "word": "bill of lading",
+    "translate": "提貨單",
+    "id": 860
+  },
+  {
+    "word": "consignee",
+    "translate": "收件人；受託人",
+    "id": 861
+  },
+  {
+    "word": "consumer",
+    "translate": "消費者；顧客",
+    "id": 862
+  },
+  {
+    "word": "contractor",
+    "translate": "立契約人；承包商",
+    "id": 863
+  },
+  {
+    "word": "cost-effective",
+    "translate": "符合成本效益的",
+    "id": 864
+  },
+  {
+    "word": "dealer",
+    "translate": "商人；業者",
+    "id": 865
+  },
+  {
+    "word": "due",
+    "translate": "應付的；到期的；該發生的",
+    "id": 866
+  },
+  {
+    "word": "forward",
+    "translate": "送到，轉號",
+    "id": 867
+  },
+  {
+    "word": "letter of credit",
+    "translate": "信用狀",
+    "id": 868
+  },
+  {
+    "word": "order",
+    "translate": "匯單；訂貨；訂單；匯票",
+    "id": 869
+  },
+  {
+    "word": "patent",
+    "translate": "專利；取得⋯⋯的專利",
+    "id": 870
+  },
+  {
+    "word": "shipment",
+    "translate": "一批貨",
+    "id": 871
+  },
+  {
+    "word": "surplus",
+    "translate": "(1)過剩的量；盈餘(2)過剩的；剩餘的",
+    "id": 872
+  },
+  {
+    "word": "trademark",
+    "translate": "注冊商標",
+    "id": 873
+  },
+  {
+    "word": "warehouse",
+    "translate": "倉庫；貨價；大商店",
+    "id": 874
+  },
+  {
+    "word": "agreement",
+    "translate": "同意；協定",
+    "id": 875
+  },
+  {
+    "word": "amendment",
+    "translate": "修正",
+    "id": 876
+  },
+  {
+    "word": "approval",
+    "translate": "贊成；同意",
+    "id": 877
+  },
+  {
+    "word": "attentive",
+    "translate": "注意的；留心的專心的",
+    "id": 878
+  },
+  {
+    "word": "board",
+    "translate": "理事會；委員會；董事會",
+    "id": 879
+  },
+  {
+    "word": "concede",
+    "translate": "容忍；容許；讓步",
+    "id": 880
+  },
+  {
+    "word": "convince",
+    "translate": "使信服",
+    "id": 881
+  },
+  {
+    "word": "cross-reference",
+    "translate": "前後參照；(使)前後參照",
+    "id": 882
+  },
+  {
+    "word": "delegate",
+    "translate": "代表",
+    "id": 883
+  },
+  {
+    "word": "demand",
+    "translate": "要求；強求",
+    "id": 884
+  },
+  {
+    "word": "dispute",
+    "translate": "爭端；爭執；糾紛",
+    "id": 885
+  },
+  {
+    "word": "negotiation",
+    "translate": "協商；談判",
+    "id": 886
+  },
+  {
+    "word": "persuade",
+    "translate": "說服；勸服",
+    "id": 887
+  },
+  {
+    "word": "reconcile",
+    "translate": "調和；調解",
+    "id": 888
+  },
+  {
+    "word": "settlement",
+    "translate": "協議；支付",
+    "id": 889
+  },
+  {
+    "word": "alternative",
+    "translate": "可供選擇的事物 方式等",
+    "id": 890
+  },
+  {
+    "word": "announce",
+    "translate": "通告；宣佈；宣告；公諸於眾",
+    "id": 891
+  },
+  {
+    "word": "articulate",
+    "translate": "能清楚有力表達思想感情的；表達能力強的",
+    "id": 892
+  },
+  {
+    "word": "attorney",
+    "translate": "律師",
+    "id": 893
+  },
+  {
+    "word": "breakthrough",
+    "translate": "突破；重大進展",
+    "id": 894
+  },
+  {
+    "word": "compromise",
+    "translate": "妥協；折衷；和解",
+    "id": 895
+  },
+  {
+    "word": "conclusive",
+    "translate": "決定性的；勿庸置疑的",
+    "id": 896
+  },
+  {
+    "word": "converse",
+    "translate": "談話；交談",
+    "id": 897
+  },
+  {
+    "word": "criterion",
+    "translate": "規範；標準",
+    "id": 898
+  },
+  {
+    "word": "demonstration",
+    "translate": "示範；實證；(遊行)示威",
+    "id": 899
+  },
+  {
+    "word": "diplomacy",
+    "translate": "外交手腕；交際手段",
+    "id": 900
+  },
+  {
+    "word": "dissuade",
+    "translate": "勸阻",
+    "id": 901
+  },
+  {
+    "word": "petition",
+    "translate": "請願(書)；請願",
+    "id": 902
+  },
+  {
+    "word": "premise",
+    "translate": "前提",
+    "id": 903
+  },
+  {
+    "word": "statement",
+    "translate": "聲明；陳述",
+    "id": 904
+  },
+  {
+    "word": "advance",
+    "translate": "前進；進展",
+    "id": 905
+  },
+  {
+    "word": "capacity",
+    "translate": "容量；才能；能力",
+    "id": 906
+  },
+  {
+    "word": "component",
+    "translate": "構成要素；成分；零件",
+    "id": 907
+  },
+  {
+    "word": "device",
+    "translate": "裝置；設備；圖案；設計",
+    "id": 908
+  },
+  {
+    "word": "fuel",
+    "translate": "燃料",
+    "id": 909
+  },
+  {
+    "word": "generator",
+    "translate": "發電機；產生器",
+    "id": 910
+  },
+  {
+    "word": "innovative",
+    "translate": "創新；革新的",
+    "id": 911
+  },
+  {
+    "word": "inventor",
+    "translate": "發明家",
+    "id": 912
+  },
+  {
+    "word": "leading edge",
+    "translate": "居領先優勢的",
+    "id": 913
+  },
+  {
+    "word": "malfunction",
+    "translate": "故障；發生故障，機能失常",
+    "id": 914
+  },
+  {
+    "word": "mode",
+    "translate": "樣式；模式；方式；風尚；時尚",
+    "id": 915
+  },
+  {
+    "word": "operate",
+    "translate": "操作；運轉；經營",
+    "id": 916
+  },
+  {
+    "word": "outlet",
+    "translate": "出口；排水口；銷售店；商行；插座；銷路",
+    "id": 917
+  },
+  {
+    "word": "portable",
+    "translate": "可攜帶的；輕便的",
+    "id": 918
+  },
+  {
+    "word": "raw material",
+    "translate": "原料",
+    "id": 919
+  },
+  {
+    "word": "specification",
+    "translate": "說明；詳述",
+    "id": 920
+  },
+  {
+    "word": "substandard",
+    "translate": "標準以下的",
+    "id": 921
+  },
+  {
+    "word": "automaton",
+    "translate": "自動操作裝置；機器人",
+    "id": 922
+  },
+  {
+    "word": "cell(ular) phone",
+    "translate": "移動電話；手機",
+    "id": 923
+  },
+  {
+    "word": "consecutive",
+    "translate": "連續的；連貫的",
+    "id": 924
+  },
+  {
+    "word": "equipment",
+    "translate": "裝備；設備",
+    "id": 925
+  },
+  {
+    "word": "gadget",
+    "translate": "小巧的機械裝置；小玩意",
+    "id": 926
+  },
+  {
+    "word": "hands-on",
+    "translate": "實地操作的；親身體驗的",
+    "id": 927
+  },
+  {
+    "word": "maintenance",
+    "translate": "維護；保養",
+    "id": 928
+  },
+  {
+    "word": "manual",
+    "translate": "使用手冊，指南；手工的",
+    "id": 929
+  },
+  {
+    "word": "network",
+    "translate": "網路系統；廣播、電視網；電腦網",
+    "id": 930
+  },
+  {
+    "word": "outage",
+    "translate": "電力中斷；斷電",
+    "id": 931
+  },
+  {
+    "word": "petroleum",
+    "translate": "石油",
+    "id": 932
+  },
+  {
+    "word": "procedure",
+    "translate": "程式；手續",
+    "id": 933
+  },
+  {
+    "word": "solar",
+    "translate": "(源自)太陽的；依太陽而運行的",
+    "id": 934
+  },
+  {
+    "word": "static",
+    "translate": "靜電干擾；靜止的；靜態的；靜電的",
+    "id": 935
+  },
+  {
+    "word": "turn down",
+    "translate": "關小(聲)",
+    "id": 936
+  },
+  {
+    "word": "access",
+    "translate": "進入；接近；使用；取得",
+    "id": 937
+  },
+  {
+    "word": "automatically",
+    "translate": "無意識的；不自覺的；自動的",
+    "id": 938
+  },
+  {
+    "word": "cable",
+    "translate": "纜線；電纜",
+    "id": 939
+  },
+  {
+    "word": "compliance",
+    "translate": "順從；服從；附和；屈從",
+    "id": 940
+  },
+  {
+    "word": "cutting edge",
+    "translate": "尖刻；尖銳；先鋒地位 尖端的",
+    "id": 941
+  },
+  {
+    "word": "delete",
+    "translate": "刪除",
+    "id": 942
+  },
+  {
+    "word": "digital",
+    "translate": "數位的；數位顯示的",
+    "id": 943
+  },
+  {
+    "word": "hacker",
+    "translate": "熱衷電腦的人，駭客",
+    "id": 944
+  },
+  {
+    "word": "input",
+    "translate": "輸入電腦",
+    "id": 945
+  },
+  {
+    "word": "Internet",
+    "translate": "國際互聯網",
+    "id": 946
+  },
+  {
+    "word": "laptop",
+    "translate": "筆記本電腦",
+    "id": 947
+  },
+  {
+    "word": "multimedia",
+    "translate": "多媒體",
+    "id": 948
+  },
+  {
+    "word": "retrieval",
+    "translate": "取回；恢復",
+    "id": 949
+  },
+  {
+    "word": "search engine",
+    "translate": "搜索引擎",
+    "id": 950
+  },
+  {
+    "word": "shut down",
+    "translate": "使關閉；使停業",
+    "id": 951
+  },
+  {
+    "word": "terminology",
+    "translate": "專業術語；專有名詞",
+    "id": 952
+  },
+  {
+    "word": "troubleshooting",
+    "translate": "檢修；解決困難的",
+    "id": 953
+  },
+  {
+    "word": "up-to-date",
+    "translate": "最近的；最新的",
+    "id": 954
+  },
+  {
+    "word": "activate",
+    "translate": "使活動；觸發；啟動",
+    "id": 955
+  },
+  {
+    "word": "browse",
+    "translate": "流覽；隨便翻閱",
+    "id": 956
+  },
+  {
+    "word": "command",
+    "translate": "指令；命令；掌握",
+    "id": 957
+  },
+  {
+    "word": "configuration",
+    "translate": "結構；構造；配置",
+    "id": 958
+  },
+  {
+    "word": "database",
+    "translate": "資料庫",
+    "id": 959
+  },
+  {
+    "word": "desktop",
+    "translate": "桌上型的",
+    "id": 960
+  },
+  {
+    "word": "downgrade",
+    "translate": "降級；使降職",
+    "id": 961
+  },
+  {
+    "word": "floppy(disk)",
+    "translate": "軟碟",
+    "id": 962
+  },
+  {
+    "word": "hyperlink",
+    "translate": "超鏈結",
+    "id": 963
+  },
+  {
+    "word": "install",
+    "translate": "安裝；安置",
+    "id": 964
+  },
+  {
+    "word": "know-how",
+    "translate": "技能；專業知識；竅門",
+    "id": 965
+  },
+  {
+    "word": "modern",
+    "translate": "數據機",
+    "id": 966
+  },
+  {
+    "word": "omit",
+    "translate": "忽略；刪除；疏忽",
+    "id": 967
+  },
+  {
+    "word": "scanner",
+    "translate": "掃描器",
+    "id": 968
+  },
+  {
+    "word": "server",
+    "translate": "伺服器",
+    "id": 969
+  },
+  {
+    "word": "spreadsheet",
+    "translate": "電子製表軟體；試算表",
+    "id": 970
+  },
+  {
+    "word": "switch",
+    "translate": "開關；驟變",
+    "id": 971
+  },
+  {
+    "word": "transmission",
+    "translate": "傳輸；傳送",
+    "id": 972
+  },
+  {
+    "word": "upgrade",
+    "translate": "升級；提升",
+    "id": 973
+  },
+  {
+    "word": "virus",
+    "translate": "濾過性病毒；電腦病毒",
+    "id": 974
+  },
+  {
+    "word": "appendix",
+    "translate": "附錄",
+    "id": 975
+  },
+  {
+    "word": "cohesive",
+    "translate": "有粘著力的；有結合力的；凝聚性的",
+    "id": 976
+  },
+  {
+    "word": "confidential",
+    "translate": "秘密的；機密的",
+    "id": 977
+  },
+  {
+    "word": "correspondence",
+    "translate": "通信；信件",
+    "id": 978
+  },
+  {
+    "word": "elaborate",
+    "translate": "詳盡說明；詳盡的；精心製作的",
+    "id": 979
+  },
+  {
+    "word": "inquire",
+    "translate": "調查；詢問",
+    "id": 980
+  },
+  {
+    "word": "jot down",
+    "translate": "略記下；匆匆記下",
+    "id": 981
+  },
+  {
+    "word": "publicity",
+    "translate": "公開；宣傳；盡人皆知",
+    "id": 982
+  },
+  {
+    "word": "response",
+    "translate": "回應",
+    "id": 983
+  },
+  {
+    "word": "revise",
+    "translate": "修訂；修改；校訂",
+    "id": 984
+  },
+  {
+    "word": "slogan",
+    "translate": "口號；標語",
+    "id": 985
+  },
+  {
+    "word": "urgent",
+    "translate": "緊急的；急迫的",
+    "id": 986
+  },
+  {
+    "word": "affirm",
+    "translate": "堅稱；聲明；斷言；確認",
+    "id": 987
+  },
+  {
+    "word": "ASAP",
+    "translate": "越快越好",
+    "id": 988
+  },
+  {
+    "word": "banner",
+    "translate": "標語；旗幟",
+    "id": 989
+  },
+  {
+    "word": "circular",
+    "translate": "廣告；傳單；通告",
+    "id": 990
+  },
+  {
+    "word": "composition",
+    "translate": "寫作；作品；作文；作曲",
+    "id": 991
+  },
+  {
+    "word": "courier",
+    "translate": "遞送急件的信差；郵物專遞公司",
+    "id": 992
+  },
+  {
+    "word": "draft",
+    "translate": "草稿；匯票",
+    "id": 993
+  },
+  {
+    "word": "inform",
+    "translate": "通知；告知",
+    "id": 994
+  },
+  {
+    "word": "issue",
+    "translate": "流出；放出；發行；發佈",
+    "id": 995
+  },
+  {
+    "word": "layout",
+    "translate": "規劃；設計；編排",
+    "id": 996
+  },
+  {
+    "word": "legible",
+    "translate": "(字跡)可以辨認的；易讀的",
+    "id": 997
+  },
+  {
+    "word": "regarding",
+    "translate": "關於；有關",
+    "id": 998
+  },
+  {
+    "word": "restate",
+    "translate": "再聲明；重新敍述；(換一種方式)重說",
+    "id": 999
+  },
+  {
+    "word": "stationery",
+    "translate": "文具；信紙；信箋",
+    "id": 1000
+  },
+  {
+    "word": "write-up",
+    "translate": "報告書",
+    "id": 1001
+  },
+  {
+    "word": "write up",
+    "translate": "詳細寫",
+    "id": 1002
+  },
+  {
+    "word": "accommodation",
+    "translate": "適應；住所；膳宿",
+    "id": 1003
+  },
+  {
+    "word": "boarding pass",
+    "translate": "登機牌",
+    "id": 1004
+  },
+  {
+    "word": "checkout",
+    "translate": "結帳退房的時間",
+    "id": 1005
+  },
+  {
+    "word": "check out",
+    "translate": "辦理退房；結帳離開",
+    "id": 1006
+  },
+  {
+    "word": "confirmation",
+    "translate": "確認",
+    "id": 1007
+  },
+  {
+    "word": "customs",
+    "translate": "海關；關稅",
+    "id": 1008
+  },
+  {
+    "word": "departure",
+    "translate": "離開；出發",
+    "id": 1009
+  },
+  {
+    "word": "en route",
+    "translate": "在途中",
+    "id": 1010
+  },
+  {
+    "word": "expedition",
+    "translate": "探險；遠征隊",
+    "id": 1011
+  },
+  {
+    "word": "flight",
+    "translate": "飛行；航班；航程",
+    "id": 1012
+  },
+  {
+    "word": "lodge",
+    "translate": "小屋；旅館",
+    "id": 1013
+  },
+  {
+    "word": "motel",
+    "translate": "汽車旅館",
+    "id": 1014
+  },
+  {
+    "word": "packing",
+    "translate": "包裝；打包",
+    "id": 1015
+  },
+  {
+    "word": "peak season",
+    "translate": "旺季",
+    "id": 1016
+  },
+  {
+    "word": "sightseeing",
+    "translate": "觀光；遊覽",
+    "id": 1017
+  },
+  {
+    "word": "suite",
+    "translate": "(旅館的)套房",
+    "id": 1018
+  },
+  {
+    "word": "valid",
+    "translate": "依法有效的；有效的",
+    "id": 1019
+  },
+  {
+    "word": "baggage claim",
+    "translate": "行李提領處",
+    "id": 1020
+  },
+  {
+    "word": "breathtaking",
+    "translate": "驚人的；驚豔的；驚險的",
+    "id": 1021
+  },
+  {
+    "word": "carry-on",
+    "translate": "登機行李；手提行李",
+    "id": 1022
+  },
+  {
+    "word": "concierge",
+    "translate": "管理員；門房",
+    "id": 1023
+  },
+  {
+    "word": "deluxe",
+    "translate": "豪華的；高級的",
+    "id": 1024
+  },
+  {
+    "word": "destination",
+    "translate": "目的地",
+    "id": 1025
+  },
+  {
+    "word": "fasten",
+    "translate": "系緊；拴住；扣住",
+    "id": 1026
+  },
+  {
+    "word": "jet lag",
+    "translate": "時差",
+    "id": 1027
+  },
+  {
+    "word": "metal detector",
+    "translate": "金屬探測器",
+    "id": 1028
+  },
+  {
+    "word": "overseas",
+    "translate": "在海外的，國外的",
+    "id": 1029
+  },
+  {
+    "word": "round-trip",
+    "translate": "來回的，雙程的",
+    "id": 1030
+  },
+  {
+    "word": "stopover",
+    "translate": "中途停留",
+    "id": 1031
+  },
+  {
+    "word": "vacant",
+    "translate": "空的，未被佔用的",
+    "id": 1032
+  },
+  {
+    "word": "voyage",
+    "translate": "旅行；航行",
+    "id": 1033
+  },
+  {
+    "word": "accelerate",
+    "translate": "加速；促進；前進",
+    "id": 1034
+  },
+  {
+    "word": "aircraft",
+    "translate": "飛機；飛行器；航空器",
+    "id": 1035
+  },
+  {
+    "word": "arrival",
+    "translate": "到達；抵達",
+    "id": 1036
+  },
+  {
+    "word": "buckle up",
+    "translate": "系安全帶",
+    "id": 1037
+  },
+  {
+    "word": "convertible",
+    "translate": "敞篷車",
+    "id": 1038
+  },
+  {
+    "word": "crash landing",
+    "translate": "迫降",
+    "id": 1039
+  },
+  {
+    "word": "delay",
+    "translate": "耽擱；延遲",
+    "id": 1040
+  },
+  {
+    "word": "ground crew",
+    "translate": "地勤人員",
+    "id": 1041
+  },
+  {
+    "word": "jaywalk",
+    "translate": "不遵守交通規則穿越馬路；闖紅燈",
+    "id": 1042
+  },
+  {
+    "word": "navigate",
+    "translate": "航行；駕駛",
+    "id": 1043
+  },
+  {
+    "word": "route",
+    "translate": "路徑；路線",
+    "id": 1044
+  },
+  {
+    "word": "seat belt",
+    "translate": "安全帶",
+    "id": 1045
+  },
+  {
+    "word": "subway",
+    "translate": "地鐵",
+    "id": 1046
+  },
+  {
+    "word": "taxicab",
+    "translate": "計程車",
+    "id": 1047
+  },
+  {
+    "word": "transit",
+    "translate": "運輸；通過",
+    "id": 1048
+  },
+  {
+    "word": "vehicle",
+    "translate": "交通工具；車輛",
+    "id": 1049
+  },
+  {
+    "word": "acrophobia",
+    "translate": "恐高症",
+    "id": 1050
+  },
+  {
+    "word": "airliner",
+    "translate": "大型客機",
+    "id": 1051
+  },
+  {
+    "word": "aviation",
+    "translate": "飛行；航空學",
+    "id": 1052
+  },
+  {
+    "word": "cabin",
+    "translate": "小屋；客艙；機艙",
+    "id": 1053
+  },
+  {
+    "word": "commuter",
+    "translate": "通勤者",
+    "id": 1054
+  },
+  {
+    "word": "conveyance",
+    "translate": "運輸；交通工具",
+    "id": 1055
+  },
+  {
+    "word": "crossroads",
+    "translate": "十字路口",
+    "id": 1056
+  },
+  {
+    "word": "ferry",
+    "translate": "渡輪",
+    "id": 1057
+  },
+  {
+    "word": "jeopardy",
+    "translate": "風險；危險；危難",
+    "id": 1058
+  },
+  {
+    "word": "life vest",
+    "translate": "救生衣",
+    "id": 1059
+  },
+  {
+    "word": "restriction",
+    "translate": "限制；約束",
+    "id": 1060
+  },
+  {
+    "word": "runway",
+    "translate": "飛機跑道",
+    "id": 1061
+  },
+  {
+    "word": "shortcut",
+    "translate": "近路；捷徑",
+    "id": 1062
+  },
+  {
+    "word": "take off",
+    "translate": "起飛",
+    "id": 1063
+  },
+  {
+    "word": "timetable",
+    "translate": "時間表；時刻表",
+    "id": 1064
+  },
+  {
+    "word": "transport",
+    "translate": "運輸；交通工具；運輸系",
+    "id": 1065
+  },
+  {
+    "word": "via",
+    "translate": "經由；借由",
+    "id": 1066
+  },
+  {
+    "word": "affordable",
+    "translate": "負擔的起的",
+    "id": 1067
+  },
+  {
+    "word": "bazaar",
+    "translate": "市場；集市",
+    "id": 1068
+  },
+  {
+    "word": "expiration",
+    "translate": "終結；期滿",
+    "id": 1069
+  },
+  {
+    "word": "itemize",
+    "translate": "詳細列舉；分條列舉",
+    "id": 1070
+  },
+  {
+    "word": "neon sign",
+    "translate": "霓虹燈招牌",
+    "id": 1071
+  },
+  {
+    "word": "pushcart",
+    "translate": "手推車",
+    "id": 1072
+  },
+  {
+    "word": "receipt",
+    "translate": "收據",
+    "id": 1073
+  },
+  {
+    "word": "request",
+    "translate": "請求；要求",
+    "id": 1074
+  },
+  {
+    "word": "sample",
+    "translate": "樣品；樣本",
+    "id": 1075
+  },
+  {
+    "word": "solicit",
+    "translate": "請求；懇求；祈求",
+    "id": 1076
+  },
+  {
+    "word": "trendy",
+    "translate": "時髦的；流行的",
+    "id": 1077
+  },
+  {
+    "word": "VIP",
+    "translate": "貴賓",
+    "id": 1078
+  },
+  {
+    "word": "wholesale",
+    "translate": "批發的；批發地",
+    "id": 1079
+  },
+  {
+    "word": "bargain",
+    "translate": "便宜貨；廉價品",
+    "id": 1080
+  },
+  {
+    "word": "cash register",
+    "translate": "手銀機",
+    "id": 1081
+  },
+  {
+    "word": "coupon",
+    "translate": "折價券；贈獎券",
+    "id": 1082
+  },
+  {
+    "word": "defective",
+    "translate": "有毛病的；有問題的，有瑕疵的",
+    "id": 1083
+  },
+  {
+    "word": "display",
+    "translate": "陳列；展示品",
+    "id": 1084
+  },
+  {
+    "word": "drugstore",
+    "translate": "兼賣雜貨的藥房",
+    "id": 1085
+  },
+  {
+    "word": "flea market",
+    "translate": "跳蚤市場",
+    "id": 1086
+  },
+  {
+    "word": "label",
+    "translate": "標籤；標記",
+    "id": 1087
+  },
+  {
+    "word": "modify",
+    "translate": "修改；變更",
+    "id": 1088
+  },
+  {
+    "word": "purchase",
+    "translate": "購買；購得之物",
+    "id": 1089
+  },
+  {
+    "word": "quantity",
+    "translate": "量；數量",
+    "id": 1090
+  },
+  {
+    "word": "replacement",
+    "translate": "代替；替換",
+    "id": 1091
+  },
+  {
+    "word": "retailer",
+    "translate": "零售商",
+    "id": 1092
+  },
+  {
+    "word": "shopping mall",
+    "translate": "大型購物中心",
+    "id": 1093
+  },
+  {
+    "word": "thrift",
+    "translate": "節儉；節約",
+    "id": 1094
+  },
+  {
+    "word": "vender",
+    "translate": "小販",
+    "id": 1095
+  },
+  {
+    "word": "workmanship",
+    "translate": "技巧；手藝",
+    "id": 1096
+  },
+  {
+    "word": "alcohol",
+    "translate": "酒精",
+    "id": 1097
+  },
+  {
+    "word": "appetite",
+    "translate": "胃口，食欲",
+    "id": 1098
+  },
+  {
+    "word": "artificial",
+    "translate": "人造的；仿真的",
+    "id": 1099
+  },
+  {
+    "word": "bland",
+    "translate": "淡而無味的；溫和的；無刺激性的",
+    "id": 1100
+  },
+  {
+    "word": "chef",
+    "translate": "主廚；大廚",
+    "id": 1101
+  },
+  {
+    "word": "crave",
+    "translate": "渴望",
+    "id": 1102
+  },
+  {
+    "word": "delicacy",
+    "translate": "佳餚",
+    "id": 1103
+  },
+  {
+    "word": "digest",
+    "translate": "消化",
+    "id": 1104
+  },
+  {
+    "word": "fragrant",
+    "translate": "有香味的；芳香的",
+    "id": 1105
+  },
+  {
+    "word": "ingredient",
+    "translate": "成分；配料；配方",
+    "id": 1106
+  },
+  {
+    "word": "liquor",
+    "translate": "烈酒(如威士卡)",
+    "id": 1107
+  },
+  {
+    "word": "munch",
+    "translate": "用力嚼；大聲咀嚼",
+    "id": 1108
+  },
+  {
+    "word": "palatable",
+    "translate": "美味的；順耳的；怡人的",
+    "id": 1109
+  },
+  {
+    "word": "pass up",
+    "translate": "放過；錯過",
+    "id": 1110
+  },
+  {
+    "word": "portion",
+    "translate": "部分；一份",
+    "id": 1111
+  },
+  {
+    "word": "ravenous",
+    "translate": "饑餓的；貪婪的",
+    "id": 1112
+  },
+  {
+    "word": "silverware",
+    "translate": "銀器；鍍銀餐具",
+    "id": 1113
+  },
+  {
+    "word": "specialty",
+    "translate": "專攻；專業；專長；特製品",
+    "id": 1114
+  },
+  {
+    "word": "starve",
+    "translate": "餓死；挨餓",
+    "id": 1115
+  },
+  {
+    "word": "aperitif",
+    "translate": "飯前酒",
+    "id": 1116
+  },
+  {
+    "word": "appetizer",
+    "translate": "開胃菜",
+    "id": 1117
+  },
+  {
+    "word": "chopsticks",
+    "translate": "筷子",
+    "id": 1118
+  },
+  {
+    "word": "cuisine",
+    "translate": "烹調",
+    "id": 1119
+  },
+  {
+    "word": "dessert",
+    "translate": "餐後甜點",
+    "id": 1120
+  },
+  {
+    "word": "entree",
+    "translate": "主菜",
+    "id": 1121
+  },
+  {
+    "word": "hors d'oeuvre",
+    "translate": "開胃小菜",
+    "id": 1122
+  },
+  {
+    "word": "leftovers",
+    "translate": "剩飯剩菜",
+    "id": 1123
+  },
+  {
+    "word": "menu",
+    "translate": "菜單",
+    "id": 1124
+  },
+  {
+    "word": "napkin",
+    "translate": "餐巾",
+    "id": 1125
+  },
+  {
+    "word": "parched",
+    "translate": "焦幹的；極渴的",
+    "id": 1126
+  },
+  {
+    "word": "pastry",
+    "translate": "用麵團和油酥烤成的小甜點心",
+    "id": 1127
+  },
+  {
+    "word": "preservative",
+    "translate": "防腐劑",
+    "id": 1128
+  },
+  {
+    "word": "seasoning",
+    "translate": "調味品；佐料",
+    "id": 1129
+  },
+  {
+    "word": "snack",
+    "translate": "小吃；點心 吃點心",
+    "id": 1130
+  },
+  {
+    "word": "spice",
+    "translate": "香料；調味品",
+    "id": 1131
+  },
+  {
+    "word": "acceptance",
+    "translate": "接受；贊同",
+    "id": 1132
+  },
+  {
+    "word": "acquaintance",
+    "translate": "相識但是不是很熟的人",
+    "id": 1133
+  },
+  {
+    "word": "anniversary",
+    "translate": "周年紀念日",
+    "id": 1134
+  },
+  {
+    "word": "associate",
+    "translate": "(1)同事；夥伴(2)聯想；交往",
+    "id": 1135
+  },
+  {
+    "word": "banquet",
+    "translate": "酒席；正式的宴會",
+    "id": 1136
+  },
+  {
+    "word": "commitment",
+    "translate": "承諾；許諾",
+    "id": 1137
+  },
+  {
+    "word": "courtesy",
+    "translate": "禮貌；禮儀；好意；殷勤",
+    "id": 1138
+  },
+  {
+    "word": "distinguished",
+    "translate": "卓越的；傑出的；著名的",
+    "id": 1139
+  },
+  {
+    "word": "embrace",
+    "translate": "擁抱；圍繞；包括",
+    "id": 1140
+  },
+  {
+    "word": "farewell",
+    "translate": "一路平安；再見；告別",
+    "id": 1141
+  },
+  {
+    "word": "get-together",
+    "translate": "(非正式的社交)聚會",
+    "id": 1142
+  },
+  {
+    "word": "greeting",
+    "translate": "致敬；問候；(複數)致意；贊詞",
+    "id": 1143
+  },
+  {
+    "word": "hug",
+    "translate": "擁抱；緊抱",
+    "id": 1144
+  },
+  {
+    "word": "lavish",
+    "translate": "過分大方的；浪費的；豐富的",
+    "id": 1145
+  },
+  {
+    "word": "nosy",
+    "translate": "好管閒事的；愛打聽的",
+    "id": 1146
+  },
+  {
+    "word": "offensive",
+    "translate": "令人不快的；討厭的；冒犯的",
+    "id": 1147
+  },
+  {
+    "word": "protocol",
+    "translate": "外交禮儀；草約",
+    "id": 1148
+  },
+  {
+    "word": "regards",
+    "translate": "問候；致意",
+    "id": 1149
+  },
+  {
+    "word": "salute",
+    "translate": "向⋯⋯打招呼；向⋯⋯行軍禮；向⋯⋯表示敬意",
+    "id": 1150
+  },
+  {
+    "word": "acknowledge",
+    "translate": "承認；承認⋯⋯之存在、權力；表示感謝",
+    "id": 1151
+  },
+  {
+    "word": "aggressive",
+    "translate": "挑釁的；有侵略性的；有進取心的；積極的",
+    "id": 1152
+  },
+  {
+    "word": "apologize",
+    "translate": "道歉",
+    "id": 1153
+  },
+  {
+    "word": "attractive",
+    "translate": "引人入勝；有吸引力的；迷人的",
+    "id": 1154
+  },
+  {
+    "word": "barrier",
+    "translate": "障礙；障礙物；隔閡",
+    "id": 1155
+  },
+  {
+    "word": "compliment",
+    "translate": "讚揚；恭維",
+    "id": 1156
+  },
+  {
+    "word": "criticize",
+    "translate": "批評；評論",
+    "id": 1157
+  },
+  {
+    "word": "eloquent",
+    "translate": "口才好的；雄辯的",
+    "id": 1158
+  },
+  {
+    "word": "encounter",
+    "translate": "相遇；遭遇 偶然碰見；面臨",
+    "id": 1159
+  },
+  {
+    "word": "extend",
+    "translate": "延伸 延續；擴大；延長；給予；提供",
+    "id": 1160
+  },
+  {
+    "word": "favorable",
+    "translate": "令人滿意的；博得贊許的；有説明的；有利的",
+    "id": 1161
+  },
+  {
+    "word": "gossip",
+    "translate": "閒話；流言；說閒話",
+    "id": 1162
+  },
+  {
+    "word": "hilarious",
+    "translate": "狂歡的；令人捧腹的",
+    "id": 1163
+  },
+  {
+    "word": "intrude",
+    "translate": "闖入；侵入；把⋯⋯強加諸於",
+    "id": 1164
+  },
+  {
+    "word": "modest",
+    "translate": "謙遜的；適度的；樸實的；端莊的",
+    "id": 1165
+  },
+  {
+    "word": "nuisance",
+    "translate": "討厭之人、事、物",
+    "id": 1166
+  },
+  {
+    "word": "prompt",
+    "translate": "準時的；按時的；迅速的；立刻行動的",
+    "id": 1167
+  },
+  {
+    "word": "quarrel",
+    "translate": "爭吵；爭論 吵架",
+    "id": 1168
+  },
+  {
+    "word": "scandal",
+    "translate": "醜聞；引人憤慨之事",
+    "id": 1169
+  },
+  {
+    "word": "amuse",
+    "translate": "使歡樂；使愉快；使發笑",
+    "id": 1170
+  },
+  {
+    "word": "ballet",
+    "translate": "芭蕾舞",
+    "id": 1171
+  },
+  {
+    "word": "cable TV",
+    "translate": "有線電視",
+    "id": 1172
+  },
+  {
+    "word": "celebrity",
+    "translate": "名人；名聲",
+    "id": 1173
+  },
+  {
+    "word": "cinema",
+    "translate": "電影；影片；電影院；電影藝術；電影業",
+    "id": 1174
+  },
+  {
+    "word": "composer",
+    "translate": "作曲家",
+    "id": 1175
+  },
+  {
+    "word": "cue",
+    "translate": "暗示；提示",
+    "id": 1176
+  },
+  {
+    "word": "drama",
+    "translate": "戲劇；劇本",
+    "id": 1177
+  },
+  {
+    "word": "newscast",
+    "translate": "新聞廣播",
+    "id": 1178
+  },
+  {
+    "word": "periodical",
+    "translate": "雜誌；期刊",
+    "id": 1179
+  },
+  {
+    "word": "premiere",
+    "translate": "首次公演；首映",
+    "id": 1180
+  },
+  {
+    "word": "scenario",
+    "translate": "戲劇的情節",
+    "id": 1181
+  },
+  {
+    "word": "scriptwriter",
+    "translate": "劇作家；編劇",
+    "id": 1182
+  },
+  {
+    "word": "symphony",
+    "translate": "交響曲",
+    "id": 1183
+  },
+  {
+    "word": "ticket office",
+    "translate": "售票處",
+    "id": 1184
+  },
+  {
+    "word": "applaud",
+    "translate": "鼓掌",
+    "id": 1185
+  },
+  {
+    "word": "audition",
+    "translate": "試聽；試演",
+    "id": 1186
+  },
+  {
+    "word": "broadcast",
+    "translate": "廣播；宣傳",
+    "id": 1187
+  },
+  {
+    "word": "carnival",
+    "translate": "狂歡；歡宴；嘉年華會；巡迴娛樂表演",
+    "id": 1188
+  },
+  {
+    "word": "choreography",
+    "translate": "舞蹈設計；編舞",
+    "id": 1189
+  },
+  {
+    "word": "circus",
+    "translate": "馬戲團",
+    "id": 1190
+  },
+  {
+    "word": "critic",
+    "translate": "批評家；評論家；吹毛求疵的人",
+    "id": 1191
+  },
+  {
+    "word": "curtain call",
+    "translate": "謝幕",
+    "id": 1192
+  },
+  {
+    "word": "editorial",
+    "translate": "社論",
+    "id": 1193
+  },
+  {
+    "word": "finale",
+    "translate": "結局；樂曲的最後部分",
+    "id": 1194
+  },
+  {
+    "word": "media",
+    "translate": "媒體",
+    "id": 1195
+  },
+  {
+    "word": "performance",
+    "translate": "演出；表現；性能",
+    "id": 1196
+  },
+  {
+    "word": "playwright",
+    "translate": "劇作家",
+    "id": 1197
+  },
+  {
+    "word": "preview",
+    "translate": "試映；預告片",
+    "id": 1198
+  },
+  {
+    "word": "rehearsal",
+    "translate": "預演；排練",
+    "id": 1199
+  },
+  {
+    "word": "screen",
+    "translate": "隔板；螢幕；螢光屏",
+    "id": 1200
+  },
+  {
+    "word": "stunt",
+    "translate": "特技；噱頭",
+    "id": 1201
+  },
+  {
+    "word": "theater",
+    "translate": "戲院；劇院",
+    "id": 1202
+  },
+  {
+    "word": "violin",
+    "translate": "小提琴",
+    "id": 1203
+  },
+  {
+    "word": "aerobics",
+    "translate": "有氧運動",
+    "id": 1204
+  },
+  {
+    "word": "coach",
+    "translate": "教師；教練",
+    "id": 1205
+  },
+  {
+    "word": "compete",
+    "translate": "競爭；比賽",
+    "id": 1206
+  },
+  {
+    "word": "defeat",
+    "translate": "失敗；擊敗",
+    "id": 1207
+  },
+  {
+    "word": "fitness",
+    "translate": "適合；恰當；身體健康",
+    "id": 1208
+  },
+  {
+    "word": "gym",
+    "translate": "健身房；體育館",
+    "id": 1209
+  },
+  {
+    "word": "league",
+    "translate": "聯盟；同盟",
+    "id": 1210
+  },
+  {
+    "word": "marathon",
+    "translate": "馬拉松；耐力比賽",
+    "id": 1211
+  },
+  {
+    "word": "mountaineering",
+    "translate": "登山運動",
+    "id": 1212
+  },
+  {
+    "word": "participate",
+    "translate": "參與；參加",
+    "id": 1213
+  },
+  {
+    "word": "relaxation",
+    "translate": "鬆弛；緩和；休息；娛樂",
+    "id": 1214
+  },
+  {
+    "word": "rigor",
+    "translate": "嚴格；嚴苛；艱苦",
+    "id": 1215
+  },
+  {
+    "word": "soccer",
+    "translate": "足球",
+    "id": 1216
+  },
+  {
+    "word": "stadium",
+    "translate": "體育場",
+    "id": 1217
+  },
+  {
+    "word": "stroll",
+    "translate": "散步；閒逛",
+    "id": 1218
+  },
+  {
+    "word": "surrender",
+    "translate": "(向敵人)投降；放棄",
+    "id": 1219
+  },
+  {
+    "word": "time-out",
+    "translate": "暫停",
+    "id": 1220
+  },
+  {
+    "word": "trophy",
+    "translate": "獎品；獎盃；戰利品",
+    "id": 1221
+  },
+  {
+    "word": "usher",
+    "translate": "引座員；招待員",
+    "id": 1222
+  },
+  {
+    "word": "billiards",
+    "translate": "撞球",
+    "id": 1223
+  },
+  {
+    "word": "combative",
+    "translate": "好戰的；好鬥的",
+    "id": 1224
+  },
+  {
+    "word": "default",
+    "translate": "違約；棄權",
+    "id": 1225
+  },
+  {
+    "word": "defense",
+    "translate": "保護；防衛",
+    "id": 1226
+  },
+  {
+    "word": "intensity",
+    "translate": "強度；強烈",
+    "id": 1227
+  },
+  {
+    "word": "leisure",
+    "translate": "空閒；閒暇時間",
+    "id": 1228
+  },
+  {
+    "word": "massage",
+    "translate": "按摩；揉捏",
+    "id": 1229
+  },
+  {
+    "word": "muscle",
+    "translate": "肌肉；力量",
+    "id": 1230
+  },
+  {
+    "word": "pastime",
+    "translate": "娛樂；消遣",
+    "id": 1231
+  },
+  {
+    "word": "referee",
+    "translate": "裁判員；仲裁者",
+    "id": 1232
+  },
+  {
+    "word": "rnner-up",
+    "translate": "第二名；亞軍",
+    "id": 1233
+  },
+  {
+    "word": "stretch",
+    "translate": "伸張；伸開；伸展",
+    "id": 1234
+  },
+  {
+    "word": "surfing",
+    "translate": "衝浪",
+    "id": 1235
+  },
+  {
+    "word": "tactic",
+    "translate": "戰略；策略(常用複數)",
+    "id": 1236
+  },
+  {
+    "word": "tournament",
+    "translate": "比賽；錦標賽",
+    "id": 1237
+  },
+  {
+    "word": "umpire",
+    "translate": "裁判；仲裁",
+    "id": 1238
+  },
+  {
+    "word": "volleyball",
+    "translate": "排球",
+    "id": 1239
+  },
+  {
+    "word": "alleviate",
+    "translate": "減輕；緩和",
+    "id": 1240
+  },
+  {
+    "word": "bacteria",
+    "translate": "細菌",
+    "id": 1241
+  },
+  {
+    "word": "collision",
+    "translate": "碰撞；抵觸",
+    "id": 1242
+  },
+  {
+    "word": "compensation",
+    "translate": "補償；賠償；報償",
+    "id": 1243
+  },
+  {
+    "word": "contagious",
+    "translate": "接觸傳染的",
+    "id": 1244
+  },
+  {
+    "word": "crash",
+    "translate": "相撞；碰撞；突然發出巨響",
+    "id": 1245
+  },
+  {
+    "word": "emergency room",
+    "translate": "急診室",
+    "id": 1246
+  },
+  {
+    "word": "expiration date",
+    "translate": "有效期限",
+    "id": 1247
+  },
+  {
+    "word": "general hospital",
+    "translate": "綜合醫院",
+    "id": 1248
+  },
+  {
+    "word": "immune",
+    "translate": "免除的；豁免的；免疫的",
+    "id": 1249
+  },
+  {
+    "word": "infection",
+    "translate": "感染",
+    "id": 1250
+  },
+  {
+    "word": "investigator",
+    "translate": "調查員",
+    "id": 1251
+  },
+  {
+    "word": "mandatory",
+    "translate": "命令的；強制的；義務的",
+    "id": 1252
+  },
+  {
+    "word": "option",
+    "translate": "選擇權；選擇之自由；可選擇的東西",
+    "id": 1253
+  },
+  {
+    "word": "outpatient",
+    "translate": "門診病人",
+    "id": 1254
+  },
+  {
+    "word": "severe",
+    "translate": "嚴苛的；嚴格的；嚴重的",
+    "id": 1255
+  },
+  {
+    "word": "stroke",
+    "translate": "腦血管破裂或阻塞；中風",
+    "id": 1256
+  },
+  {
+    "word": "terms",
+    "translate": "條文；條款；付款條件；價錢",
+    "id": 1257
+  },
+  {
+    "word": "vital",
+    "translate": "非常必要的；及其重要的；攸關生死的",
+    "id": 1258
+  },
+  {
+    "word": "antibiotic",
+    "translate": "抗生素",
+    "id": 1259
+  },
+  {
+    "word": "claim",
+    "translate": "要求；聲稱",
+    "id": 1260
+  },
+  {
+    "word": "comprehensive",
+    "translate": "全面的；廣泛的",
+    "id": 1261
+  },
+  {
+    "word": "coverage",
+    "translate": "報導範圍；保險範圍",
+    "id": 1262
+  },
+  {
+    "word": "diagnose",
+    "translate": "診斷；判斷",
+    "id": 1263
+  },
+  {
+    "word": "excruciating",
+    "translate": "極痛苦的；極度的",
+    "id": 1264
+  },
+  {
+    "word": "handicap",
+    "translate": "殘障；不利條件；障礙",
+    "id": 1265
+  },
+  {
+    "word": "indemnity",
+    "translate": "損害保障；損害賠償",
+    "id": 1266
+  },
+  {
+    "word": "intensive care",
+    "translate": "unit 加護病房",
+    "id": 1267
+  },
+  {
+    "word": "liable",
+    "translate": "有義務的；易於⋯⋯的；傾向於⋯⋯的",
+    "id": 1268
+  },
+  {
+    "word": "nutrition",
+    "translate": "營養之供給或攝取；營養",
+    "id": 1269
+  },
+  {
+    "word": "organ donor",
+    "translate": "器官捐贈者",
+    "id": 1270
+  },
+  {
+    "word": "pharmaceutical",
+    "translate": "制藥的；藥品的",
+    "id": 1271
+  },
+  {
+    "word": "purification",
+    "translate": "洗淨；淨化",
+    "id": 1272
+  },
+  {
+    "word": "side effect",
+    "translate": "(藥物之)副作用",
+    "id": 1273
+  },
+  {
+    "word": "surgery",
+    "translate": "(外科)手術",
+    "id": 1274
+  },
+  {
+    "word": "trauma",
+    "translate": "外傷；心靈的傷",
+    "id": 1275
+  },
+  {
+    "word": "waive",
+    "translate": "放棄；棄權",
+    "id": 1276
+  },
+  {
+    "word": "burglar",
+    "translate": "竊賊；夜間入屋行竊的小偷",
+    "id": 1277
+  },
+  {
+    "word": "fire extinguisher",
+    "translate": "滅火器",
+    "id": 1278
+  },
+  {
+    "word": "garbage disposal",
+    "translate": "垃圾處理機",
+    "id": 1279
+  },
+  {
+    "word": "lease",
+    "translate": "租約；出租；租用",
+    "id": 1280
+  },
+  {
+    "word": "mattress",
+    "translate": "床墊",
+    "id": 1281
+  },
+  {
+    "word": "ornament",
+    "translate": "裝飾品",
+    "id": 1282
+  },
+  {
+    "word": "plumbing",
+    "translate": "水管設施",
+    "id": 1283
+  },
+  {
+    "word": "possession",
+    "translate": "所有；個人財產",
+    "id": 1284
+  },
+  {
+    "word": "real estate",
+    "translate": "不動產",
+    "id": 1285
+  },
+  {
+    "word": "renovate",
+    "translate": "更新；修復；恢復",
+    "id": 1286
+  },
+  {
+    "word": "balcony",
+    "translate": "陽臺；包廂",
+    "id": 1287
+  },
+  {
+    "word": "chore",
+    "translate": "家務難事；困難繁瑣無趣的工作",
+    "id": 1288
+  },
+  {
+    "word": "down payment",
+    "translate": "頭期款；預付金；定金",
+    "id": 1289
+  },
+  {
+    "word": "fire alarm",
+    "translate": "火災警報器",
+    "id": 1290
+  },
+  {
+    "word": "furnishings",
+    "translate": "傢俱；室內陳設",
+    "id": 1291
+  },
+  {
+    "word": "garage",
+    "translate": "車庫；修車廠",
+    "id": 1292
+  },
+  {
+    "word": "kitchenware",
+    "translate": "廚房用具",
+    "id": 1293
+  },
+  {
+    "word": "laundromat",
+    "translate": "自助洗衣店",
+    "id": 1294
+  },
+  {
+    "word": "loan shark",
+    "translate": "放高利貸者",
+    "id": 1295
+  },
+  {
+    "word": "messy",
+    "translate": "雜亂的；骯髒的",
+    "id": 1296
+  },
+  {
+    "word": "neighborhood",
+    "translate": "街坊；住宅區；臨近地區",
+    "id": 1297
+  },
+  {
+    "word": "playground",
+    "translate": "運動場；遊戲場；遊樂場",
+    "id": 1298
+  },
+  {
+    "word": "porch",
+    "translate": "門廊；遊廊",
+    "id": 1299
+  },
+  {
+    "word": "relocate",
+    "translate": "重新安置；遷徙",
+    "id": 1300
+  },
+  {
+    "word": "residence",
+    "translate": "住所；公館；居住",
+    "id": 1301
+  },
+  {
+    "word": "storage",
+    "translate": "儲藏；藏室",
+    "id": 1302
+  },
+  {
+    "word": "utility",
+    "translate": "公共實業；實用",
+    "id": 1303
+  },
+  {
+    "word": "affection",
+    "translate": "感情；鍾愛",
+    "id": 1304
+  },
+  {
+    "word": "anticipate",
+    "translate": "預見；期待；在⋯⋯之前行動；預先考慮；提前使用",
+    "id": 1305
+  },
+  {
+    "word": "brag",
+    "translate": "自誇；吹噓",
+    "id": 1306
+  },
+  {
+    "word": "delighted",
+    "translate": "欣喜的；愉快的",
+    "id": 1307
+  },
+  {
+    "word": "detest",
+    "translate": "憎惡；痛恨；嫌惡",
+    "id": 1308
+  },
+  {
+    "word": "disgust",
+    "translate": "作嘔；厭惡；反感 導致反感",
+    "id": 1309
+  },
+  {
+    "word": "distress",
+    "translate": "悲痛；貧困；危難",
+    "id": 1310
+  },
+  {
+    "word": "enthusiastic",
+    "translate": "熱心的；狂熱的",
+    "id": 1311
+  },
+  {
+    "word": "esteem",
+    "translate": "(1)好評；尊敬 (2) 極看重；尊重",
+    "id": 1312
+  },
+  {
+    "word": "fascination",
+    "translate": "入迷；著迷；強烈吸引力；魅力",
+    "id": 1313
+  },
+  {
+    "word": "gloomy",
+    "translate": "幽暗的；令人沮喪的；憂鬱的；沒有希望的",
+    "id": 1314
+  },
+  {
+    "word": "impartial",
+    "translate": "不偏袒；無偏見的；公正的",
+    "id": 1315
+  },
+  {
+    "word": "impulsive",
+    "translate": "衝動的",
+    "id": 1316
+  },
+  {
+    "word": "irritated",
+    "translate": "被激怒的；發炎的；疼痛的",
+    "id": 1317
+  },
+  {
+    "word": "mad",
+    "translate": "發瘋的；瘋狂的；著迷的；愚蠢的；生氣的",
+    "id": 1318
+  },
+  {
+    "word": "objective",
+    "translate": "目標；客觀的",
+    "id": 1319
+  },
+  {
+    "word": "prejudice",
+    "translate": "偏見；歧視",
+    "id": 1320
+  },
+  {
+    "word": "repulsive",
+    "translate": "使人反感的；令人厭惡的",
+    "id": 1321
+  },
+  {
+    "word": "tranquility",
+    "translate": "平靜的；安寧",
+    "id": 1322
+  },
+  {
+    "word": "ambition",
+    "translate": "雄心；野心",
+    "id": 1323
+  },
+  {
+    "word": "attraction",
+    "translate": "吸引力；吸引人之物",
+    "id": 1324
+  },
+  {
+    "word": "contentment",
+    "translate": "滿意；滿足",
+    "id": 1325
+  },
+  {
+    "word": "despair",
+    "translate": "絕望；使人絕望的事物",
+    "id": 1326
+  },
+  {
+    "word": "devoted",
+    "translate": "摯愛的；忠實的；熱忱的",
+    "id": 1327
+  },
+  {
+    "word": "elegant",
+    "translate": "高雅的；有品味的；上等的",
+    "id": 1328
+  },
+  {
+    "word": "entice",
+    "translate": "誘惑；引誘",
+    "id": 1329
+  },
+  {
+    "word": "fancy",
+    "translate": "精心設計的；特技的；花俏的；昂貴的",
+    "id": 1330
+  },
+  {
+    "word": "fondness",
+    "translate": "鍾愛；溺愛；嗜好；癖好",
+    "id": 1331
+  },
+  {
+    "word": "hideous",
+    "translate": "醜的嚇人；不忍睹的；醜惡的；可憎的",
+    "id": 1332
+  },
+  {
+    "word": "impression",
+    "translate": "意念；印象；不太明確的感覺或想法",
+    "id": 1333
+  },
+  {
+    "word": "instinct",
+    "translate": "天性；本能；直覺",
+    "id": 1334
+  },
+  {
+    "word": "jealous",
+    "translate": "嫉妒的；羡慕的；唯恐失去的",
+    "id": 1335
+  },
+  {
+    "word": "nasty",
+    "translate": "骯髒的；不道德的；惡毒的；令人不愉快的；嚴重的",
+    "id": 1336
+  },
+  {
+    "word": "perceive",
+    "translate": "感知；察覺；理會",
+    "id": 1337
+  },
+  {
+    "word": "provoke",
+    "translate": "激怒；引起；激起",
+    "id": 1338
+  },
+  {
+    "word": "upset",
+    "translate": "使心煩意亂；使不舒服；使失敗；打翻",
+    "id": 1339
+  },
+  {
+    "word": "aspect",
+    "translate": "面貌；方向；朝向",
+    "id": 1340
+  },
+  {
+    "word": "assumption",
+    "translate": "假定；假設",
+    "id": 1341
+  },
+  {
+    "word": "attempt",
+    "translate": "(1)企圖；攻擊(2)努力嘗試；企圖",
+    "id": 1342
+  },
+  {
+    "word": "call waiting",
+    "translate": "電話插播",
+    "id": 1343
+  },
+  {
+    "word": "declaration",
+    "translate": "宣佈；公佈；宣言",
+    "id": 1344
+  },
+  {
+    "word": "endeavor",
+    "translate": "努力；盡力 試圖；嘗試",
+    "id": 1345
+  },
+  {
+    "word": "identity",
+    "translate": "身份；本體；相同；同一",
+    "id": 1346
+  },
+  {
+    "word": "implication",
+    "translate": "含義；暗示；牽連",
+    "id": 1347
+  },
+  {
+    "word": "inspire",
+    "translate": "鼓舞；激發；引發",
+    "id": 1348
+  },
+  {
+    "word": "intention",
+    "translate": "意圖；目的",
+    "id": 1349
+  },
+  {
+    "word": "interrupt",
+    "translate": "打斷；中斷",
+    "id": 1350
+  },
+  {
+    "word": "manipulate",
+    "translate": "操作；操縱",
+    "id": 1351
+  },
+  {
+    "word": "obstacle",
+    "translate": "障礙物；阻礙",
+    "id": 1352
+  },
+  {
+    "word": "priority",
+    "translate": "優先權；優先考慮的事",
+    "id": 1353
+  },
+  {
+    "word": "reassure",
+    "translate": "使安心；使放心；使恢復信心；再保證",
+    "id": 1354
+  },
+  {
+    "word": "remind",
+    "translate": "提醒；使想起",
+    "id": 1355
+  },
+  {
+    "word": "sustain",
+    "translate": "維持；持續；支撐；蒙受",
+    "id": 1356
+  },
+  {
+    "word": "undertake",
+    "translate": "承擔；許諾；保證",
+    "id": 1357
+  },
+  {
+    "word": "alter",
+    "translate": "改變；修改",
+    "id": 1358
+  },
+  {
+    "word": "assurance",
+    "translate": "保證；擔保；自信；把握",
+    "id": 1359
+  },
+  {
+    "word": "clarify",
+    "translate": "澄清；使純淨",
+    "id": 1360
+  },
+  {
+    "word": "discard",
+    "translate": "拋棄；丟棄",
+    "id": 1361
+  },
+  {
+    "word": "entitle",
+    "translate": "定名；使有資格",
+    "id": 1362
+  },
+  {
+    "word": "impact",
+    "translate": "碰撞力；影響；行動",
+    "id": 1363
+  },
+  {
+    "word": "incentive",
+    "translate": "鼓勵；誘因",
+    "id": 1364
+  },
+  {
+    "word": "instruct",
+    "translate": "教授；指導；下命令；指示",
+    "id": 1365
+  },
+  {
+    "word": "interfere",
+    "translate": "妨害；擾亂；介入；干涉",
+    "id": 1366
+  },
+  {
+    "word": "involve",
+    "translate": "使捲入；牽涉；伴隨(指必然結果)",
+    "id": 1367
+  },
+  {
+    "word": "merit",
+    "translate": "功勞；價值；優點",
+    "id": 1368
+  },
+  {
+    "word": "permit",
+    "translate": "許可證；執照 准許；許可",
+    "id": 1369
+  },
+  {
+    "word": "proceed",
+    "translate": "著手；繼續進行",
+    "id": 1370
+  },
+  {
+    "word": "protest",
+    "translate": "抗議；反對",
+    "id": 1371
+  },
+  {
+    "word": "register",
+    "translate": "(1)登記簿；註冊簿(2)記錄；註冊；登記姓名",
+    "id": 1372
+  },
+  {
+    "word": "risk",
+    "translate": "風險；危險 使遭受危險；冒⋯⋯的危險",
+    "id": 1373
+  },
+  {
+    "word": "speculate",
+    "translate": "沉思；思索；猜測；推測；投機",
+    "id": 1374
+  },
+  {
+    "word": "verify",
+    "translate": "證明；證實；確認",
+    "id": 1375
+  },
+  {
+    "word": "absurd",
+    "translate": "荒謬的；不合理的；違反常理的",
+    "id": 1376
+  },
+  {
+    "word": "adequate",
+    "translate": "足夠的；適當的",
+    "id": 1377
+  },
+  {
+    "word": "ample",
+    "translate": "廣大的；寬敞的；充足的",
+    "id": 1378
+  },
+  {
+    "word": "decent",
+    "translate": "合宜的；得體的；適當的",
+    "id": 1379
+  },
+  {
+    "word": "dreadful",
+    "translate": "令人恐怖的；令人害怕的",
+    "id": 1380
+  },
+  {
+    "word": "exceptional",
+    "translate": "異常的；例外的；特別優秀",
+    "id": 1381
+  },
+  {
+    "word": "exquisite",
+    "translate": "精細的；精美的；敏銳的；細緻的",
+    "id": 1382
+  },
+  {
+    "word": "farfetched",
+    "translate": "牽強的；不大可信的；不自然的",
+    "id": 1383
+  },
+  {
+    "word": "ingenious",
+    "translate": "有巧思的；有創意的；靈敏的",
+    "id": 1384
+  },
+  {
+    "word": "instant",
+    "translate": "立即的；(食品)快速方便的",
+    "id": 1385
+  },
+  {
+    "word": "legitimate",
+    "translate": "合法的；正當的；婚生的",
+    "id": 1386
+  },
+  {
+    "word": "moderate",
+    "translate": "中等的；適度的；有節制的；溫和的",
+    "id": 1387
+  },
+  {
+    "word": "oblivious",
+    "translate": "遺忘的；遺忘的；不注意的；不在意的",
+    "id": 1388
+  },
+  {
+    "word": "random",
+    "translate": "隨便的；無目的的",
+    "id": 1389
+  },
+  {
+    "word": "relevant",
+    "translate": "有關的；切題的；有實際價值或重要性的",
+    "id": 1390
+  },
+  {
+    "word": "substantially",
+    "translate": "相當大的；基本上；本質的",
+    "id": 1391
+  },
+  {
+    "word": "temporary",
+    "translate": "暫時的臨時的",
+    "id": 1392
+  },
+  {
+    "word": "unprecedented",
+    "translate": "史無前例的；空前的",
+    "id": 1393
+  },
+  {
+    "word": "versatile",
+    "translate": "多才多藝的；有多種用途的",
+    "id": 1394
+  },
+  {
+    "word": "accurate",
+    "translate": "準確的；正確無誤的；精確的",
+    "id": 1395
+  },
+  {
+    "word": "approximately",
+    "translate": "大約；大概",
+    "id": 1396
+  },
+  {
+    "word": "distinctive",
+    "translate": "與眾不同的；有特色的；顯著的",
+    "id": 1397
+  },
+  {
+    "word": "excessive",
+    "translate": "過多的；過度的；過分的",
+    "id": 1398
+  },
+  {
+    "word": "extraordinary",
+    "translate": "特別的；格外的；值得注意的",
+    "id": 1399
+  },
+  {
+    "word": "inferior",
+    "translate": "品質差的；下等的；下級的",
+    "id": 1400
+  },
+  {
+    "word": "initial",
+    "translate": "開始的；最初的",
+    "id": 1401
+  },
+  {
+    "word": "irresistible",
+    "translate": "極為誘人的；無法抗拒的",
+    "id": 1402
+  },
+  {
+    "word": "miscellaneous",
+    "translate": "不同種類的；各式各樣的；混雜的",
+    "id": 1403
+  },
+  {
+    "word": "noteworthy",
+    "translate": "值得注意的；顯著的",
+    "id": 1404
+  },
+  {
+    "word": "rapid",
+    "translate": "迅速的；快速的；快的",
+    "id": 1405
+  },
+  {
+    "word": "self-explanatory",
+    "translate": "不需要加以說明的；不言自明的",
+    "id": 1406
+  },
+  {
+    "word": "sufficient",
+    "translate": "足夠的",
+    "id": 1407
+  },
+  {
+    "word": "ultimately",
+    "translate": "最後；最終",
+    "id": 1408
+  },
+  {
+    "word": "vague",
+    "translate": "含糊不清的；模糊不清的",
+    "id": 1409
+  },
+  {
+    "word": "vivid",
+    "translate": "生龍活虎的；鮮豔的；鮮明的；生動逼真的",
+    "id": 1410
+  },
+  {
+    "word": "mission",
+    "translate": "目標",
+    "id": 1411
+  },
+  {
+    "word": "group objective",
+    "translate": "集體目標",
+    "id": 1412
+  },
+  {
+    "word": "internal environment",
+    "translate": "內部環境",
+    "id": 1413
+  },
+  {
+    "word": "external environment",
+    "translate": "外部環境",
+    "id": 1414
+  },
+  {
+    "word": "planning",
+    "translate": "計畫",
+    "id": 1415
+  },
+  {
+    "word": "organizing",
+    "translate": "組織",
+    "id": 1416
+  },
+  {
+    "word": "staffing",
+    "translate": "人事",
+    "id": 1417
+  },
+  {
+    "word": "leading",
+    "translate": "領導",
+    "id": 1418
+  },
+  {
+    "word": "controlling",
+    "translate": "控制",
+    "id": 1419
+  },
+  {
+    "word": "principle",
+    "translate": "原理",
+    "id": 1420
+  },
+  {
+    "word": "technique",
+    "translate": "方法",
+    "id": 1421
+  },
+  {
+    "word": "general manager",
+    "translate": "總經理",
+    "id": 1422
+  },
+  {
+    "word": "administrator",
+    "translate": "行政人員",
+    "id": 1423
+  },
+  {
+    "word": "business",
+    "translate": "商業",
+    "id": 1424
+  },
+  {
+    "word": "effectiveness",
+    "translate": "效果",
+    "id": 1425
+  },
+  {
+    "word": "efficiency",
+    "translate": "效率",
+    "id": 1426
+  },
+  {
+    "word": "power",
+    "translate": "權利",
+    "id": 1427
+  },
+  {
+    "word": "authority",
+    "translate": "職權",
+    "id": 1428
+  },
+  {
+    "word": "responsibility",
+    "translate": "職責",
+    "id": 1429
+  },
+  {
+    "word": "scientific management",
+    "translate": "科學管理",
+    "id": 1430
+  },
+  {
+    "word": "modern operational management",
+    "translate": "現代經營管理",
+    "id": 1431
+  },
+  {
+    "word": "behavior science",
+    "translate": "行為科學",
+    "id": 1432
+  },
+  {
+    "word": "productivity",
+    "translate": "生產率",
+    "id": 1433
+  },
+  {
+    "word": "motivate",
+    "translate": "激勵",
+    "id": 1434
+  },
+  {
+    "word": "motive",
+    "translate": "動機",
+    "id": 1435
+  },
+  {
+    "word": "law",
+    "translate": "法律",
+    "id": 1436
+  },
+  {
+    "word": "regulation",
+    "translate": "法規",
+    "id": 1437
+  },
+  {
+    "word": "economic system",
+    "translate": "經濟體系",
+    "id": 1438
+  },
+  {
+    "word": "managerial function",
+    "translate": "管理職能",
+    "id": 1439
+  },
+  {
+    "word": "self-actualization",
+    "translate": "自我實現",
+    "id": 1440
+  },
+  {
+    "word": "human input",
+    "translate": "人力投入",
+    "id": 1441
+  },
+  {
+    "word": "cost",
+    "translate": "成本",
+    "id": 1442
+  },
+  {
+    "word": "capital goods",
+    "translate": "資本財",
+    "id": 1443
+  },
+  {
+    "word": "machinery",
+    "translate": "機器",
+    "id": 1444
+  },
+  {
+    "word": "building",
+    "translate": "建築",
+    "id": 1445
+  },
+  {
+    "word": "the empirical approach",
+    "translate": "經驗法",
+    "id": 1446
+  },
+  {
+    "word": "the interpersonal behavior approach",
+    "translate": "人際行為法",
+    "id": 1447
+  },
+  {
+    "word": "the group behavior approach",
+    "translate": "集體行為法",
+    "id": 1448
+  },
+  {
+    "word": "the cooperative social systems approach",
+    "translate": "協作社會系統法",
+    "id": 1449
+  },
+  {
+    "word": "the social-technical systems approach",
+    "translate": "社會技術系統法",
+    "id": 1450
+  },
+  {
+    "word": "the decision theory approach",
+    "translate": "決策理論法",
+    "id": 1451
+  },
+  {
+    "word": "the mathematical approach",
+    "translate": "數學法",
+    "id": 1452
+  },
+  {
+    "word": "the systems approach",
+    "translate": "系統法",
+    "id": 1453
+  },
+  {
+    "word": "the contingency approach",
+    "translate": "隨機制宜法",
+    "id": 1454
+  },
+  {
+    "word": "the managerial roles approach",
+    "translate": "管理任務法",
+    "id": 1455
+  },
+  {
+    "word": "the operational approach",
+    "translate": "經營法",
+    "id": 1456
+  },
+  {
+    "word": "human relation",
+    "translate": "人際關系",
+    "id": 1457
+  },
+  {
+    "word": "conflict",
+    "translate": "沖突",
+    "id": 1458
+  },
+  {
+    "word": "appraisal",
+    "translate": "鑑定",
+    "id": 1459
+  },
+  {
+    "word": "select",
+    "translate": "選拔",
+    "id": 1460
+  },
+  {
+    "word": "train",
+    "translate": "培訓",
+    "id": 1461
+  },
+  {
+    "word": "service",
+    "translate": "服務",
+    "id": 1462
+  },
+  {
+    "word": "satisfaction",
+    "translate": "滿意",
+    "id": 1463
+  },
+  {
+    "word": "affiliation",
+    "translate": "歸屬",
+    "id": 1464
+  },
+  {
+    "word": "strategy",
+    "translate": "策略",
+    "id": 1465
+  },
+  {
+    "word": "policy",
+    "translate": "政策",
+    "id": 1466
+  },
+  {
+    "word": "discretion",
+    "translate": "靈活性",
+    "id": 1467
+  },
+  {
+    "word": "diversification",
+    "translate": "多種經營",
+    "id": 1468
+  },
+  {
+    "word": "assessment",
+    "translate": "評估",
+    "id": 1469
+  },
+  {
+    "word": "consistency",
+    "translate": "一致性",
+    "id": 1470
+  },
+  {
+    "word": "consistency strategy",
+    "translate": "應變策略",
+    "id": 1471
+  },
+  {
+    "word": "public relation",
+    "translate": "公共關系",
+    "id": 1472
+  },
+  {
+    "word": "aspiration",
+    "translate": "抱負",
+    "id": 1473
+  },
+  {
+    "word": "review",
+    "translate": "審查",
+    "id": 1474
+  },
+  {
+    "word": "major decision",
+    "translate": "主要決定",
+    "id": 1475
+  },
+  {
+    "word": "division general manager",
+    "translate": "分公司總經理",
+    "id": 1476
+  },
+  {
+    "word": "portfolio matrix",
+    "translate": "資產組合距陣",
+    "id": 1477
+  },
+  {
+    "word": "star",
+    "translate": "明星",
+    "id": 1478
+  },
+  {
+    "word": "question mark",
+    "translate": "問號",
+    "id": 1479
+  },
+  {
+    "word": "cash cow",
+    "translate": "現金牛",
+    "id": 1480
+  },
+  {
+    "word": "procurement",
+    "translate": "採購",
+    "id": 1481
+  },
+  {
+    "word": "demographic factor",
+    "translate": "人口因素",
+    "id": 1482
+  },
+  {
+    "word": "geographic factor",
+    "translate": "地理因素",
+    "id": 1483
+  },
+  {
+    "word": "company image",
+    "translate": "公司形象",
+    "id": 1484
+  },
+  {
+    "word": "product line",
+    "translate": "產品系列",
+    "id": 1485
+  },
+  {
+    "word": "liquidation strategy",
+    "translate": "破產政策",
+    "id": 1486
+  },
+  {
+    "word": "retrenchment strategy",
+    "translate": "緊縮政策",
+    "id": 1487
+  },
+  {
+    "word": "tactics",
+    "translate": "戰術",
+    "id": 1488
+  },
+  {
+    "word": "motivation",
+    "translate": "激勵",
+    "id": 1489
+  },
+  {
+    "word": "subconscious",
+    "translate": "潛意識",
+    "id": 1490
+  },
+  {
+    "word": "status",
+    "translate": "地位",
+    "id": 1491
+  },
+  {
+    "word": "delegation of authority",
+    "translate": "授權",
+    "id": 1492
+  },
+  {
+    "word": "merit system",
+    "translate": "考績制度",
+    "id": 1493
+  },
+  {
+    "word": "behavior",
+    "translate": "表現",
+    "id": 1494
+  },
+  {
+    "word": "subordinate",
+    "translate": "下級",
+    "id": 1495
+  },
+  {
+    "word": "deviation",
+    "translate": "偏差",
+    "id": 1496
+  },
+  {
+    "word": "inspection record",
+    "translate": "檢驗記錄",
+    "id": 1497
+  },
+  {
+    "word": "record of labor-hours lost",
+    "translate": "誤工記錄",
+    "id": 1498
+  },
+  {
+    "word": "sales volume",
+    "translate": "銷售量",
+    "id": 1499
+  },
+  {
+    "word": "quality of products",
+    "translate": "產品品質",
+    "id": 1500
+  },
+  {
+    "word": "advanced technology",
+    "translate": "先進技術",
+    "id": 1501
+  },
+  {
+    "word": "customer service",
+    "translate": "顧客服務",
+    "id": 1502
+  },
+  {
+    "word": "structure",
+    "translate": "結構",
+    "id": 1503
+  },
+  {
+    "word": "followership",
+    "translate": "追隨",
+    "id": 1504
+  },
+  {
+    "word": "individuality",
+    "translate": "個性",
+    "id": 1505
+  },
+  {
+    "word": "safety",
+    "translate": "安全",
+    "id": 1506
+  },
+  {
+    "word": "pessimistic",
+    "translate": "悲觀的",
+    "id": 1507
+  },
+  {
+    "word": "flexible",
+    "translate": "靈活的",
+    "id": 1508
+  },
+  {
+    "word": "resistance",
+    "translate": "抵制",
+    "id": 1509
+  },
+  {
+    "word": "antagonism",
+    "translate": "敵對",
+    "id": 1510
+  },
+  {
+    "word": "eclectic",
+    "translate": "折中",
+    "id": 1511
+  },
+  {
+    "word": "primacy",
+    "translate": "領先性",
+    "id": 1512
+  },
+  {
+    "word": "pervasiveness",
+    "translate": "普遍性",
+    "id": 1513
+  },
+  {
+    "word": "fear",
+    "translate": "憂慮",
+    "id": 1514
+  },
+  {
+    "word": "resentment",
+    "translate": "忿恨",
+    "id": 1515
+  },
+  {
+    "word": "layoff",
+    "translate": "解雇",
+    "id": 1516
+  },
+  {
+    "word": "rule",
+    "translate": "規則",
+    "id": 1517
+  },
+  {
+    "word": "desire",
+    "translate": "欲望",
+    "id": 1518
+  },
+  {
+    "word": "needs for self-actualization",
+    "translate": "自我實現的需要",
+    "id": 1519
+  },
+  {
+    "word": "esteem needs",
+    "translate": "尊敬的需要",
+    "id": 1520
+  },
+  {
+    "word": "affiliation needs",
+    "translate": "歸屬的需要",
+    "id": 1521
+  },
+  {
+    "word": "security needs",
+    "translate": "安全的需要",
+    "id": 1522
+  },
+  {
+    "word": "physiological needs",
+    "translate": "生理的需要",
+    "id": 1523
+  },
+  {
+    "word": "hygiene",
+    "translate": "保健",
+    "id": 1524
+  },
+  {
+    "word": "motivator",
+    "translate": "激勵因素",
+    "id": 1525
+  },
+  {
+    "word": "probability",
+    "translate": "概率",
+    "id": 1526
+  },
+  {
+    "word": "reinforcement theory",
+    "translate": "強化理論",
+    "id": 1527
+  },
+  {
+    "word": "feedback",
+    "translate": "回饋",
+    "id": 1528
+  },
+  {
+    "word": "stock option",
+    "translate": "股票選擇權",
+    "id": 1529
+  },
+  {
+    "word": "labor dispute",
+    "translate": "勞資糾紛",
+    "id": 1530
+  },
+  {
+    "word": "absenteeism",
+    "translate": "缺勤率",
+    "id": 1531
+  },
+  {
+    "word": "reward",
+    "translate": "獎勵",
+    "id": 1532
+  },
+  {
+    "word": "zeal",
+    "translate": "熱誠",
+    "id": 1533
+  },
+  {
+    "word": "confidence",
+    "translate": "信心",
+    "id": 1534
+  },
+  {
+    "word": "loyalty",
+    "translate": "忠誠",
+    "id": 1535
+  },
+  {
+    "word": "devotion",
+    "translate": "奉獻",
+    "id": 1536
+  },
+  {
+    "word": "style",
+    "translate": "作風",
+    "id": 1537
+  },
+  {
+    "word": "trait",
+    "translate": "品質",
+    "id": 1538
+  },
+  {
+    "word": "adaptability",
+    "translate": "適應性",
+    "id": 1539
+  },
+  {
+    "word": "aggressiveness",
+    "translate": "進取性",
+    "id": 1540
+  },
+  {
+    "word": "enthusiasm",
+    "translate": "熱情",
+    "id": 1541
+  },
+  {
+    "word": "persistence",
+    "translate": "毅力",
+    "id": 1542
+  },
+  {
+    "word": "interpersonal skills",
+    "translate": "人際交往能力",
+    "id": 1543
+  },
+  {
+    "word": "administrative ability",
+    "translate": "行政管理能力",
+    "id": 1544
+  },
+  {
+    "word": "intelligence",
+    "translate": "智力",
+    "id": 1545
+  },
+  {
+    "word": "program",
+    "translate": "規划",
+    "id": 1546
+  },
+  {
+    "word": "budget",
+    "translate": "預算",
+    "id": 1547
+  },
+  {
+    "word": "synergy",
+    "translate": "共同作用",
+    "id": 1548
+  },
+  {
+    "word": "conglomerate",
+    "translate": "大型聯合企業",
+    "id": 1549
+  },
+  {
+    "word": "growth goal",
+    "translate": "增長目標",
+    "id": 1550
+  },
+  {
+    "word": "proprietary product",
+    "translate": "專利產品",
+    "id": 1551
+  },
+  {
+    "word": "promotion",
+    "translate": "晉升",
+    "id": 1552
+  },
+  {
+    "word": "managerial decision",
+    "translate": "管理決策",
+    "id": 1553
+  },
+  {
+    "word": "business ethics",
+    "translate": "商業道德",
+    "id": 1554
+  },
+  {
+    "word": "competitive price",
+    "translate": "有競爭力的價格",
+    "id": 1555
+  },
+  {
+    "word": "vendor",
+    "translate": "小販",
+    "id": 1556
+  },
+  {
+    "word": "conflict of interests",
+    "translate": "利益衝突",
+    "id": 1557
+  },
+  {
+    "word": "derivative policy",
+    "translate": "衍生政策",
+    "id": 1558
+  },
+  {
+    "word": "expense account",
+    "translate": "開支帳戶",
+    "id": 1559
+  },
+  {
+    "word": "approval procedure",
+    "translate": "批准程序",
+    "id": 1560
+  },
+  {
+    "word": "sick leave",
+    "translate": "病假",
+    "id": 1561
+  },
+  {
+    "word": "vacation",
+    "translate": "休假",
+    "id": 1562
+  },
+  {
+    "word": "labor-hour",
+    "translate": "工時",
+    "id": 1563
+  },
+  {
+    "word": "machine-hour",
+    "translate": "機時",
+    "id": 1564
+  },
+  {
+    "word": "capital outlay",
+    "translate": "資本支出",
+    "id": 1565
+  },
+  {
+    "word": "cash flow",
+    "translate": "現金流量",
+    "id": 1566
+  },
+  {
+    "word": "wage rate",
+    "translate": "工資率",
+    "id": 1567
+  },
+  {
+    "word": "tax rate",
+    "translate": "稅收率",
+    "id": 1568
+  },
+  {
+    "word": "dividend",
+    "translate": "股息",
+    "id": 1569
+  },
+  {
+    "word": "cash position",
+    "translate": "現金狀況",
+    "id": 1570
+  },
+  {
+    "word": "capital shortage",
+    "translate": "資金短缺",
+    "id": 1571
+  },
+  {
+    "word": "overall budget",
+    "translate": "總預算",
+    "id": 1572
+  },
+  {
+    "word": "balance sheet",
+    "translate": "資產負債表",
+    "id": 1573
+  },
+  {
+    "word": "the commitment principle",
+    "translate": "投入原則",
+    "id": 1574
+  },
+  {
+    "word": "return on investment",
+    "translate": "投資回報",
+    "id": 1575
+  },
+  {
+    "word": "capacity to produce",
+    "translate": "生產能力",
+    "id": 1576
+  },
+  {
+    "word": "practitioner",
+    "translate": "實際工作者",
+    "id": 1577
+  },
+  {
+    "word": "end result",
+    "translate": "最終結果",
+    "id": 1578
+  },
+  {
+    "word": "autocratic leader",
+    "translate": "專制式領導",
+    "id": 1579
+  },
+  {
+    "word": "democratic leader",
+    "translate": "民主式領導",
+    "id": 1580
+  },
+  {
+    "word": "free-rein leader",
+    "translate": "自由放任式領導",
+    "id": 1581
+  },
+  {
+    "word": "the managerial grid",
+    "translate": "管理方格圖",
+    "id": 1582
+  },
+  {
+    "word": "work efficiency",
+    "translate": "工作效率",
+    "id": 1583
+  },
+  {
+    "word": "obedience",
+    "translate": "服從",
+    "id": 1584
+  },
+  {
+    "word": "leader behavior",
+    "translate": "領導行為",
+    "id": 1585
+  },
+  {
+    "word": "supportive leadership",
+    "translate": "支持型領導",
+    "id": 1586
+  },
+  {
+    "word": "participative leadership",
+    "translate": "參與型領導",
+    "id": 1587
+  },
+  {
+    "word": "instrumental leadership",
+    "translate": "指導型領導",
+    "id": 1588
+  },
+  {
+    "word": "achievement-oriented leadership",
+    "translate": "成就取向型領導",
+    "id": 1589
+  },
+  {
+    "word": "CEO",
+    "translate": "執行長(Chief Executive Officer) ",
+    "id": 1590
+  },
+  {
+    "word": "CFO",
+    "translate": "財務長(Chief Finnace Officer)",
+    "id": 1591
+  },
+  {
+    "word": "COO",
+    "translate": "營運長(Chief Operation Officer)",
+    "id": 1592
+  },
+  {
+    "word": "CTO",
+    "translate": "技術長(Chief Technology Officer)",
+    "id": 1593
+  },
+  {
+    "word": "CPO",
+    "translate": "採購長(Chief Procurement Officer)",
+    "id": 1594
+  },
+  {
+    "word": "CMO",
+    "translate": "製造長(Chief Manufacturing Officer)",
+    "id": 1595
+  },
+  {
+    "word": "CQO",
+    "translate": "質量長(Chief Quality Officer)",
+    "id": 1596
+  },
+  {
+    "word": "CKO",
+    "translate": "知識長(Chief Knowledge Officer)",
+    "id": 1597
+  },
+  {
+    "word": "personal interest",
+    "translate": "個人利益",
+    "id": 1598
+  },
+  {
+    "word": "welfare",
+    "translate": "福利",
+    "id": 1599
+  },
+  {
+    "word": "market share",
+    "translate": "市場占有率",
+    "id": 1600
+  },
+  {
+    "word": "profitability",
+    "translate": "利潤率",
+    "id": 1601
+  },
+  {
+    "word": "public responsibility",
+    "translate": "社會責任",
+    "id": 1602
+  },
+  {
+    "word": "board of director",
+    "translate": "董事會",
+    "id": 1603
+  },
+  {
+    "word": "size of the organization",
+    "translate": "組織規模",
+    "id": 1604
+  },
+  {
+    "word": "organizational culture",
+    "translate": "組織文化",
+    "id": 1605
+  },
+  {
+    "word": "management by objectives",
+    "translate": "目標管理",
+    "id": 1606
+  },
+  {
+    "word": "appraisal tool",
+    "translate": "評價工具",
+    "id": 1607
+  },
+  {
+    "word": "motivational techniques",
+    "translate": "激勵方法",
+    "id": 1608
+  },
+  {
+    "word": "control device",
+    "translate": "控制手段",
+    "id": 1609
+  },
+  {
+    "word": "personal worth",
+    "translate": "個人價值",
+    "id": 1610
+  },
+  {
+    "word": "strength",
+    "translate": "優勢",
+    "id": 1611
+  },
+  {
+    "word": "weakness",
+    "translate": "劣勢",
+    "id": 1612
+  },
+  {
+    "word": "opportunity",
+    "translate": "機會",
+    "id": 1613
+  },
+  {
+    "word": "threat",
+    "translate": "威脅",
+    "id": 1614
+  },
+  {
+    "word": "personal responsibility",
+    "translate": "個人責任",
+    "id": 1615
+  },
+  {
+    "word": "quantitative objective",
+    "translate": "定量目標",
+    "id": 1616
+  },
+  {
+    "word": "qualitative objective",
+    "translate": "定性目標",
+    "id": 1617
+  },
+  {
+    "word": "verifiable objective",
+    "translate": "可考核目標",
+    "id": 1618
+  },
+  {
+    "word": "graphic design",
+    "translate": "平面設計",
+    "id": 1619
+  },
+  {
+    "word": "3D design",
+    "translate": "三維設計",
+    "id": 1620
+  },
+  {
+    "word": "medical insurance coverage",
+    "translate": "保險項目，範圍",
+    "id": 1621
+  },
+  {
+    "word": "default rate",
+    "translate": "拖欠債務率",
+    "id": 1622
+  },
+  {
+    "word": "full professor",
+    "translate": "正教授",
+    "id": 1623
+  },
+  {
+    "word": "potent antibiotics",
+    "translate": "強效抗生素",
+    "id": 1624
+  },
+  {
+    "word": "chanber of commerce",
+    "translate": "商會",
+    "id": 1625
+  },
+  {
+    "word": "leteter of credit (L/C)",
+    "translate": "信用證(支付方式的一種)",
+    "id": 1626
+  },
+  {
+    "word": "stock dividend",
+    "translate": "股息",
+    "id": 1627
+  },
+  {
+    "word": "devaluation of the currency",
+    "translate": "貨幣貶值",
+    "id": 1628
+  },
+  {
+    "word": "sprain one's ankle",
+    "translate": "扭傷腳踝",
+    "id": 1629
+  },
+  {
+    "word": "holistic medicine",
+    "translate": "整體醫學",
+    "id": 1630
+  },
+  {
+    "word": "insurance premium",
+    "translate": "保險費用",
+    "id": 1631
+  },
+  {
+    "word": "express train",
+    "translate": "快車",
+    "id": 1632
+  },
+  {
+    "word": "limited train",
+    "translate": "特快車",
+    "id": 1633
+  },
+  {
+    "word": "probation/trial period",
+    "translate": "試用期",
+    "id": 1634
+  },
+  {
+    "word": "tread mission",
+    "translate": "貿易代表團",
+    "id": 1635
+  },
+  {
+    "word": "long term objective",
+    "translate": "長期目標",
+    "id": 1636
+  },
+  {
+    "word": "the audit department",
+    "translate": "審紀部",
+    "id": 1637
+  },
+  {
+    "word": "International Herald Tribune",
+    "translate": "國際先驅論壇",
+    "id": 1638
+  },
+  {
+    "word": "top copy",
+    "translate": "複印原件",
+    "id": 1639
+  },
+  {
+    "word": "dog days",
+    "translate": "三伏",
+    "id": 1640
+  },
+  {
+    "word": "column writer",
+    "translate": "欄目作者",
+    "id": 1641
+  },
+  {
+    "word": "staff appraisal",
+    "translate": "員工評估",
+    "id": 1642
+  },
+  {
+    "word": "lodge and accommodation",
+    "translate": "膳宿",
+    "id": 1643
+  },
+  {
+    "word": "fringe benefit",
+    "translate": "福利，補貼",
+    "id": 1644
+  },
+  {
+    "word": "go into liquidation",
+    "translate": "倒閉",
+    "id": 1645
+  },
+  {
+    "word": "lag behind",
+    "translate": "落後",
+    "id": 1646
+  },
+  {
+    "word": "write—offs",
+    "translate": "破舊的無從修理",
+    "id": 1647
+  },
+  {
+    "word": "abide strictly by",
+    "translate": "嚴格恪守",
+    "id": 1648
+  },
+  {
+    "word": "clearance sale",
+    "translate": "清倉大處理",
+    "id": 1649
+  },
+  {
+    "word": "staff attendant",
+    "translate": "員工出勤情況",
+    "id": 1650
+  },
+  {
+    "word": "labor-intensive industry",
+    "translate": "勞動密集型行業",
+    "id": 1651
+  },
+  {
+    "word": "aware",
+    "translate": "察覺",
+    "id": 1652
+  },
+  {
+    "word": "bacon",
+    "translate": "燻肉",
+    "id": 1653
+  },
+  {
+    "word": "bulb",
+    "translate": "燈泡",
+    "id": 1654
+  },
+  {
+    "word": "custommade",
+    "translate": "訂製",
+    "id": 1655
+  },
+  {
+    "word": "extremely",
+    "translate": "非常地",
+    "id": 1656
+  },
+  {
+    "word": "give away",
+    "translate": "拋棄",
+    "id": 1657
+  },
+  {
+    "word": "hunt",
+    "translate": "狩獵",
+    "id": 1658
+  },
+  {
+    "word": "ivory",
+    "translate": "象牙",
+    "id": 1659
+  },
+  {
+    "word": "luggage",
+    "translate": "行李",
+    "id": 1660
+  },
+  {
+    "word": "musical",
+    "translate": "音樂",
+    "id": 1661
+  },
+  {
+    "word": "overtake",
+    "translate": "超車",
+    "id": 1662
+  },
+  {
+    "word": "syrup",
+    "translate": "糖漿",
+    "id": 1663
+  },
+  {
+    "word": "utilize",
+    "translate": "利用",
+    "id": 1664
+  },
+  {
+    "word": "wrapped",
+    "translate": "包裹",
+    "id": 1665
+  },
+  {
+    "word": "aboard",
+    "translate": "船上",
+    "id": 1666
+  },
+  {
+    "word": "accident",
+    "translate": "事故",
+    "id": 1667
+  },
+  {
+    "word": "account",
+    "translate": "認定",
+    "id": 1668
+  },
+  {
+    "word": "achieve",
+    "translate": "達到",
+    "id": 1669
+  },
+  {
+    "word": "action",
+    "translate": "行動",
+    "id": 1670
+  },
+  {
+    "word": "adapt",
+    "translate": "適應",
+    "id": 1671
+  },
+  {
+    "word": "admission",
+    "translate": "承認",
+    "id": 1672
+  },
+  {
+    "word": "advancement",
+    "translate": "進步",
+    "id": 1673
+  },
+  {
+    "word": "advertising",
+    "translate": "廣告",
+    "id": 1674
+  },
+  {
+    "word": "affiliate",
+    "translate": "加上",
+    "id": 1675
+  },
+  {
+    "word": "agent",
+    "translate": "經紀人",
+    "id": 1676
+  },
+  {
+    "word": "agriculture",
+    "translate": "農業",
+    "id": 1677
+  },
+  {
+    "word": "airline",
+    "translate": "航空",
+    "id": 1678
+  },
+  {
+    "word": "alcoholic",
+    "translate": "酒精",
+    "id": 1679
+  },
+  {
+    "word": "aluminum",
+    "translate": "鋁",
+    "id": 1680
+  },
+  {
+    "word": "amaze",
+    "translate": "驚奇",
+    "id": 1681
+  },
+  {
+    "word": "amount",
+    "translate": "分量",
+    "id": 1682
+  },
+  {
+    "word": "analyze",
+    "translate": "分析",
+    "id": 1683
+  },
+  {
+    "word": "ancient",
+    "translate": "古老的",
+    "id": 1684
+  },
+  {
+    "word": "annoy",
+    "translate": "惹惱",
+    "id": 1685
+  },
+  {
+    "word": "apparent",
+    "translate": "明顯的",
+    "id": 1686
+  },
+  {
+    "word": "appearance",
+    "translate": "容貌",
+    "id": 1687
+  },
+  {
+    "word": "appropriate",
+    "translate": "合適的",
+    "id": 1688
+  },
+  {
+    "word": "area",
+    "translate": "區域",
+    "id": 1689
+  },
+  {
+    "word": "armed",
+    "translate": "武裝的",
+    "id": 1690
+  },
+  {
+    "word": "arrest",
+    "translate": "逮捕",
+    "id": 1691
+  },
+  {
+    "word": "ash",
+    "translate": "灰燼",
+    "id": 1692
+  },
+  {
+    "word": "assist",
+    "translate": "協助",
+    "id": 1693
+  },
+  {
+    "word": "atmosphere",
+    "translate": "氣氛",
+    "id": 1694
+  },
+  {
+    "word": "attend",
+    "translate": "出席",
+    "id": 1695
+  },
+  {
+    "word": "attract",
+    "translate": "吸引",
+    "id": 1696
+  },
+  {
+    "word": "authority",
+    "translate": "權威",
+    "id": 1697
+  },
+  {
+    "word": "available",
+    "translate": "可得的",
+    "id": 1698
+  },
+  {
+    "word": "barely",
+    "translate": "僅僅",
+    "id": 1699
+  },
+  {
+    "word": "battery",
+    "translate": "電池",
+    "id": 1700
+  },
+  {
+    "word": "beast",
+    "translate": "野獸",
+    "id": 1701
+  },
+  {
+    "word": "berry",
+    "translate": "果實",
+    "id": 1702
+  },
+  {
+    "word": "billion",
+    "translate": "十億",
+    "id": 1703
+  },
+  {
+    "word": "biscuit",
+    "translate": "餅乾",
+    "id": 1704
+  },
+  {
+    "word": "bloom",
+    "translate": "開花",
+    "id": 1705
+  },
+  {
+    "word": "border",
+    "translate": "邊界",
+    "id": 1706
+  },
+  {
+    "word": "break out",
+    "translate": "爆發",
+    "id": 1707
+  },
+  {
+    "word": "brutal",
+    "translate": "殘酷",
+    "id": 1708
+  },
+  {
+    "word": "cancellation",
+    "translate": "消除",
+    "id": 1709
+  },
+  {
+    "word": "capable",
+    "translate": "能力",
+    "id": 1710
+  },
+  {
+    "word": "carve out",
+    "translate": "開拓",
+    "id": 1711
+  },
+  {
+    "word": "catch",
+    "translate": "抓住",
+    "id": 1712
+  },
+  {
+    "word": "celebration",
+    "translate": "慶典",
+    "id": 1713
+  },
+  {
+    "word": "chain",
+    "translate": "鏈子",
+    "id": 1714
+  },
+  {
+    "word": "chamber",
+    "translate": "議院",
+    "id": 1715
+  },
+  {
+    "word": "chapter",
+    "translate": "章節",
+    "id": 1716
+  },
+  {
+    "word": "characteristic",
+    "translate": "特徵",
+    "id": 1717
+  },
+  {
+    "word": "cheerful",
+    "translate": "愉快",
+    "id": 1718
+  },
+  {
+    "word": "cherry",
+    "translate": "櫻桃",
+    "id": 1719
+  },
+  {
+    "word": "chip",
+    "translate": "切開",
+    "id": 1720
+  },
+  {
+    "word": "chopped",
+    "translate": "斬除",
+    "id": 1721
+  },
+  {
+    "word": "clear",
+    "translate": "明確",
+    "id": 1722
+  },
+  {
+    "word": "clothing",
+    "translate": "服裝",
+    "id": 1723
+  },
+  {
+    "word": "cocktail dress",
+    "translate": "酒會禮服",
+    "id": 1724
+  },
+  {
+    "word": "code",
+    "translate": "法典",
+    "id": 1725
+  },
+  {
+    "word": "comedy",
+    "translate": "喜劇",
+    "id": 1726
+  },
+  {
+    "word": "comic",
+    "translate": "漫畫",
+    "id": 1727
+  },
+  {
+    "word": "commerce",
+    "translate": "商業",
+    "id": 1728
+  },
+  {
+    "word": "committed",
+    "translate": "承諾",
+    "id": 1729
+  },
+  {
+    "word": "community",
+    "translate": "社區",
+    "id": 1730
+  },
+  {
+    "word": "competition",
+    "translate": "競賽",
+    "id": 1731
+  },
+  {
+    "word": "complaint",
+    "translate": "抱怨",
+    "id": 1732
+  },
+  {
+    "word": "complicated",
+    "translate": "複雜",
+    "id": 1733
+  },
+  {
+    "word": "compound",
+    "translate": "合成",
+    "id": 1734
+  },
+  {
+    "word": "concern",
+    "translate": "關心",
+    "id": 1735
+  },
+  {
+    "word": "connecting",
+    "translate": "連接",
+    "id": 1736
+  },
+  {
+    "word": "consequently",
+    "translate": "所以",
+    "id": 1737
+  },
+  {
+    "word": "construct",
+    "translate": "構造",
+    "id": 1738
+  },
+  {
+    "word": "constructive",
+    "translate": "建設性的",
+    "id": 1739
+  },
+  {
+    "word": "consultant",
+    "translate": "顧問",
+    "id": 1740
+  },
+  {
+    "word": "container",
+    "translate": "容器",
+    "id": 1741
+  },
+  {
+    "word": "contest",
+    "translate": "比賽",
+    "id": 1742
+  },
+  {
+    "word": "contribution",
+    "translate": "貢獻",
+    "id": 1743
+  },
+  {
+    "word": "corded",
+    "translate": "有線",
+    "id": 1744
+  },
+  {
+    "word": "cozy",
+    "translate": "舒適",
+    "id": 1745
+  },
+  {
+    "word": "creative",
+    "translate": "創作者",
+    "id": 1746
+  },
+  {
+    "word": "creature",
+    "translate": "生物",
+    "id": 1747
+  },
+  {
+    "word": "crowd",
+    "translate": "群組",
+    "id": 1748
+  },
+  {
+    "word": "cuisine",
+    "translate": "美食",
+    "id": 1749
+  },
+  {
+    "word": "cup of tea",
+    "translate": "一杯茶",
+    "id": 1750
+  },
+  {
+    "word": "daily",
+    "translate": "每日",
+    "id": 1751
+  },
+  {
+    "word": "darling",
+    "translate": "心肝",
+    "id": 1752
+  },
+  {
+    "word": "data",
+    "translate": "資料",
+    "id": 1753
+  },
+  {
+    "word": "deal",
+    "translate": "合約",
+    "id": 1754
+  },
+  {
+    "word": "decide",
+    "translate": "決定",
+    "id": 1755
+  },
+  {
+    "word": "definition",
+    "translate": "定義",
+    "id": 1756
+  },
+  {
+    "word": "delivery",
+    "translate": "輸送",
+    "id": 1757
+  },
+  {
+    "word": "dependent",
+    "translate": "依賴的",
+    "id": 1758
+  },
+  {
+    "word": "deserve",
+    "translate": "應得",
+    "id": 1759
+  },
+  {
+    "word": "despite",
+    "translate": "儘管",
+    "id": 1760
+  },
+  {
+    "word": "developed",
+    "translate": "發達",
+    "id": 1761
+  },
+  {
+    "word": "digital",
+    "translate": "數字",
+    "id": 1762
+  },
+  {
+    "word": "direction",
+    "translate": "方向",
+    "id": 1763
+  },
+  {
+    "word": "disadvantaged",
+    "translate": "劣勢",
+    "id": 1764
+  },
+  {
+    "word": "disappointment",
+    "translate": "失望",
+    "id": 1765
+  },
+  {
+    "word": "disconnected",
+    "translate": "斷開的",
+    "id": 1766
+  },
+  {
+    "word": "disguise",
+    "translate": "偽裝",
+    "id": 1767
+  },
+  {
+    "word": "distance",
+    "translate": "距離",
+    "id": 1768
+  },
+  {
+    "word": "distinctive",
+    "translate": "獨特的",
+    "id": 1769
+  },
+  {
+    "word": "distraction",
+    "translate": "娛樂",
+    "id": 1770
+  },
+  {
+    "word": "download",
+    "translate": "下載",
+    "id": 1771
+  },
+  {
+    "word": "drain",
+    "translate": "排洩",
+    "id": 1772
+  },
+  {
+    "word": "dreadful",
+    "translate": "可怕",
+    "id": 1773
+  },
+  {
+    "word": "drive",
+    "translate": "駕駛",
+    "id": 1774
+  },
+  {
+    "word": "eager",
+    "translate": "急切",
+    "id": 1775
+  },
+  {
+    "word": "ease",
+    "translate": "緩解",
+    "id": 1776
+  },
+  {
+    "word": "edible",
+    "translate": "食用",
+    "id": 1777
+  },
+  {
+    "word": "education",
+    "translate": "教育",
+    "id": 1778
+  },
+  {
+    "word": "effective",
+    "translate": "有效的",
+    "id": 1779
+  },
+  {
+    "word": "electrician",
+    "translate": "零工",
+    "id": 1780
+  },
+  {
+    "word": "elementary",
+    "translate": "初級",
+    "id": 1781
+  },
+  {
+    "word": "emergency",
+    "translate": "緊急",
+    "id": 1782
+  },
+  {
+    "word": "emotional",
+    "translate": "情緒化的",
+    "id": 1783
+  },
+  {
+    "word": "empty",
+    "translate": "空的",
+    "id": 1784
+  },
+  {
+    "word": "energetic",
+    "translate": "有活力的",
+    "id": 1785
+  },
+  {
+    "word": "engaged",
+    "translate": "訂婚",
+    "id": 1786
+  },
+  {
+    "word": "enjoyable",
+    "translate": "和藹可親的",
+    "id": 1787
+  },
+  {
+    "word": "entertain",
+    "translate": "招待",
+    "id": 1788
+  },
+  {
+    "word": "entrance",
+    "translate": "入口",
+    "id": 1789
+  },
+  {
+    "word": "equip",
+    "translate": "裝備",
+    "id": 1790
+  },
+  {
+    "word": "evaluate",
+    "translate": "評價",
+    "id": 1791
+  },
+  {
+    "word": "eventually",
+    "translate": "終於",
+    "id": 1792
+  },
+  {
+    "word": "evident",
+    "translate": "明顯",
+    "id": 1793
+  },
+  {
+    "word": "exchange",
+    "translate": "交換",
+    "id": 1794
+  },
+  {
+    "word": "exhibit",
+    "translate": "展覽",
+    "id": 1795
+  },
+  {
+    "word": "existence",
+    "translate": "存在",
+    "id": 1796
+  },
+  {
+    "word": "expansion",
+    "translate": "擴張",
+    "id": 1797
+  },
+  {
+    "word": "experiment",
+    "translate": "實驗",
+    "id": 1798
+  },
+  {
+    "word": "exposure",
+    "translate": "暴露",
+    "id": 1799
+  },
+  {
+    "word": "facial",
+    "translate": "臉部的",
+    "id": 1800
+  },
+  {
+    "word": "fair",
+    "translate": "公平",
+    "id": 1801
+  },
+  {
+    "word": "fancy",
+    "translate": "幻想",
+    "id": 1802
+  },
+  {
+    "word": "faraway",
+    "translate": "遙遠",
+    "id": 1803
+  },
+  {
+    "word": "fear",
+    "translate": "恐懼",
+    "id": 1804
+  },
+  {
+    "word": "female",
+    "translate": "女性",
+    "id": 1805
+  },
+  {
+    "word": "fierce",
+    "translate": "激烈",
+    "id": 1806
+  },
+  {
+    "word": "fine",
+    "translate": "良好",
+    "id": 1807
+  },
+  {
+    "word": "flame",
+    "translate": "火焰",
+    "id": 1808
+  },
+  {
+    "word": "flavor",
+    "translate": "喜好的",
+    "id": 1809
+  },
+  {
+    "word": "flush",
+    "translate": "紅暈",
+    "id": 1810
+  },
+  {
+    "word": "follower",
+    "translate": "跟隨者",
+    "id": 1811
+  },
+  {
+    "word": "forbidden",
+    "translate": "禁止",
+    "id": 1812
+  },
+  {
+    "word": "formula",
+    "translate": "配方",
+    "id": 1813
+  },
+  {
+    "word": "fortunate",
+    "translate": "幸運",
+    "id": 1814
+  },
+  {
+    "word": "found",
+    "translate": "創立",
+    "id": 1815
+  },
+  {
+    "word": "fountain",
+    "translate": "噴水池",
+    "id": 1816
+  },
+  {
+    "word": "freeway",
+    "translate": "高速公路",
+    "id": 1817
+  },
+  {
+    "word": "friendship",
+    "translate": "友誼",
+    "id": 1818
+  },
+  {
+    "word": "frustrated",
+    "translate": "沮喪",
+    "id": 1819
+  },
+  {
+    "word": "fulfilling",
+    "translate": "完成",
+    "id": 1820
+  },
+  {
+    "word": "further",
+    "translate": "促進",
+    "id": 1821
+  },
+  {
+    "word": "gap",
+    "translate": "差距",
+    "id": 1822
+  },
+  {
+    "word": "gas",
+    "translate": "瓦斯",
+    "id": 1823
+  },
+  {
+    "word": "generation",
+    "translate": "世代",
+    "id": 1824
+  },
+  {
+    "word": "gigantic",
+    "translate": "巨大",
+    "id": 1825
+  },
+  {
+    "word": "global",
+    "translate": "全球",
+    "id": 1826
+  },
+  {
+    "word": "goods",
+    "translate": "貨物",
+    "id": 1827
+  },
+  {
+    "word": "govern",
+    "translate": "治理",
+    "id": 1828
+  },
+  {
+    "word": "graduate",
+    "translate": "畢業生",
+    "id": 1829
+  },
+  {
+    "word": "grapefruit",
+    "translate": "柚子",
+    "id": 1830
+  },
+  {
+    "word": "gratitude",
+    "translate": "感謝",
+    "id": 1831
+  },
+  {
+    "word": "growth",
+    "translate": "發展",
+    "id": 1832
+  },
+  {
+    "word": "guard",
+    "translate": "守衛",
+    "id": 1833
+  },
+  {
+    "word": "guidance",
+    "translate": "領導",
+    "id": 1834
+  },
+  {
+    "word": "handcrafted",
+    "translate": "手工製作",
+    "id": 1835
+  },
+  {
+    "word": "handle",
+    "translate": "處理",
+    "id": 1836
+  },
+  {
+    "word": "handy",
+    "translate": "便利",
+    "id": 1837
+  },
+  {
+    "word": "hardship",
+    "translate": "困苦",
+    "id": 1838
+  },
+  {
+    "word": "harmony",
+    "translate": "和諧",
+    "id": 1839
+  },
+  {
+    "word": "headline",
+    "translate": "標題",
+    "id": 1840
+  },
+  {
+    "word": "healthful",
+    "translate": "健康的",
+    "id": 1841
+  },
+  {
+    "word": "hero",
+    "translate": "英雄",
+    "id": 1842
+  },
+  {
+    "word": "highly",
+    "translate": "高度",
+    "id": 1843
+  },
+  {
+    "word": "honest",
+    "translate": "誠實",
+    "id": 1844
+  },
+  {
+    "word": "hostel",
+    "translate": "宿舍",
+    "id": 1845
+  },
+  {
+    "word": "ideal",
+    "translate": "理想",
+    "id": 1846
+  },
+  {
+    "word": "idol",
+    "translate": "偶像",
+    "id": 1847
+  },
+  {
+    "word": "image",
+    "translate": "圖像",
+    "id": 1848
+  },
+  {
+    "word": "imaginative",
+    "translate": "想像的",
+    "id": 1849
+  },
+  {
+    "word": "immediately",
+    "translate": "立即",
+    "id": 1850
+  },
+  {
+    "word": "impact",
+    "translate": "碰撞",
+    "id": 1851
+  },
+  {
+    "word": "importance",
+    "translate": "重要性",
+    "id": 1852
+  },
+  {
+    "word": "incense",
+    "translate": "香氣",
+    "id": 1853
+  },
+  {
+    "word": "inconvenient",
+    "translate": "不方便",
+    "id": 1854
+  },
+  {
+    "word": "influential",
+    "translate": "有影響",
+    "id": 1855
+  },
+  {
+    "word": "inn",
+    "translate": "店面",
+    "id": 1856
+  },
+  {
+    "word": "inspection",
+    "translate": "檢查",
+    "id": 1857
+  },
+  {
+    "word": "instruction",
+    "translate": "指令",
+    "id": 1858
+  },
+  {
+    "word": "intend",
+    "translate": "打算",
+    "id": 1859
+  },
+  {
+    "word": "introduce",
+    "translate": "介紹",
+    "id": 1860
+  },
+  {
+    "word": "isolated",
+    "translate": "被孤立",
+    "id": 1861
+  },
+  {
+    "word": "jewel",
+    "translate": "鑽石",
+    "id": 1862
+  },
+  {
+    "word": "journal",
+    "translate": "日誌",
+    "id": 1863
+  },
+  {
+    "word": "kick off",
+    "translate": "開球",
+    "id": 1864
+  },
+  {
+    "word": "lack",
+    "translate": "缺乏",
+    "id": 1865
+  },
+  {
+    "word": "largescale",
+    "translate": "大規模",
+    "id": 1866
+  },
+  {
+    "word": "lawn",
+    "translate": "草坪",
+    "id": 1867
+  },
+  {
+    "word": "learning curve",
+    "translate": "學習曲線",
+    "id": 1868
+  },
+  {
+    "word": "legend",
+    "translate": "傳說",
+    "id": 1869
+  },
+  {
+    "word": "limitation",
+    "translate": "限度",
+    "id": 1870
+  },
+  {
+    "word": "liquor",
+    "translate": "酒類",
+    "id": 1871
+  },
+  {
+    "word": "lively",
+    "translate": "熱鬧",
+    "id": 1872
+  },
+  {
+    "word": "loss",
+    "translate": "損失",
+    "id": 1873
+  },
+  {
+    "word": "loyal",
+    "translate": "忠誠",
+    "id": 1874
+  },
+  {
+    "word": "madam",
+    "translate": "夫人",
+    "id": 1875
+  },
+  {
+    "word": "magnificent",
+    "translate": "壯麗",
+    "id": 1876
+  },
+  {
+    "word": "make sense",
+    "translate": "意義",
+    "id": 1877
+  },
+  {
+    "word": "masses",
+    "translate": "群眾",
+    "id": 1878
+  },
+  {
+    "word": "material",
+    "translate": "材料",
+    "id": 1879
+  },
+  {
+    "word": "meaningful",
+    "translate": "富有意義的",
+    "id": 1880
+  },
+  {
+    "word": "memorable",
+    "translate": "難忘的",
+    "id": 1881
+  },
+  {
+    "word": "microphone",
+    "translate": "麥克風",
+    "id": 1882
+  },
+  {
+    "word": "misery",
+    "translate": "苦難",
+    "id": 1883
+  },
+  {
+    "word": "miss out",
+    "translate": "錯過",
+    "id": 1884
+  },
+  {
+    "word": "mobile",
+    "translate": "移動",
+    "id": 1885
+  },
+  {
+    "word": "monthly",
+    "translate": "每月一次",
+    "id": 1886
+  },
+  {
+    "word": "moreover",
+    "translate": "而且",
+    "id": 1887
+  },
+  {
+    "word": "native",
+    "translate": "本地人",
+    "id": 1888
+  },
+  {
+    "word": "necessarily",
+    "translate": "一定地",
+    "id": 1889
+  },
+  {
+    "word": "nightmare",
+    "translate": "夢魘",
+    "id": 1890
+  },
+  {
+    "word": "normal",
+    "translate": "正常",
+    "id": 1891
+  },
+  {
+    "word": "novel",
+    "translate": "小說",
+    "id": 1892
+  },
+  {
+    "word": "object",
+    "translate": "物體",
+    "id": 1893
+  },
+  {
+    "word": "observe",
+    "translate": "查看",
+    "id": 1894
+  },
+  {
+    "word": "obtain",
+    "translate": "獲得",
+    "id": 1895
+  },
+  {
+    "word": "occasion",
+    "translate": "場合",
+    "id": 1896
+  },
+  {
+    "word": "offering",
+    "translate": "奉獻",
+    "id": 1897
+  },
+  {
+    "word": "open market",
+    "translate": "公開市場",
+    "id": 1898
+  },
+  {
+    "word": "operation",
+    "translate": "作業",
+    "id": 1899
+  },
+  {
+    "word": "organically",
+    "translate": "有機",
+    "id": 1900
+  },
+  {
+    "word": "overlook",
+    "translate": "忽略",
+    "id": 1901
+  },
+  {
+    "word": "part",
+    "translate": "部分",
+    "id": 1902
+  },
+  {
+    "word": "participation",
+    "translate": "參與",
+    "id": 1903
+  },
+  {
+    "word": "partnership",
+    "translate": "合作關係",
+    "id": 1904
+  },
+  {
+    "word": "passenger",
+    "translate": "乘客",
+    "id": 1905
+  },
+  {
+    "word": "patience",
+    "translate": "忍耐",
+    "id": 1906
+  },
+  {
+    "word": "percentage",
+    "translate": "百分比",
+    "id": 1907
+  },
+  {
+    "word": "performer",
+    "translate": "表演者",
+    "id": 1908
+  },
+  {
+    "word": "personality",
+    "translate": "個性",
+    "id": 1909
+  },
+  {
+    "word": "petal",
+    "translate": "花瓣",
+    "id": 1910
+  },
+  {
+    "word": "pioneer",
+    "translate": "先鋒",
+    "id": 1911
+  },
+  {
+    "word": "pleasure",
+    "translate": "樂趣",
+    "id": 1912
+  },
+  {
+    "word": "plenty",
+    "translate": "豐富",
+    "id": 1913
+  },
+  {
+    "word": "plum",
+    "translate": "梅子",
+    "id": 1914
+  },
+  {
+    "word": "popularity",
+    "translate": "聲望",
+    "id": 1915
+  },
+  {
+    "word": "post",
+    "translate": "職位",
+    "id": 1916
+  },
+  {
+    "word": "powerful",
+    "translate": "強大",
+    "id": 1917
+  },
+  {
+    "word": "prayer",
+    "translate": "禱告",
+    "id": 1918
+  },
+  {
+    "word": "preferable",
+    "translate": "最好",
+    "id": 1919
+  },
+  {
+    "word": "preparation",
+    "translate": "準備",
+    "id": 1920
+  },
+  {
+    "word": "pressure",
+    "translate": "壓力",
+    "id": 1921
+  },
+  {
+    "word": "print",
+    "translate": "印刷",
+    "id": 1922
+  },
+  {
+    "word": "privilege",
+    "translate": "特權",
+    "id": 1923
+  },
+  {
+    "word": "production",
+    "translate": "生產",
+    "id": 1924
+  },
+  {
+    "word": "professional",
+    "translate": "專業的",
+    "id": 1925
+  },
+  {
+    "word": "profitable",
+    "translate": "有利可圖的",
+    "id": 1926
+  },
+  {
+    "word": "project",
+    "translate": "計劃",
+    "id": 1927
+  },
+  {
+    "word": "promise",
+    "translate": "承諾",
+    "id": 1928
+  },
+  {
+    "word": "prompt",
+    "translate": "提示",
+    "id": 1929
+  },
+  {
+    "word": "property",
+    "translate": "屬性",
+    "id": 1930
+  },
+  {
+    "word": "proudly",
+    "translate": "驕傲地",
+    "id": 1931
+  },
+  {
+    "word": "psychological",
+    "translate": "心理",
+    "id": 1932
+  },
+  {
+    "word": "public",
+    "translate": "公開",
+    "id": 1933
+  },
+  {
+    "word": "punch",
+    "translate": "穿孔",
+    "id": 1934
+  },
+  {
+    "word": "pursuit",
+    "translate": "追求",
+    "id": 1935
+  },
+  {
+    "word": "raise",
+    "translate": "提高",
+    "id": 1936
+  },
+  {
+    "word": "range",
+    "translate": "範圍",
+    "id": 1937
+  },
+  {
+    "word": "reach",
+    "translate": "到達",
+    "id": 1938
+  },
+  {
+    "word": "reasonalbe",
+    "translate": "合理",
+    "id": 1939
+  },
+  {
+    "word": "recognition",
+    "translate": "承認",
+    "id": 1940
+  },
+  {
+    "word": "reference",
+    "translate": "參考",
+    "id": 1941
+  },
+  {
+    "word": "regulation",
+    "translate": "規則",
+    "id": 1942
+  },
+  {
+    "word": "relation",
+    "translate": "關係",
+    "id": 1943
+  },
+  {
+    "word": "relieved",
+    "translate": "安心",
+    "id": 1944
+  },
+  {
+    "word": "remain",
+    "translate": "留下",
+    "id": 1945
+  },
+  {
+    "word": "remote",
+    "translate": "遠程",
+    "id": 1946
+  },
+  {
+    "word": "replace",
+    "translate": "更換",
+    "id": 1947
+  },
+  {
+    "word": "reporter",
+    "translate": "記者",
+    "id": 1948
+  },
+  {
+    "word": "representation",
+    "translate": "表示",
+    "id": 1949
+  },
+  {
+    "word": "research",
+    "translate": "研究",
+    "id": 1950
+  },
+  {
+    "word": "resource",
+    "translate": "資源",
+    "id": 1951
+  },
+  {
+    "word": "risky",
+    "translate": "冒險的",
+    "id": 1952
+  },
+  {
+    "word": "role",
+    "translate": "角色",
+    "id": 1953
+  },
+  {
+    "word": "romantic",
+    "translate": "浪漫",
+    "id": 1954
+  },
+  {
+    "word": "routine",
+    "translate": "常規",
+    "id": 1955
+  },
+  {
+    "word": "rumor",
+    "translate": "傳聞",
+    "id": 1956
+  },
+  {
+    "word": "safely",
+    "translate": "安全",
+    "id": 1957
+  },
+  {
+    "word": "sausage",
+    "translate": "香腸",
+    "id": 1958
+  },
+  {
+    "word": "scary",
+    "translate": "可怕",
+    "id": 1959
+  },
+  {
+    "word": "scoop",
+    "translate": "盛舀",
+    "id": 1960
+  },
+  {
+    "word": "seal",
+    "translate": "密封",
+    "id": 1961
+  },
+  {
+    "word": "seek",
+    "translate": "尋求",
+    "id": 1962
+  },
+  {
+    "word": "sense",
+    "translate": "感覺",
+    "id": 1963
+  },
+  {
+    "word": "shampoo",
+    "translate": "洗髮乳",
+    "id": 1964
+  },
+  {
+    "word": "shave",
+    "translate": "刮鬍子",
+    "id": 1965
+  },
+  {
+    "word": "shiny",
+    "translate": "閃亮",
+    "id": 1966
+  },
+  {
+    "word": "shortage",
+    "translate": "缺少",
+    "id": 1967
+  },
+  {
+    "word": "signature style",
+    "translate": "招牌式",
+    "id": 1968
+  },
+  {
+    "word": "simply",
+    "translate": "簡單地",
+    "id": 1969
+  },
+  {
+    "word": "single",
+    "translate": "單身",
+    "id": 1970
+  },
+  {
+    "word": "site",
+    "translate": "現場",
+    "id": 1971
+  },
+  {
+    "word": "skeleton",
+    "translate": "骨架",
+    "id": 1972
+  },
+  {
+    "word": "slice",
+    "translate": "切片",
+    "id": 1973
+  },
+  {
+    "word": "snap",
+    "translate": "快照",
+    "id": 1974
+  },
+  {
+    "word": "solid",
+    "translate": "固體",
+    "id": 1975
+  },
+  {
+    "word": "soul",
+    "translate": "靈魂",
+    "id": 1976
+  },
+  {
+    "word": "sparkle",
+    "translate": "火花",
+    "id": 1977
+  },
+  {
+    "word": "specific",
+    "translate": "具體",
+    "id": 1978
+  },
+  {
+    "word": "spice up",
+    "translate": "調劑",
+    "id": 1979
+  },
+  {
+    "word": "spiritually",
+    "translate": "精神上的",
+    "id": 1980
+  },
+  {
+    "word": "splendid",
+    "translate": "燦爛",
+    "id": 1981
+  },
+  {
+    "word": "spread",
+    "translate": "傳播",
+    "id": 1982
+  },
+  {
+    "word": "stage",
+    "translate": "舞臺",
+    "id": 1983
+  },
+  {
+    "word": "starvation",
+    "translate": "飢餓",
+    "id": 1984
+  },
+  {
+    "word": "status",
+    "translate": "狀態",
+    "id": 1985
+  },
+  {
+    "word": "strategy",
+    "translate": "戰略",
+    "id": 1986
+  },
+  {
+    "word": "strive",
+    "translate": "努力",
+    "id": 1987
+  },
+  {
+    "word": "suitable",
+    "translate": "合適的",
+    "id": 1988
+  },
+  {
+    "word": "support",
+    "translate": "支持",
+    "id": 1989
+  },
+  {
+    "word": "surf",
+    "translate": "衝浪",
+    "id": 1990
+  },
+  {
+    "word": "surrounding",
+    "translate": "周圍",
+    "id": 1991
+  },
+  {
+    "word": "survive",
+    "translate": "生存",
+    "id": 1992
+  },
+  {
+    "word": "suspicious",
+    "translate": "可疑的",
+    "id": 1993
+  },
+  {
+    "word": "tag",
+    "translate": "標籤",
+    "id": 1994
+  },
+  {
+    "word": "talent",
+    "translate": "天賦",
+    "id": 1995
+  },
+  {
+    "word": "technique",
+    "translate": "技術",
+    "id": 1996
+  },
+  {
+    "word": "teenager",
+    "translate": "青少年",
+    "id": 1997
+  },
+  {
+    "word": "the departed",
+    "translate": "離去",
+    "id": 1998
+  },
+  {
+    "word": "tide",
+    "translate": "湖水",
+    "id": 1999
+  },
+  {
+    "word": "toss",
+    "translate": "折騰",
+    "id": 2000
+  },
+  {
+    "word": "traditional",
+    "translate": "傳統",
+    "id": 2001
+  },
+  {
+    "word": "tragedy",
+    "translate": "悲劇",
+    "id": 2002
+  },
+  {
+    "word": "translate",
+    "translate": "翻譯",
+    "id": 2003
+  },
+  {
+    "word": "trash",
+    "translate": "垃圾",
+    "id": 2004
+  },
+  {
+    "word": "tribute",
+    "translate": "進貢",
+    "id": 2005
+  },
+  {
+    "word": "tropical",
+    "translate": "熱帶",
+    "id": 2006
+  },
+  {
+    "word": "undergo",
+    "translate": "經歷",
+    "id": 2007
+  },
+  {
+    "word": "unexpectedly",
+    "translate": "居然",
+    "id": 2008
+  },
+  {
+    "word": "unplug",
+    "translate": "拔出",
+    "id": 2009
+  },
+  {
+    "word": "upset",
+    "translate": "煩惱",
+    "id": 2010
+  },
+  {
+    "word": "value",
+    "translate": "價值",
+    "id": 2011
+  },
+  {
+    "word": "various",
+    "translate": "各種",
+    "id": 2012
+  },
+  {
+    "word": "vegetarian",
+    "translate": "素食主義者",
+    "id": 2013
+  },
+  {
+    "word": "violet",
+    "translate": "紫羅蘭",
+    "id": 2014
+  },
+  {
+    "word": "virus",
+    "translate": "病毒",
+    "id": 2015
+  },
+  {
+    "word": "visual",
+    "translate": "視覺的",
+    "id": 2016
+  },
+  {
+    "word": "volcano",
+    "translate": "火山",
+    "id": 2017
+  },
+  {
+    "word": "weekly",
+    "translate": "每週",
+    "id": 2018
+  },
+  {
+    "word": "whole wheat",
+    "translate": "全麥",
+    "id": 2019
+  },
+  {
+    "word": "wonder",
+    "translate": "難怪",
+    "id": 2020
+  },
+  {
+    "word": "worth",
+    "translate": "價值",
+    "id": 2021
+  },
+  {
+    "word": "absolutely",
+    "translate": "絕對地",
+    "id": 2022
+  },
+  {
+    "word": "accomplishment",
+    "translate": "成就",
+    "id": 2023
+  },
+  {
+    "word": "acre",
+    "translate": "英畝",
+    "id": 2024
+  },
+  {
+    "word": "activity",
+    "translate": "活動",
+    "id": 2025
+  },
+  {
+    "word": "additional",
+    "translate": "另外",
+    "id": 2026
+  },
+  {
+    "word": "admit",
+    "translate": "承認",
+    "id": 2027
+  },
+  {
+    "word": "adventure",
+    "translate": "冒險",
+    "id": 2028
+  },
+  {
+    "word": "advise",
+    "translate": "忠告",
+    "id": 2029
+  },
+  {
+    "word": "affordable",
+    "translate": "實惠的",
+    "id": 2030
+  },
+  {
+    "word": "aid",
+    "translate": "幫忙",
+    "id": 2031
+  },
+  {
+    "word": "alarming",
+    "translate": "驚人的",
+    "id": 2032
+  },
+  {
+    "word": "alien",
+    "translate": "外僑",
+    "id": 2033
+  },
+  {
+    "word": "ambitious",
+    "translate": "野心勃勃的",
+    "id": 2034
+  },
+  {
+    "word": "amusement",
+    "translate": "娛樂",
+    "id": 2035
+  },
+  {
+    "word": "ancestor",
+    "translate": "祖先",
+    "id": 2036
+  },
+  {
+    "word": "announcement",
+    "translate": "公告",
+    "id": 2037
+  },
+  {
+    "word": "anxiously",
+    "translate": "焦急地",
+    "id": 2038
+  },
+  {
+    "word": "appeal",
+    "translate": "申訴",
+    "id": 2039
+  },
+  {
+    "word": "apply",
+    "translate": "申請",
+    "id": 2040
+  },
+  {
+    "word": "arguably",
+    "translate": "按理說",
+    "id": 2041
+  },
+  {
+    "word": "arouse",
+    "translate": "激發",
+    "id": 2042
+  },
+  {
+    "word": "article",
+    "translate": "文章",
+    "id": 2043
+  },
+  {
+    "word": "assembly",
+    "translate": "裝配",
+    "id": 2044
+  },
+  {
+    "word": "associate",
+    "translate": "相關",
+    "id": 2045
+  },
+  {
+    "word": "attitude",
+    "translate": "態度",
+    "id": 2046
+  },
+  {
+    "word": "author",
+    "translate": "作者",
+    "id": 2047
+  },
+  {
+    "word": "automatic",
+    "translate": "自動",
+    "id": 2048
+  },
+  {
+    "word": "average",
+    "translate": "平均",
+    "id": 2049
+  },
+  {
+    "word": "banana split",
+    "translate": "香蕉船",
+    "id": 2050
+  },
+  {
+    "word": "barrel",
+    "translate": "桶子",
+    "id": 2051
+  },
+  {
+    "word": "basis",
+    "translate": "基礎",
+    "id": 2052
+  },
+  {
+    "word": "bay",
+    "translate": "海灣",
+    "id": 2053
+  },
+  {
+    "word": "belly",
+    "translate": "肚子",
+    "id": 2054
+  },
+  {
+    "word": "bidding",
+    "translate": "投標",
+    "id": 2055
+  },
+  {
+    "word": "biography",
+    "translate": "傳記",
+    "id": 2056
+  },
+  {
+    "word": "black and white",
+    "translate": "黑白",
+    "id": 2057
+  },
+  {
+    "word": "blossom",
+    "translate": "開花",
+    "id": 2058
+  },
+  {
+    "word": "branch",
+    "translate": "分支",
+    "id": 2059
+  },
+  {
+    "word": "brilliant",
+    "translate": "燦爛",
+    "id": 2060
+  },
+  {
+    "word": "broadcast",
+    "translate": "播放",
+    "id": 2061
+  },
+  {
+    "word": "buffet",
+    "translate": "自助餐",
+    "id": 2062
+  },
+  {
+    "word": "capture",
+    "translate": "捕獲",
+    "id": 2063
+  },
+  {
+    "word": "career",
+    "translate": "事業",
+    "id": 2064
+  },
+  {
+    "word": "case",
+    "translate": "案子",
+    "id": 2065
+  },
+  {
+    "word": "cause",
+    "translate": "原因",
+    "id": 2066
+  },
+  {
+    "word": "century",
+    "translate": "世紀",
+    "id": 2067
+  },
+  {
+    "word": "challenge",
+    "translate": "挑戰",
+    "id": 2068
+  },
+  {
+    "word": "channel",
+    "translate": "引導",
+    "id": 2069
+  },
+  {
+    "word": "character",
+    "translate": "人物",
+    "id": 2070
+  },
+  {
+    "word": "charm",
+    "translate": "魅力",
+    "id": 2071
+  },
+  {
+    "word": "chemical",
+    "translate": "化學",
+    "id": 2072
+  },
+  {
+    "word": "chicken breast",
+    "translate": "雞胸肉",
+    "id": 2073
+  },
+  {
+    "word": "chirp",
+    "translate": "嘰嘰喳喳",
+    "id": 2074
+  },
+  {
+    "word": "click",
+    "translate": "點擊",
+    "id": 2075
+  },
+  {
+    "word": "clue",
+    "translate": "線索",
+    "id": 2076
+  },
+  {
+    "word": "coconut",
+    "translate": "椰子",
+    "id": 2077
+  },
+  {
+    "word": "combine",
+    "translate": "結合",
+    "id": 2078
+  },
+  {
+    "word": "comfort",
+    "translate": "舒服",
+    "id": 2079
+  },
+  {
+    "word": "commercial",
+    "translate": "廣告",
+    "id": 2080
+  },
+  {
+    "word": "communicate",
+    "translate": "溝通",
+    "id": 2081
+  },
+  {
+    "word": "competitor",
+    "translate": "競爭者",
+    "id": 2082
+  },
+  {
+    "word": "complex",
+    "translate": "複雜",
+    "id": 2083
+  },
+  {
+    "word": "compose",
+    "translate": "組成",
+    "id": 2084
+  },
+  {
+    "word": "concept",
+    "translate": "概念",
+    "id": 2085
+  },
+  {
+    "word": "condition",
+    "translate": "條件",
+    "id": 2086
+  },
+  {
+    "word": "consequence",
+    "translate": "結果",
+    "id": 2087
+  },
+  {
+    "word": "considerably",
+    "translate": "相當",
+    "id": 2088
+  },
+  {
+    "word": "construction",
+    "translate": "結構",
+    "id": 2089
+  },
+  {
+    "word": "consult",
+    "translate": "參考",
+    "id": 2090
+  },
+  {
+    "word": "content",
+    "translate": "內容",
+    "id": 2091
+  },
+  {
+    "word": "contract",
+    "translate": "合約",
+    "id": 2092
+  },
+  {
+    "word": "convenient",
+    "translate": "方便",
+    "id": 2093
+  },
+  {
+    "word": "convince",
+    "translate": "說服",
+    "id": 2094
+  },
+  {
+    "word": "correspond",
+    "translate": "符合",
+    "id": 2095
+  },
+  {
+    "word": "cottage",
+    "translate": "茅屋",
+    "id": 2096
+  },
+  {
+    "word": "courageous",
+    "translate": "勇敢",
+    "id": 2097
+  },
+  {
+    "word": "creation",
+    "translate": "創作",
+    "id": 2098
+  },
+  {
+    "word": "creativity",
+    "translate": "創造力",
+    "id": 2099
+  },
+  {
+    "word": "credit",
+    "translate": "信用",
+    "id": 2100
+  },
+  {
+    "word": "crisp",
+    "translate": "酥脆",
+    "id": 2101
+  },
+  {
+    "word": "criticism",
+    "translate": "批評",
+    "id": 2102
+  },
+  {
+    "word": "cucumber",
+    "translate": "黃瓜",
+    "id": 2103
+  },
+  {
+    "word": "cultivate",
+    "translate": "培植",
+    "id": 2104
+  },
+  {
+    "word": "curve",
+    "translate": "彎曲",
+    "id": 2105
+  },
+  {
+    "word": "dare",
+    "translate": "果敢",
+    "id": 2106
+  },
+  {
+    "word": "dash",
+    "translate": "衝撞",
+    "id": 2107
+  },
+  {
+    "word": "deadline",
+    "translate": "期限",
+    "id": 2108
+  },
+  {
+    "word": "decade",
+    "translate": "十年",
+    "id": 2109
+  },
+  {
+    "word": "define",
+    "translate": "確定",
+    "id": 2110
+  },
+  {
+    "word": "demand",
+    "translate": "需求",
+    "id": 2111
+  },
+  {
+    "word": "dependable",
+    "translate": "可信的",
+    "id": 2112
+  },
+  {
+    "word": "depressing",
+    "translate": "沉悶",
+    "id": 2113
+  },
+  {
+    "word": "designer",
+    "translate": "設計師",
+    "id": 2114
+  },
+  {
+    "word": "determine",
+    "translate": "確定",
+    "id": 2115
+  },
+  {
+    "word": "development",
+    "translate": "發育",
+    "id": 2116
+  },
+  {
+    "word": "devote",
+    "translate": "致力",
+    "id": 2117
+  },
+  {
+    "word": "diligence",
+    "translate": "勤勉",
+    "id": 2118
+  },
+  {
+    "word": "director",
+    "translate": "導演",
+    "id": 2119
+  },
+  {
+    "word": "disappointing",
+    "translate": "令人失望的",
+    "id": 2120
+  },
+  {
+    "word": "disaster",
+    "translate": "災難",
+    "id": 2121
+  },
+  {
+    "word": "discourage",
+    "translate": "阻礙",
+    "id": 2122
+  },
+  {
+    "word": "disk",
+    "translate": "唱片",
+    "id": 2123
+  },
+  {
+    "word": "dissatisfaction",
+    "translate": "不滿",
+    "id": 2124
+  },
+  {
+    "word": "distant",
+    "translate": "遙遠",
+    "id": 2125
+  },
+  {
+    "word": "distribute",
+    "translate": "分配",
+    "id": 2126
+  },
+  {
+    "word": "domestic",
+    "translate": "國內",
+    "id": 2127
+  },
+  {
+    "word": "doze",
+    "translate": "瞌睡",
+    "id": 2128
+  },
+  {
+    "word": "dramatically",
+    "translate": "顯著地",
+    "id": 2129
+  },
+  {
+    "word": "drift",
+    "translate": "漂移",
+    "id": 2130
+  },
+  {
+    "word": "dynamic",
+    "translate": "動態",
+    "id": 2131
+  },
+  {
+    "word": "earnest",
+    "translate": "認真",
+    "id": 2132
+  },
+  {
+    "word": "edge",
+    "translate": "邊緣",
+    "id": 2133
+  },
+  {
+    "word": "edition",
+    "translate": "版本",
+    "id": 2134
+  },
+  {
+    "word": "effect",
+    "translate": "效果",
+    "id": 2135
+  },
+  {
+    "word": "effort",
+    "translate": "功夫",
+    "id": 2136
+  },
+  {
+    "word": "element",
+    "translate": "元素",
+    "id": 2137
+  },
+  {
+    "word": "emerge",
+    "translate": "出現",
+    "id": 2138
+  },
+  {
+    "word": "emerging",
+    "translate": "新興的",
+    "id": 2139
+  },
+  {
+    "word": "employ",
+    "translate": "雇用",
+    "id": 2140
+  },
+  {
+    "word": "enable",
+    "translate": "啟用",
+    "id": 2141
+  },
+  {
+    "word": "encourage",
+    "translate": "鼓勵",
+    "id": 2142
+  },
+  {
+    "word": "enforcement",
+    "translate": "強制",
+    "id": 2143
+  },
+  {
+    "word": "engineer",
+    "translate": "工程師",
+    "id": 2144
+  },
+  {
+    "word": "enormous",
+    "translate": "巨大",
+    "id": 2145
+  },
+  {
+    "word": "entertainment",
+    "translate": "娛樂",
+    "id": 2146
+  },
+  {
+    "word": "environmental",
+    "translate": "環境的",
+    "id": 2147
+  },
+  {
+    "word": "essential",
+    "translate": "必要的",
+    "id": 2148
+  },
+  {
+    "word": "event",
+    "translate": "事件",
+    "id": 2149
+  },
+  {
+    "word": "exception",
+    "translate": "例外",
+    "id": 2150
+  },
+  {
+    "word": "exclusive",
+    "translate": "獨家",
+    "id": 2151
+  },
+  {
+    "word": "exit",
+    "translate": "出口",
+    "id": 2152
+  },
+  {
+    "word": "expectation",
+    "translate": "期望",
+    "id": 2153
+  },
+  {
+    "word": "explore",
+    "translate": "探索",
+    "id": 2154
+  },
+  {
+    "word": "expression",
+    "translate": "表達",
+    "id": 2155
+  },
+  {
+    "word": "extraordinary",
+    "translate": "非凡的",
+    "id": 2156
+  },
+  {
+    "word": "fail",
+    "translate": "失敗",
+    "id": 2157
+  },
+  {
+    "word": "fame",
+    "translate": "名譽",
+    "id": 2158
+  },
+  {
+    "word": "fantastic",
+    "translate": "空想的",
+    "id": 2159
+  },
+  {
+    "word": "fare",
+    "translate": "票價",
+    "id": 2160
+  },
+  {
+    "word": "feast",
+    "translate": "宴會",
+    "id": 2161
+  },
+  {
+    "word": "festival",
+    "translate": "節日",
+    "id": 2162
+  },
+  {
+    "word": "financial",
+    "translate": "金融",
+    "id": 2163
+  },
+  {
+    "word": "firework",
+    "translate": "煙火",
+    "id": 2164
+  },
+  {
+    "word": "flat",
+    "translate": "平坦的",
+    "id": 2165
+  },
+  {
+    "word": "float",
+    "translate": "漂浮",
+    "id": 2166
+  },
+  {
+    "word": "fluent",
+    "translate": "流利",
+    "id": 2167
+  },
+  {
+    "word": "flying saucer",
+    "translate": "飛碟",
+    "id": 2168
+  },
+  {
+    "word": "following",
+    "translate": "跟隨",
+    "id": 2169
+  },
+  {
+    "word": "force",
+    "translate": "迫使",
+    "id": 2170
+  },
+  {
+    "word": "forth",
+    "translate": "往前",
+    "id": 2171
+  },
+  {
+    "word": "forward",
+    "translate": "向前",
+    "id": 2172
+  },
+  {
+    "word": "foundation",
+    "translate": "基礎",
+    "id": 2173
+  },
+  {
+    "word": "freedom",
+    "translate": "自由",
+    "id": 2174
+  },
+  {
+    "word": "frequently",
+    "translate": "頻繁地",
+    "id": 2175
+  },
+  {
+    "word": "frown",
+    "translate": "皺眉",
+    "id": 2176
+  },
+  {
+    "word": "frustration",
+    "translate": "挫折",
+    "id": 2177
+  },
+  {
+    "word": "function",
+    "translate": "功能",
+    "id": 2178
+  },
+  {
+    "word": "fundamental",
+    "translate": "基本的",
+    "id": 2179
+  },
+  {
+    "word": "future",
+    "translate": "未來",
+    "id": 2180
+  },
+  {
+    "word": "garlic",
+    "translate": "大蒜",
+    "id": 2181
+  },
+  {
+    "word": "gaze",
+    "translate": "注視",
+    "id": 2182
+  },
+  {
+    "word": "genuine",
+    "translate": "真正",
+    "id": 2183
+  },
+  {
+    "word": "ginger",
+    "translate": "薑絲",
+    "id": 2184
+  },
+  {
+    "word": "glow",
+    "translate": "發光",
+    "id": 2185
+  },
+  {
+    "word": "gradually",
+    "translate": "漸漸地",
+    "id": 2186
+  },
+  {
+    "word": "grain",
+    "translate": "糧食",
+    "id": 2187
+  },
+  {
+    "word": "grasp",
+    "translate": "掌握",
+    "id": 2188
+  },
+  {
+    "word": "ground",
+    "translate": "地面",
+    "id": 2189
+  },
+  {
+    "word": "grub",
+    "translate": "挖掘",
+    "id": 2190
+  },
+  {
+    "word": "guardian",
+    "translate": "監護人",
+    "id": 2191
+  },
+  {
+    "word": "guide",
+    "translate": "指導",
+    "id": 2192
+  },
+  {
+    "word": "handful",
+    "translate": "少數",
+    "id": 2193
+  },
+  {
+    "word": "handwriting",
+    "translate": "手寫",
+    "id": 2194
+  },
+  {
+    "word": "harmful",
+    "translate": "有害的",
+    "id": 2195
+  },
+  {
+    "word": "harvest",
+    "translate": "收成",
+    "id": 2196
+  },
+  {
+    "word": "headquarters",
+    "translate": "司令部",
+    "id": 2197
+  },
+  {
+    "word": "hell",
+    "translate": "地獄",
+    "id": 2198
+  },
+  {
+    "word": "hesitate",
+    "translate": "遲疑",
+    "id": 2199
+  },
+  {
+    "word": "hike",
+    "translate": "遠足",
+    "id": 2200
+  },
+  {
+    "word": "honor",
+    "translate": "榮譽",
+    "id": 2201
+  },
+  {
+    "word": "humorous",
+    "translate": "幽默",
+    "id": 2202
+  },
+  {
+    "word": "identity",
+    "translate": "特性",
+    "id": 2203
+  },
+  {
+    "word": "illustrate",
+    "translate": "說明",
+    "id": 2204
+  },
+  {
+    "word": "imagination",
+    "translate": "想像力",
+    "id": 2205
+  },
+  {
+    "word": "imagine",
+    "translate": "想像",
+    "id": 2206
+  },
+  {
+    "word": "immigration",
+    "translate": "遷居",
+    "id": 2207
+  },
+  {
+    "word": "improve",
+    "translate": "改善",
+    "id": 2208
+  },
+  {
+    "word": "include",
+    "translate": "包括",
+    "id": 2209
+  },
+  {
+    "word": "inconsistency",
+    "translate": "前後矛盾",
+    "id": 2210
+  },
+  {
+    "word": "industry",
+    "translate": "工業",
+    "id": 2211
+  },
+  {
+    "word": "inner",
+    "translate": "裡面的",
+    "id": 2212
+  },
+  {
+    "word": "inspiring",
+    "translate": "鼓舞人心",
+    "id": 2213
+  },
+  {
+    "word": "insurance",
+    "translate": "保險",
+    "id": 2214
+  },
+  {
+    "word": "interpret",
+    "translate": "翻譯",
+    "id": 2215
+  },
+  {
+    "word": "intimate",
+    "translate": "親密",
+    "id": 2216
+  },
+  {
+    "word": "invitation",
+    "translate": "請帖",
+    "id": 2217
+  },
+  {
+    "word": "issue",
+    "translate": "問題",
+    "id": 2218
+  },
+  {
+    "word": "jewelry",
+    "translate": "首飾",
+    "id": 2219
+  },
+  {
+    "word": "journey",
+    "translate": "旅程",
+    "id": 2220
+  },
+  {
+    "word": "knob",
+    "translate": "把手",
+    "id": 2221
+  },
+  {
+    "word": "labor",
+    "translate": "勞動",
+    "id": 2222
+  },
+  {
+    "word": "latter",
+    "translate": "後者",
+    "id": 2223
+  },
+  {
+    "word": "lawyer",
+    "translate": "律師",
+    "id": 2224
+  },
+  {
+    "word": "legal",
+    "translate": "法律",
+    "id": 2225
+  },
+  {
+    "word": "length",
+    "translate": "長度",
+    "id": 2226
+  },
+  {
+    "word": "limited",
+    "translate": "有限",
+    "id": 2227
+  },
+  {
+    "word": "literary",
+    "translate": "文章",
+    "id": 2228
+  },
+  {
+    "word": "location",
+    "translate": "位置",
+    "id": 2229
+  },
+  {
+    "word": "lotion",
+    "translate": "洗劑",
+    "id": 2230
+  },
+  {
+    "word": "luck",
+    "translate": "運氣",
+    "id": 2231
+  },
+  {
+    "word": "magical",
+    "translate": "神奇",
+    "id": 2232
+  },
+  {
+    "word": "maintain",
+    "translate": "維持",
+    "id": 2233
+  },
+  {
+    "word": "manage",
+    "translate": "管理",
+    "id": 2234
+  },
+  {
+    "word": "marvelous",
+    "translate": "奇妙",
+    "id": 2235
+  },
+  {
+    "word": "master",
+    "translate": "主人",
+    "id": 2236
+  },
+  {
+    "word": "maturity",
+    "translate": "到期",
+    "id": 2237
+  },
+  {
+    "word": "means",
+    "translate": "方法",
+    "id": 2238
+  },
+  {
+    "word": "membership",
+    "translate": "會籍",
+    "id": 2239
+  },
+  {
+    "word": "merchant",
+    "translate": "商人",
+    "id": 2240
+  },
+  {
+    "word": "messy",
+    "translate": "麻煩的",
+    "id": 2241
+  },
+  {
+    "word": "miserable",
+    "translate": "悲慘",
+    "id": 2242
+  },
+  {
+    "word": "misfortune",
+    "translate": "不幸",
+    "id": 2243
+  },
+  {
+    "word": "mixture",
+    "translate": "混合物",
+    "id": 2244
+  },
+  {
+    "word": "moist",
+    "translate": "潮濕",
+    "id": 2245
+  },
+  {
+    "word": "moral",
+    "translate": "道德",
+    "id": 2246
+  },
+  {
+    "word": "motivate",
+    "translate": "刺激",
+    "id": 2247
+  },
+  {
+    "word": "nature",
+    "translate": "自然",
+    "id": 2248
+  },
+  {
+    "word": "nevertheless",
+    "translate": "還是",
+    "id": 2249
+  },
+  {
+    "word": "noble",
+    "translate": "高貴",
+    "id": 2250
+  },
+  {
+    "word": "nourishing",
+    "translate": "滋補",
+    "id": 2251
+  },
+  {
+    "word": "numerous",
+    "translate": "大量",
+    "id": 2252
+  },
+  {
+    "word": "obvious",
+    "translate": "明顯",
+    "id": 2253
+  },
+  {
+    "word": "odd",
+    "translate": "奇怪",
+    "id": 2254
+  },
+  {
+    "word": "opera",
+    "translate": "歌劇",
+    "id": 2255
+  },
+  {
+    "word": "opinion",
+    "translate": "意見",
+    "id": 2256
+  },
+  {
+    "word": "original",
+    "translate": "原來",
+    "id": 2257
+  },
+  {
+    "word": "outcome",
+    "translate": "結果",
+    "id": 2258
+  },
+  {
+    "word": "overnight",
+    "translate": "過夜",
+    "id": 2259
+  },
+  {
+    "word": "particular",
+    "translate": "特別",
+    "id": 2260
+  },
+  {
+    "word": "pass away",
+    "translate": "去世",
+    "id": 2261
+  },
+  {
+    "word": "passion",
+    "translate": "熱情",
+    "id": 2262
+  },
+  {
+    "word": "percent",
+    "translate": "百分比",
+    "id": 2263
+  },
+  {
+    "word": "period",
+    "translate": "期間",
+    "id": 2264
+  },
+  {
+    "word": "pest",
+    "translate": "害蟲",
+    "id": 2265
+  },
+  {
+    "word": "physically",
+    "translate": "物理",
+    "id": 2266
+  },
+  {
+    "word": "pit",
+    "translate": "礦井",
+    "id": 2267
+  },
+  {
+    "word": "plentiful",
+    "translate": "豐富",
+    "id": 2268
+  },
+  {
+    "word": "plug",
+    "translate": "插頭",
+    "id": 2269
+  },
+  {
+    "word": "political",
+    "translate": "政治",
+    "id": 2270
+  },
+  {
+    "word": "possess",
+    "translate": "擁有",
+    "id": 2271
+  },
+  {
+    "word": "powdered",
+    "translate": "粉狀",
+    "id": 2272
+  },
+  {
+    "word": "practical",
+    "translate": "實用",
+    "id": 2273
+  },
+  {
+    "word": "precious",
+    "translate": "珍貴",
+    "id": 2274
+  },
+  {
+    "word": "pregnant",
+    "translate": "懷孕的",
+    "id": 2275
+  },
+  {
+    "word": "preserves",
+    "translate": "果醬",
+    "id": 2276
+  },
+  {
+    "word": "press",
+    "translate": "按壓",
+    "id": 2277
+  },
+  {
+    "word": "previous",
+    "translate": "過去",
+    "id": 2278
+  },
+  {
+    "word": "privacy",
+    "translate": "隱私",
+    "id": 2279
+  },
+  {
+    "word": "productive",
+    "translate": "生產的",
+    "id": 2280
+  },
+  {
+    "word": "progress",
+    "translate": "進展",
+    "id": 2281
+  },
+  {
+    "word": "prominent",
+    "translate": "突出",
+    "id": 2282
+  },
+  {
+    "word": "promotional",
+    "translate": "促銷",
+    "id": 2283
+  },
+  {
+    "word": "proof",
+    "translate": "證明",
+    "id": 2284
+  },
+  {
+    "word": "prove",
+    "translate": "證明",
+    "id": 2285
+  },
+  {
+    "word": "psychology",
+    "translate": "心理學",
+    "id": 2286
+  },
+  {
+    "word": "publication",
+    "translate": "發表",
+    "id": 2287
+  },
+  {
+    "word": "publish",
+    "translate": "發布",
+    "id": 2288
+  },
+  {
+    "word": "pursue",
+    "translate": "追求",
+    "id": 2289
+  },
+  {
+    "word": "raisin",
+    "translate": "葡萄乾",
+    "id": 2290
+  },
+  {
+    "word": "reason",
+    "translate": "原因",
+    "id": 2291
+  },
+  {
+    "word": "recent",
+    "translate": "最近",
+    "id": 2292
+  },
+  {
+    "word": "recover",
+    "translate": "恢復",
+    "id": 2293
+  },
+  {
+    "word": "referral",
+    "translate": "推薦",
+    "id": 2294
+  },
+  {
+    "word": "region",
+    "translate": "區域",
+    "id": 2295
+  },
+  {
+    "word": "release",
+    "translate": "發布",
+    "id": 2296
+  },
+  {
+    "word": "rely",
+    "translate": "依靠",
+    "id": 2297
+  },
+  {
+    "word": "remarkable",
+    "translate": "卓越",
+    "id": 2298
+  },
+  {
+    "word": "rented",
+    "translate": "出租",
+    "id": 2299
+  },
+  {
+    "word": "report",
+    "translate": "報告",
+    "id": 2300
+  },
+  {
+    "word": "represent",
+    "translate": "代表",
+    "id": 2301
+  },
+  {
+    "word": "reputation",
+    "translate": "聲譽",
+    "id": 2302
+  },
+  {
+    "word": "researcher",
+    "translate": "研究員",
+    "id": 2303
+  },
+  {
+    "word": "resident",
+    "translate": "居民",
+    "id": 2304
+  },
+  {
+    "word": "resolve",
+    "translate": "解決",
+    "id": 2305
+  },
+  {
+    "word": "respectable",
+    "translate": "可敬",
+    "id": 2306
+  },
+  {
+    "word": "result",
+    "translate": "結果",
+    "id": 2307
+  },
+  {
+    "word": "rising",
+    "translate": "升起",
+    "id": 2308
+  },
+  {
+    "word": "roasted",
+    "translate": "烘培",
+    "id": 2309
+  },
+  {
+    "word": "roll",
+    "translate": "滾動",
+    "id": 2310
+  },
+  {
+    "word": "roughly",
+    "translate": "大致",
+    "id": 2311
+  },
+  {
+    "word": "ruin",
+    "translate": "廢墟",
+    "id": 2312
+  },
+  {
+    "word": "satisfy",
+    "translate": "滿足",
+    "id": 2313
+  },
+  {
+    "word": "scarce",
+    "translate": "缺乏",
+    "id": 2314
+  },
+  {
+    "word": "scatter",
+    "translate": "分散",
+    "id": 2315
+  },
+  {
+    "word": "sculpture",
+    "translate": "雕塑",
+    "id": 2316
+  },
+  {
+    "word": "security",
+    "translate": "安全",
+    "id": 2317
+  },
+  {
+    "word": "seize",
+    "translate": "把握",
+    "id": 2318
+  },
+  {
+    "word": "series",
+    "translate": "系列",
+    "id": 2319
+  },
+  {
+    "word": "shape",
+    "translate": "形狀",
+    "id": 2320
+  },
+  {
+    "word": "shelter",
+    "translate": "庇護",
+    "id": 2321
+  },
+  {
+    "word": "shocked",
+    "translate": "震驚",
+    "id": 2322
+  },
+  {
+    "word": "sign",
+    "translate": "標誌",
+    "id": 2323
+  },
+  {
+    "word": "similar",
+    "translate": "類似",
+    "id": 2324
+  },
+  {
+    "word": "sincerely",
+    "translate": "誠摯",
+    "id": 2325
+  },
+  {
+    "word": "sir",
+    "translate": "先生",
+    "id": 2326
+  },
+  {
+    "word": "situation",
+    "translate": "情況",
+    "id": 2327
+  },
+  {
+    "word": "sketch",
+    "translate": "素描",
+    "id": 2328
+  },
+  {
+    "word": "slightly",
+    "translate": "略有",
+    "id": 2329
+  },
+  {
+    "word": "social",
+    "translate": "社會的",
+    "id": 2330
+  },
+  {
+    "word": "somewhat",
+    "translate": "有些",
+    "id": 2331
+  },
+  {
+    "word": "spark",
+    "translate": "火花",
+    "id": 2332
+  },
+  {
+    "word": "specialize",
+    "translate": "專攻",
+    "id": 2333
+  },
+  {
+    "word": "spell",
+    "translate": "拼寫",
+    "id": 2334
+  },
+  {
+    "word": "spiritual",
+    "translate": "精神",
+    "id": 2335
+  },
+  {
+    "word": "splash",
+    "translate": "噴濺",
+    "id": 2336
+  },
+  {
+    "word": "spot",
+    "translate": "斑點",
+    "id": 2337
+  },
+  {
+    "word": "sprinkle",
+    "translate": "潑灑",
+    "id": 2338
+  },
+  {
+    "word": "stale",
+    "translate": "過時",
+    "id": 2339
+  },
+  {
+    "word": "state",
+    "translate": "州",
+    "id": 2340
+  },
+  {
+    "word": "strength",
+    "translate": "實力",
+    "id": 2341
+  },
+  {
+    "word": "struggle",
+    "translate": "鬥爭",
+    "id": 2342
+  },
+  {
+    "word": "superior",
+    "translate": "優越",
+    "id": 2343
+  },
+  {
+    "word": "suppose",
+    "translate": "猜想",
+    "id": 2344
+  },
+  {
+    "word": "surface",
+    "translate": "表面",
+    "id": 2345
+  },
+  {
+    "word": "survival",
+    "translate": "生存",
+    "id": 2346
+  },
+  {
+    "word": "suspicion",
+    "translate": "懷疑",
+    "id": 2347
+  },
+  {
+    "word": "symbolize",
+    "translate": "象徵",
+    "id": 2348
+  },
+  {
+    "word": "technically",
+    "translate": "技術上",
+    "id": 2349
+  },
+  {
+    "word": "technological",
+    "translate": "技術性",
+    "id": 2350
+  },
+  {
+    "word": "temporarily",
+    "translate": "暫時",
+    "id": 2351
+  },
+  {
+    "word": "thirst",
+    "translate": "口渴",
+    "id": 2352
+  },
+  {
+    "word": "tissue paper",
+    "translate": "面紙",
+    "id": 2353
+  },
+  {
+    "word": "toast",
+    "translate": "土司",
+    "id": 2354
+  },
+  {
+    "word": "tough",
+    "translate": "強硬",
+    "id": 2355
+  },
+  {
+    "word": "trade",
+    "translate": "貿易的",
+    "id": 2356
+  },
+  {
+    "word": "traffic",
+    "translate": "交通",
+    "id": 2357
+  },
+  {
+    "word": "transform",
+    "translate": "改造",
+    "id": 2358
+  },
+  {
+    "word": "traveler",
+    "translate": "旅客",
+    "id": 2359
+  },
+  {
+    "word": "trend",
+    "translate": "趨勢",
+    "id": 2360
+  },
+  {
+    "word": "triumph",
+    "translate": "勝利",
+    "id": 2361
+  },
+  {
+    "word": "tune in",
+    "translate": "在調",
+    "id": 2362
+  },
+  {
+    "word": "type",
+    "translate": "類型",
+    "id": 2363
+  },
+  {
+    "word": "undesirable",
+    "translate": "不良的",
+    "id": 2364
+  },
+  {
+    "word": "unfavorable",
+    "translate": "不利的",
+    "id": 2365
+  },
+  {
+    "word": "unpredictable",
+    "translate": "不可預知的",
+    "id": 2366
+  },
+  {
+    "word": "urban",
+    "translate": "城市的",
+    "id": 2367
+  },
+  {
+    "word": "variety",
+    "translate": "品種",
+    "id": 2368
+  },
+  {
+    "word": "vast",
+    "translate": "廣大",
+    "id": 2369
+  },
+  {
+    "word": "viral marketing",
+    "translate": "病毒式行銷",
+    "id": 2370
+  },
+  {
+    "word": "vision",
+    "translate": "視力",
+    "id": 2371
+  },
+  {
+    "word": "volunteer",
+    "translate": "志願者",
+    "id": 2372
+  },
+  {
+    "word": "whip up",
+    "translate": "掀起",
+    "id": 2373
+  },
+  {
+    "word": "wireless",
+    "translate": "無線",
+    "id": 2374
+  },
+  {
+    "word": "worthy",
+    "translate": "配稱",
+    "id": 2375
+  },
+  {
+    "word": "in charge of",
+    "translate": "主管、照料",
+    "id": 2376
+  },
+  {
+    "word": "as a matter of fact",
+    "translate": "事實上",
+    "id": 2377
+  },
+  {
+    "word": "be tied up",
+    "translate": "忙得不可開交的",
+    "id": 2378
+  },
+  {
+    "word": "run out of",
+    "translate": "用完",
+    "id": 2379
+  },
+  {
+    "word": "do away with",
+    "translate": "廢除、停止",
+    "id": 2380
+  },
+  {
+    "word": "make do with",
+    "translate": "措合一下",
+    "id": 2381
+  },
+  {
+    "word": "find fault with",
+    "translate": "找、的缺點",
+    "id": 2382
+  },
+  {
+    "word": "be superior to",
+    "translate": "較高的、上級的",
+    "id": 2383
+  },
+  {
+    "word": "be inferior to",
+    "translate": "低等的、下級的",
+    "id": 2384
+  },
+  {
+    "word": "be senior/junior to",
+    "translate": " 年長的、年紀較大/資淺的、地位較低的、晚輩的",
+    "id": 2385
+  },
+  {
+    "word": "at one's convenience",
+    "translate": "依某人方便",
+    "id": 2386
+  },
+  {
+    "word": "fit into",
+    "translate": "排入",
+    "id": 2387
+  },
+  {
+    "word": "get a discount",
+    "translate": "折扣",
+    "id": 2388
+  },
+  {
+    "word": "on ons's own",
+    "translate": "獨自",
+    "id": 2389
+  },
+  {
+    "word": "by oneself",
+    "translate": "獨自",
+    "id": 2390
+  },
+  {
+    "word": "come down with",
+    "translate": "感冒",
+    "id": 2391
+  },
+  {
+    "word": "gain momentum",
+    "translate": "起勁",
+    "id": 2392
+  },
+  {
+    "word": "be married to",
+    "translate": "與某人結婚",
+    "id": 2393
+  },
+  {
+    "word": "can not help",
+    "translate": "不得不",
+    "id": 2394
+  },
+  {
+    "word": "be used to",
+    "translate": "習慣於",
+    "id": 2395
+  },
+  {
+    "word": "get accustomed to",
+    "translate": "習慣於",
+    "id": 2396
+  },
+  {
+    "word": "look forward to",
+    "translate": "期待",
+    "id": 2397
+  },
+  {
+    "word": "take risks",
+    "translate": "冒險",
+    "id": 2398
+  },
+  {
+    "word": "be involved in",
+    "translate": "牽涉",
+    "id": 2399
+  },
+  {
+    "word": "be engaged in",
+    "translate": "從事",
+    "id": 2400
+  },
+  {
+    "word": "according to",
+    "translate": "根據",
+    "id": 2401
+  },
+  {
+    "word": "in spite of",
+    "translate": "儘管",
+    "id": 2402
+  },
+  {
+    "word": "by way of",
+    "translate": "經由",
+    "id": 2403
+  },
+  {
+    "word": "would rather",
+    "translate": "寧願",
+    "id": 2404
+  },
+  {
+    "word": "would sooner",
+    "translate": "寧願",
+    "id": 2405
+  },
+  {
+    "word": "had better",
+    "translate": "最好",
+    "id": 2406
+  },
+  {
+    "word": "subscribe to",
+    "translate": "認捐、捐助、訂閱、訂購",
+    "id": 2407
+  },
+  {
+    "word": "by cash",
+    "translate": "現金",
+    "id": 2408
+  },
+  {
+    "word": "by check",
+    "translate": "支票",
+    "id": 2409
+  },
+  {
+    "word": "by credit",
+    "translate": "card 信用卡 ",
+    "id": 2410
+  },
+  {
+    "word": "by money",
+    "translate": "order 匯票 ",
+    "id": 2411
+  },
+  {
+    "word": "by installment",
+    "translate": "分期伏款 ",
+    "id": 2412
+  },
+  {
+    "word": "by mail",
+    "translate": "郵寄",
+    "id": 2413
+  },
+  {
+    "word": "on behalf of",
+    "translate": "代表",
+    "id": 2414
+  },
+  {
+    "word": "run into",
+    "translate": "偶遇；碰上",
+    "id": 2415
+  },
+  {
+    "word": "in light of",
+    "translate": "按照；根據",
+    "id": 2416
+  },
+  {
+    "word": "on and off",
+    "translate": "斷斷續續的；偶爾；有時",
+    "id": 2417
+  },
+  {
+    "word": "a handful of people",
+    "translate": "少數的人",
+    "id": 2418
+  },
+  {
+    "word": "adjacent to",
+    "translate": "與⋯⋯臨近",
+    "id": 2419
+  },
+  {
+    "word": "put on airs",
+    "translate": "擺架子",
+    "id": 2420
+  },
+  {
+    "word": "discharge from hospital",
+    "translate": "出院",
+    "id": 2421
+  },
+  {
+    "word": "halt buses and subway all day",
+    "translate": "使公車地鐵一天停止",
+    "id": 2422
+  },
+  {
+    "word": "make a rule of doing sth.",
+    "translate": "形成⋯⋯習慣",
+    "id": 2423
+  },
+  {
+    "word": "take a hard line with",
+    "translate": "強權策略",
+    "id": 2424
+  },
+  {
+    "word": "take steps to do",
+    "translate": "著手落實",
+    "id": 2425
+  },
+  {
+    "word": "pertaining to",
+    "translate": "適合，合宜，關於",
+    "id": 2426
+  },
+  {
+    "word": "a panorama of",
+    "translate": "齊全，品種繁多",
+    "id": 2427
+  },
+  {
+    "word": "at one's fingertips",
+    "translate": "在手頭，目前",
+    "id": 2428
+  },
+  {
+    "word": "phase sth. out",
+    "translate": "逐步廢止",
+    "id": 2429
+  },
+  {
+    "word": "have/take title to",
+    "translate": "有⋯⋯特權",
+    "id": 2430
+  },
+  {
+    "word": "a game of cat and mouse",
+    "translate": "貓捉老鼠遊戲",
+    "id": 2431
+  },
+  {
+    "word": "a leap of faith",
+    "translate": "放手一搏",
+    "id": 2432
+  },
+  {
+    "word": "become/to be consumed with",
+    "translate": "被～吞噬",
+    "id": 2433
+  },
+  {
+    "word": "give credit to sb.",
+    "translate": "相信～",
+    "id": 2434
+  },
+  {
+    "word": "bring sth. to life",
+    "translate": "使～更生動",
+    "id": 2435
+  },
+  {
+    "word": "care for sb.",
+    "translate": "關心",
+    "id": 2436
+  },
+  {
+    "word": "come in handy",
+    "translate": "派上用場",
+    "id": 2437
+  },
+  {
+    "word": "count on",
+    "translate": "指望",
+    "id": 2438
+  },
+  {
+    "word": "feast for sb./sth.",
+    "translate": "盛宴",
+    "id": 2439
+  },
+  {
+    "word": "float sb.'s boat",
+    "translate": "引起～興趣",
+    "id": 2440
+  },
+  {
+    "word": "hook sb. in",
+    "translate": "拉攏～",
+    "id": 2441
+  },
+  {
+    "word": "in a good/bad mood",
+    "translate": "心情好/壞",
+    "id": 2442
+  },
+  {
+    "word": "let sb. in on sth.",
+    "translate": "告訴～有關～",
+    "id": 2443
+  },
+  {
+    "word": "out of date",
+    "translate": "過時了",
+    "id": 2444
+  },
+  {
+    "word": "poke fun at/of",
+    "translate": "嘲笑",
+    "id": 2445
+  },
+  {
+    "word": "To top it all off",
+    "translate": "最糟糕的是",
+    "id": 2446
+  },
+  {
+    "word": "turn the tide",
+    "translate": "力挽狂瀾",
+    "id": 2447
+  },
+  {
+    "word": "come into play",
+    "translate": "發揮作用",
+    "id": 2448
+  },
+  {
+    "word": "everything in between",
+    "translate": "介於兩者之間",
+    "id": 2449
+  },
+  {
+    "word": "feel at home",
+    "translate": "賓至如歸",
+    "id": 2450
+  },
+  {
+    "word": "hang your hat",
+    "translate": "告訴你一個號外",
+    "id": 2451
+  },
+  {
+    "word": "in addition to",
+    "translate": "除了",
+    "id": 2452
+  },
+  {
+    "word": "instead of",
+    "translate": "而不是",
+    "id": 2453
+  },
+  {
+    "word": "on top of that",
+    "translate": "最重要的是",
+    "id": 2454
+  },
+  {
+    "word": "put sth. into motion",
+    "translate": "發動～",
+    "id": 2455
+  },
+  {
+    "word": "relate to",
+    "translate": "涉及到",
+    "id": 2456
+  },
+  {
+    "word": "take for granted",
+    "translate": "理所當然的",
+    "id": 2457
+  },
+  {
+    "word": "word of mouth",
+    "translate": "口耳相傳",
+    "id": 2458
+  }
+]
