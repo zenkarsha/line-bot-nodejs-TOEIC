@@ -430,8 +430,8 @@
     "id": 86
   },
   {
-    "word": "vending",
-    "translate": "machine 自動販賣機",
+    "word": "vending machine",
+    "translate": "自動販賣機",
     "id": 87
   },
   {
@@ -510,8 +510,8 @@
     "id": 102
   },
   {
-    "word": "share",
-    "translate": "price 股價",
+    "word": "share price",
+    "translate": "股價",
     "id": 103
   },
   {
@@ -700,8 +700,8 @@
     "id": 140
   },
   {
-    "word": "keynote",
-    "translate": "address 政黨的基本政策演說",
+    "word": "keynote address",
+    "translate": "政黨的基本政策演說",
     "id": 141
   },
   {
@@ -910,8 +910,8 @@
     "id": 182
   },
   {
-    "word": "put",
-    "translate": "off 延期",
+    "word": "put off",
+    "translate": "延期",
     "id": 183
   },
   {
@@ -2575,8 +2575,8 @@
     "id": 515
   },
   {
-    "word": "automated teller",
-    "translate": "machine 自動提款機(ATM)",
+    "word": "automated teller machine",
+    "translate": "自動提款機(ATM)",
     "id": 516
   },
   {
@@ -2680,8 +2680,8 @@
     "id": 536
   },
   {
-    "word": "desktop video",
-    "translate": "conference 桌面視頻會議",
+    "word": "desktop video conference",
+    "translate": "桌面視頻會議",
     "id": 537
   },
   {
@@ -6330,8 +6330,8 @@
     "id": 1266
   },
   {
-    "word": "intensive care",
-    "translate": "unit 加護病房",
+    "word": "intensive care unit",
+    "translate": "加護病房",
     "id": 1267
   },
   {
@@ -7946,7 +7946,7 @@
   },
   {
     "word": "CEO",
-    "translate": "執行長(Chief Executive Officer) ",
+    "translate": "執行長(Chief Executive Officer)",
     "id": 1590
   },
   {
@@ -12045,18 +12045,18 @@
     "id": 2409
   },
   {
-    "word": "by credit",
-    "translate": "card 信用卡 ",
+    "word": "by credit card",
+    "translate": "信用卡",
     "id": 2410
   },
   {
-    "word": "by money",
-    "translate": "order 匯票 ",
+    "word": "by money order",
+    "translate": "匯票",
     "id": 2411
   },
   {
     "word": "by installment",
-    "translate": "分期伏款 ",
+    "translate": "分期伏款",
     "id": 2412
   },
   {
